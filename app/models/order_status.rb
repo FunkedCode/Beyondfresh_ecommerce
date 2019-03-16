@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class OrderStatus < ApplicationRecord
-  belongs_to :order
+  has_many :order
 end

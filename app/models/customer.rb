@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Customer < ApplicationRecord
-  belongs_to :order
+  has_many :order
 end

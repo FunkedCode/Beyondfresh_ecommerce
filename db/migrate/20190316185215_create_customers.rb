@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class CreateCustomers < ActiveRecord::Migration[5.2]
   def change
     create_table :customers do |t|
@@ -6,7 +8,6 @@ class CreateCustomers < ActiveRecord::Migration[5.2]
       t.string :user_name
       t.text :salt
       t.text :hash
-      t.references :order, foreign_key: true
 
       t.timestamps
     end
