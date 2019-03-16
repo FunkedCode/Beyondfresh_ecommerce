@@ -17,6 +17,8 @@
 /storage/*
 !/storage/.keep
 
+/json/*
+
 /node_modules
 /yarn-error.log
 
@@ -32,3 +34,4 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
