@@ -70,3 +70,6 @@ gem 'unirest'
 
 gem 'activeadmin'
 gem 'devise'
+
+gem 'carrierwave'
+gem 'mini_magick'
