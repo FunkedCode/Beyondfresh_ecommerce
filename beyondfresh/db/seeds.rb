@@ -39,3 +39,4 @@ Dir.foreach('json') do |json_file|
     pp new_product.categories
   end
 end
+AdminUser.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?
