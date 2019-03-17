@@ -15,7 +15,7 @@ ActiveRecord::Schema.define(version: 2019_03_16_184910) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "attributes", force: :cascade do |t|
+  create_table "categories", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
@@ -62,16 +62,16 @@ ActiveRecord::Schema.define(version: 2019_03_16_184910) do
     t.index ["order_status_id"], name: "index_orders_on_order_status_id"
   end
 
-  create_table "product_attributes", force: :cascade do |t|
+  create_table "product_categories", force: :cascade do |t|
     t.string "product_name"
     t.integer "qty"
     t.text "notes"
     t.bigint "product_id"
-    t.bigint "attribute_id"
+    t.bigint "category_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["attribute_id"], name: "index_product_attributes_on_attribute_id"
-    t.index ["product_id"], name: "index_product_attributes_on_product_id"
+    t.index ["category_id"], name: "index_product_categories_on_category_id"
+    t.index ["product_id"], name: "index_product_categories_on_product_id"
   end
 
   create_table "products", force: :cascade do |t|
@@ -79,7 +79,7 @@ ActiveRecord::Schema.define(version: 2019_03_16_184910) do
     t.decimal "price"
     t.text "description"
     t.string "image"
-    t.decimal "serving_size"
+    t.string "serving_size"
     t.text "ingredient_list"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
@@ -89,6 +89,6 @@ ActiveRecord::Schema.define(version: 2019_03_16_184910) do
   add_foreign_key "order_products", "products", column: "products_id"
   add_foreign_key "orders", "customers"
   add_foreign_key "orders", "order_statuses"
-  add_foreign_key "product_attributes", "attributes"
-  add_foreign_key "product_attributes", "products"
+  add_foreign_key "product_categories", "categories"
+  add_foreign_key "product_categories", "products"
 end
