@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-class CreateAttributes < ActiveRecord::Migration[5.2]
+class CreateCategories < ActiveRecord::Migration[5.2]
   def change
-    create_table :attributes do |t|
+    create_table :categories do |t|
       t.string :name
 
       t.timestamps
