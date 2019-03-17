@@ -1,4 +1,6 @@
+# frozen_string_literal: true
+
 class Product < ApplicationRecord
-  belongs_to :order_product
-  belongs_to :product_attribute
+  has_many :order_product
+  has_many :product_attribute
 end

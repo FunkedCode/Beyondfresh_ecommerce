@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-class CreateAttributes < ActiveRecord::Migration[5.2]
+class CreateOrderStatuses < ActiveRecord::Migration[5.2]
   def change
-    create_table :attributes do |t|
+    create_table :order_statuses do |t|
       t.string :name
 
       t.timestamps
