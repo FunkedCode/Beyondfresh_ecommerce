@@ -71,5 +71,5 @@ gem 'unirest'
 gem 'activeadmin'
 gem 'devise'
 
-gem 'carrierwave'
-gem 'mini_magick'
+gem 'haml-rails'
+gem "bulma-rails"
