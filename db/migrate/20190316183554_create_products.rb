@@ -6,7 +6,6 @@ class CreateProducts < ActiveRecord::Migration[5.2]
       t.string :title
       t.decimal :price
       t.text :description
-      t.string :image
       t.string :serving_size
       t.text :ingredient_list
 

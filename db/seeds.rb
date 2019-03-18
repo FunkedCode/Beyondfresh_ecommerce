@@ -18,7 +18,6 @@ Dir.foreach('json') do |json_file|
     new_product = Product.create(title: product_json['title'],
                                  price: Faker::Commerce.price(range = 0..30.0),
                                  description: product_json['generatedText'],
-                                 image: product_json['images'][0],
                                  serving_size: product_json['serving_size'],
                                  ingredient_list: product_json['ingredientList'])
     pp new_product.errors if new_product.errors.count > 0
@@ -39,4 +38,3 @@ Dir.foreach('json') do |json_file|
     pp new_product.categories
   end
 end
-AdminUser.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?
