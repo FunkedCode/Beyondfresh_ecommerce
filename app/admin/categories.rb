@@ -4,7 +4,7 @@ ActiveAdmin.register Category do
   # See permitted parameters documentation:
   # https://github.com/activeadmin/activeadmin/blob/master/docs/2-resource-customization.md#setting-up-strong-parameters
   #
-  permit_params :name, :id
+  permit_params :name, :id, :is_main_category, :parent_id, product_ids: []
   #
   # or
   #
@@ -13,4 +13,5 @@ ActiveAdmin.register Category do
   #   permitted << :other if params[:action] == 'create' && current_user.admin?
   #   permitted
   # end
+  form partial: 'form'
 end
