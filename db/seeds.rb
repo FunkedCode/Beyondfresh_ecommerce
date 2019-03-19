@@ -22,8 +22,11 @@ Dir.foreach('json') do |json_file|
                                  ingredient_list: product_json['ingredientList'])
     pp new_product.errors if new_product.errors.count > 0
 
+    crumb_count = 1
+
     product_json['breadcrumbs'].each do |attribute|
-      category = Category.find_or_create_by(name: attribute)
+      is_main_category = product_json['breadcrumbs'].count == crumb_count
+      category = Category.find_or_create_by(name: attribute, is_main_category: is_main_category)
 
       new_product_category = category.product_categories.new(product_name: new_product.title,
                                                              qty: new_product.product_categories.count + 1,
@@ -33,8 +36,11 @@ Dir.foreach('json') do |json_file|
       new_product_category.save
 
       pp new_product_category.errors if new_product_category.errors.count > 0
+
+      pp "#{crumb_count} loop count"
+      pp product_json['breadcrumbs'].count
+      crumb_count += 1
     end
 
-    pp new_product.categories
   end
 end
