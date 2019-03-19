@@ -14,6 +14,10 @@
                  <div class="card-content">
                     <h3><%= product.title%></h3>
                     <strong>$<%= product.price%></strong>
+                    <br>
+                    <% product.categories.each do |category| %>
+                        <%= link_to "# #{category.name}", category, class:'tag is-primary' %>
+                    <% end%>
                  </div>
             </div>
         </div>

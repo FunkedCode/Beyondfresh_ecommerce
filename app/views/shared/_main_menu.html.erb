@@ -21,9 +21,11 @@
         <div class="navbar-item has-dropdown is-hoverable">
           <%= link_to 'Products', products_path,class: 'navbar-link margin-medium'  %>
         <div class="navbar-dropdown">
-          <% Category.all.each do |category| %>
-            <%= link_to category.products do  %>
-              <p><%= category.name %></p>
+          <% count=0; Category.all.each do |category| %>
+            <%= link_to category.name, category,class: 'navbar-item'  %>
+            <% count = count + 1%>
+            <% if count > 3%>
+
             <% end %>
           <%end %>
         </div>
