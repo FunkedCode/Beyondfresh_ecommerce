@@ -7,7 +7,7 @@ class CreateCustomers < ActiveRecord::Migration[5.2]
       t.string :last_name
       t.string :user_name
       t.text :salt
-      t.text :hash
+      t.text :encrypted_password
 
       t.timestamps
     end

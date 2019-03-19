@@ -75,7 +75,7 @@ ActiveRecord::Schema.define(version: 2019_03_17_220905) do
     t.string "last_name"
     t.string "user_name"
     t.text "salt"
-    t.text "hash"
+    t.text "encrypted_password"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
