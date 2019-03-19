@@ -15,8 +15,12 @@
                     <h3><%= product.title%></h3>
                     <strong>$<%= product.price%></strong>
                     <br>
-                    <% product.categories.each do |category| %>
-                        <%= link_to "# #{category.name}", category, class:'tag is-primary' %>
+                    <% product.categories.order('is_main_category DESC').each do |category| %>
+                        <% if category.is_main_category%>
+                            <%= link_to "# #{category.name}", category, class:'tag is-light is-medium' %>
+                        <% else%>
+                            <%= link_to "# #{category.name}", category, class:'tag is-dark' %>
+                        <%end %>
                     <% end%>
                  </div>
             </div>
