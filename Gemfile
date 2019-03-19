@@ -69,7 +69,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'unirest'
 
 gem 'activeadmin'
+gem 'arctic_admin'
 gem 'devise'
+gem "font-awesome-rails"
 
 gem 'haml-rails'
 gem "bulma-rails"
