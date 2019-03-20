@@ -11,6 +11,7 @@
         <!-- <%= link_to root_path do %>
         <figure class="image is-96x96"><%= image_tag(image_url("logo.png"),alt: 'logo') %></figure>
         <% end %>-->
+        <img v-bind:src="logo">
         <a
           role="button"
           class="navbar-burger burger"
@@ -33,10 +34,8 @@
       >
         <div class="navbar-start">
           <div class="navbar-item has-dropdown is-hoverable">
-            <!-- <%= link_to 'Products', products_path,class: 'navbar-link margin-medium' %> -->
             <a class="navbar-link margin-medium'">Products</a>
             <div class="navbar-dropdown">
-              <!-- <% Category.where(is_main_category: true).each do |category| %> -->
               <a
                 class="navbar-link is-hoverable"
                 v-for="(category,index) in catagories"
@@ -71,19 +70,21 @@ export default {
       catagories: []
     };
   },
+  computed: {
+    logo() {
+      return require("../assets/images/logo.png");
+    }
+  },
   methods: {},
   created: async function() {
     try {
       this.catagories = await Api.getCategories();
-      console.log(this.catagories);
-      console.log("test");
     } catch (httpError) {
       console.log(httpError);
-      console.log("test2");
     }
   },
   beforeCreate() {
-    console.log("Nothing gets called before me!");
+    // console.log("Nothing gets called before me!");
   }
   //   mounted: function() {
   //     // Get all "navbar-burger" elements
