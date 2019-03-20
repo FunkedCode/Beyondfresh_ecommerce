@@ -1,16 +1,12 @@
+import TurbolinksAdapter from "vue-turbolinks";
 import Vue from "vue";
-import Buefy from "buefy";
-import "buefy/dist/buefy.css";
-import App from "../app.vue";
+import Nav from "../menu.vue";
 
-Vue.use(Buefy);
+Vue.use(TurbolinksAdapter);
 
-document.addEventListener("DOMContentLoaded", () => {
-  const el = document.body.appendChild(document.createElement("hello"));
-  const app = new Vue({
-    el,
-    render: h => h(App)
-  });
-
-  console.log(app);
+document.addEventListener("turbolinks:load", () => {
+  const el = document.getElementById("menu");
+  if (el != null) {
+    const app = new Vue({ el, render: h => h(Nav) });
+  }
 });

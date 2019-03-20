@@ -11,11 +11,12 @@
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
 
     <%= javascript_pack_tag 'application' %>
+    <%= javascript_pack_tag 'menu.js'%>
   </head>
 
   <body>
 
-    <%= render "shared/main_menu" %>
+    <div id="menu"></div>
     <%= yield %>
   </body>
 </html>
