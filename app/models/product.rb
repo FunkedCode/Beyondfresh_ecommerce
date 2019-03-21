@@ -8,4 +8,6 @@ class Product < ApplicationRecord
   has_one_attached :image
 
   validates :title, :price, :ingredient_list, presence: true
+
+  paginates_per 30
 end
