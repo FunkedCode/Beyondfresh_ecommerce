@@ -75,3 +75,4 @@ gem "font-awesome-rails"
 
 gem 'haml-rails'
 gem "bulma-rails"
+gem "mini_magick"

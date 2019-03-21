@@ -3,6 +3,7 @@
 require 'json'
 require 'pp'
 require 'faker'
+require 'open-uri'
 
 ProductCategory.destroy_all
 Category.destroy_all
@@ -15,11 +16,18 @@ Dir.foreach('json') do |json_file|
 
     price = product_json['price'] == 0.0 ? 1.0 : product_json['price']
 
-    new_product = Product.create(title: product_json['title'],
-                                 price: Faker::Commerce.price(range = 0..30.0),
-                                 description: product_json['generatedText'],
-                                 serving_size: product_json['serving_size'],
-                                 ingredient_list: product_json['ingredientList'])
+    file = open(product_json['images'][1])
+
+    new_product = Product.new(title: product_json['title'],
+                              price: Faker::Commerce.price(range = 0..12.0),
+                              description: product_json['generatedText'],
+                              serving_size: product_json['serving_size'],
+                              ingredient_list: product_json['ingredientList'],
+                              image: file)
+
+    new_product.image.attach(io: file, filename: "temp.#{file.content_type_parse.first.split('/').last}", content_type: file.content_type_parse.first)
+    new_product.save
+    sleep(rand(10))
     pp new_product.errors if new_product.errors.count > 0
 
     crumb_count = 1
