@@ -3,7 +3,7 @@
 <template>
   <div id="menu">
     <nav
-      class="navbar is-fixed"
+      class="navbar is-fixed-top box-shadow"
       role="navigation"
       aria-label="main navigation"
     >
@@ -12,19 +12,19 @@
         <figure class="image is-96x96"><%= image_tag(image_url("logo.png"),alt: 'logo') %></figure>
         <% end %>-->
         <img v-bind:src="logo">
-        <a
-          role="button"
-          class="navbar-burger burger"
-          aria-label="menu"
-          aria-expanded="false"
-          data-target="navbar"
-          @click="showHam = !showHam"
-          :class="{'is-active':showHam}"
-        >
-          <span aria-hidden="true"></span>
-          <span aria-hidden="true"></span>
-          <span aria-hidden="true"></span>
-        </a>
+      </div>
+      <div
+        class="navbar-burger burger"
+        role="button"
+        aria-label="menu"
+        aria-expanded="false"
+        data-target="navbar"
+        @click="showHam = !showHam"
+        :class="{'is-active':showHam}"
+      >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
       </div>
 
       <div
@@ -37,7 +37,7 @@
             <a class="navbar-link margin-medium'">Products</a>
             <div class="navbar-dropdown">
               <a
-                class="navbar-link is-hoverable"
+                class="navbar-item is-hoverable"
                 v-for="(category,index) in catagories"
                 :key="index"
                 v-if="category.is_main_category"

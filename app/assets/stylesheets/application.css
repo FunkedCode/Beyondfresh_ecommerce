@@ -17,3 +17,24 @@
  @import 'buefy';
 
 
+ .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+ }
+
+ .card-image{
+    margin-bottom: auto;
+ }
+ .card-content{
+     margin-top: auto;
+ }
+
+ .navbar{
+    padding: 2px;
+    box-shadow:rgba(0, 0, 0, 0.117647) 0px 1px 3px;
+ }
+
+ .container{
+    margin: 70px;
+ }
