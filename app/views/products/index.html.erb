@@ -1,6 +1,7 @@
 <div class="columns">
     <% count=0; @products.each do |product| %>
         <div class="column">
+        <%= link_to product do %>
             <div class="card">
                 <div class="card-image">
                     <figure class="image is-4by3">
@@ -24,6 +25,7 @@
                     <% end%>
                  </div>
             </div>
+            <%end%>
         </div>
         <% count = count + 1%>
         <% if count > 3 %>

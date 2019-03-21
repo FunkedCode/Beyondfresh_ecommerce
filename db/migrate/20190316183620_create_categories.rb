@@ -5,6 +5,7 @@ class CreateCategories < ActiveRecord::Migration[5.2]
     create_table :categories do |t|
       t.string :name
       t.boolean :is_main_category
+      t.integer :parent_id
 
       t.timestamps
     end
