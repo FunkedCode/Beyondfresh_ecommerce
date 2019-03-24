@@ -49,10 +49,16 @@
         <div class="navbar-end">
           <div class="navbar-item">
             <div class="buttons">
-              <a class="button is-primary">
+              <a
+                class="button is-primary"
+                href="/sign_up"
+              >
                 <strong>Sign up</strong>
               </a>
-              <a class="button is-light">Log in</a>
+              <a
+                class="button is-light"
+                href="/sign_in"
+              >Log in</a>
             </div>
           </div>
         </div>
