@@ -82,14 +82,14 @@ export default {
     }
   },
   methods: {},
-  created: async function() {
+  beforeCreate: async function() {
     try {
       this.catagories = await Api.getCategories();
     } catch (httpError) {
       console.log(httpError);
     }
   },
-  beforeCreate() {
+  created() {
     // console.log("Nothing gets called before me!");
   }
 };

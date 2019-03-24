@@ -7,5 +7,5 @@ class Customer < ApplicationRecord
          :recoverable, :rememberable, :validatable
   has_many :orders
 
-  # validates :first_name, :last_name, :encrypted_password, presence: true
+  validates :first_name, :last_name, presence: true
 end
