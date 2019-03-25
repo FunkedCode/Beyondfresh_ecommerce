@@ -16,7 +16,7 @@ Dir.foreach('json') do |json_file|
 
     price = product_json['price'] == 0.0 ? 1.0 : product_json['price']
 
-    file = open(product_json['images'][1])
+    # file = open(product_json['images'][1])
 
     new_product = Product.new(title: product_json['title'],
                               price: Faker::Commerce.price(range = 0..12.0),
@@ -25,9 +25,9 @@ Dir.foreach('json') do |json_file|
                               ingredient_list: product_json['ingredientList'],
                               image: file)
 
-    new_product.image.attach(io: file, filename: "temp.#{file.content_type_parse.first.split('/').last}", content_type: file.content_type_parse.first)
-    new_product.save
-    sleep(rand(10))
+    # new_product.image.attach(io: file, filename: "temp.#{file.content_type_parse.first.split('/').last}", content_type: file.content_type_parse.first)
+    # new_product.save
+    # sleep(rand(10))
     pp new_product.errors if new_product.errors.count > 0
 
     crumb_count = 1

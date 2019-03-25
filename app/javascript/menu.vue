@@ -8,9 +8,6 @@
       aria-label="main navigation"
     >
       <div class="navbar-brand">
-        <!-- <%= link_to root_path do %>
-        <figure class="image is-96x96"><%= image_tag(image_url("logo.png"),alt: 'logo') %></figure>
-        <% end %>-->
         <img v-bind:src="logo">
       </div>
       <div
@@ -49,10 +46,16 @@
         <div class="navbar-end">
           <div class="navbar-item">
             <div class="buttons">
-              <a class="button is-primary">
+              <a
+                class="button is-primary"
+                href="/sign_up"
+              >
                 <strong>Sign up</strong>
               </a>
-              <a class="button is-light">Log in</a>
+              <a
+                class="button is-light"
+                href="/sign_in"
+              >Log in</a>
             </div>
           </div>
         </div>
@@ -76,14 +79,14 @@ export default {
     }
   },
   methods: {},
-  created: async function() {
+  beforeCreate: async function() {
     try {
       this.catagories = await Api.getCategories();
     } catch (httpError) {
       console.log(httpError);
     }
   },
-  beforeCreate() {
+  created() {
     // console.log("Nothing gets called before me!");
   }
 };
