@@ -25,9 +25,7 @@
                         <%end %>
                     <% end%>
                  </div>
-                 <footer class="card-footer">
-                    <a href="#" class="card-footer-item">Add to cart</a>
-                </footer>
+                 <div class='add_to_cart'></div>
             </div>
             <%end%>
         </div>
@@ -39,4 +37,5 @@
         <%end%>
     <%end%>
 </div>
+<%= javascript_pack_tag 'add_to_cart.js'%>
 <%= paginate @products %>
