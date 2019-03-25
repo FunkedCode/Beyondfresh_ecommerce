@@ -8,9 +8,6 @@
       aria-label="main navigation"
     >
       <div class="navbar-brand">
-        <!-- <%= link_to root_path do %>
-        <figure class="image is-96x96"><%= image_tag(image_url("logo.png"),alt: 'logo') %></figure>
-        <% end %>-->
         <img v-bind:src="logo">
       </div>
       <div
