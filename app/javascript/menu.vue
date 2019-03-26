@@ -3,7 +3,7 @@
 <template>
   <div id="menu">
     <nav
-      class="navbar is-fixed-top box-shadow"
+      class="navbar is-fixed-top"
       role="navigation"
       aria-label="main navigation"
     >

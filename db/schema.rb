@@ -89,12 +89,12 @@ ActiveRecord::Schema.define(version: 2019_03_24_202611) do
     t.decimal "total_price"
     t.integer "qty"
     t.decimal "unit_price"
-    t.bigint "orders_id"
-    t.bigint "products_id"
+    t.bigint "order_id"
+    t.bigint "product_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
-    t.index ["orders_id"], name: "index_order_products_on_orders_id"
-    t.index ["products_id"], name: "index_order_products_on_products_id"
+    t.index ["order_id"], name: "index_order_products_on_order_id"
+    t.index ["product_id"], name: "index_order_products_on_product_id"
   end
 
   create_table "order_statuses", force: :cascade do |t|
@@ -139,8 +139,8 @@ ActiveRecord::Schema.define(version: 2019_03_24_202611) do
   end
 
   add_foreign_key "active_storage_attachments", "active_storage_blobs", column: "blob_id"
-  add_foreign_key "order_products", "orders", column: "orders_id"
-  add_foreign_key "order_products", "products", column: "products_id"
+  add_foreign_key "order_products", "orders"
+  add_foreign_key "order_products", "products"
   add_foreign_key "orders", "customers"
   add_foreign_key "orders", "order_statuses"
   add_foreign_key "product_categories", "categories"
