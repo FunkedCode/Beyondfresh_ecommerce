@@ -77,4 +77,5 @@ gem 'haml-rails'
 gem "bulma-rails"
 gem "mini_magick"
 gem 'kaminari'
+gem 'jquery-rails'
 

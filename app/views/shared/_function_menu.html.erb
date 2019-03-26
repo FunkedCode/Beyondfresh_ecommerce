@@ -4,7 +4,7 @@
     <div class="navbar-start is-active">
     </div>
     <div class="navbar-end is-active">
-      <%= link_to "#{current_order.order_products.size} Items in Cart ( #{number_to_currency current_order.subtotal} )", cart_path, class: "button is-link" %>
+      <h1 class="cart-text"><%= render 'layouts/cart_progress' %></h1>
     </div>
   </div>
 </nav>

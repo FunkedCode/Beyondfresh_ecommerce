@@ -3,10 +3,10 @@
 class Order < ApplicationRecord
   has_many :order_products
   belongs_to :order_status
-  belongs_to :customer
-  validates :tax, :shipping, :sub_total, :total, presence: true
+  # belongs_to :customer
+  # validates :tax, :shipping, :sub_total, :total, presence: true
 
-  before_create :set_order_status
+  before_validation :set_order_status
   before_save :update_subtotal
 
   def subtotal

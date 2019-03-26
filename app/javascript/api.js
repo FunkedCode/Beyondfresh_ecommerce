@@ -26,13 +26,6 @@ const api = {
 
     api.checkResponse(response, 200);
     return response.json();
-  },
-  getCartItems: async function() {
-    const response = await fetch("http://localhost:3000/orders.json");
-    console.log(response);
-
-    api.checkResponse(response, 200);
-    return response.json();
   }
 };
 

@@ -4,6 +4,8 @@ class OrderProductsController < ApplicationController
   def create
     @order = current_order
     @order_product = @order.order_products.new(order_product_params)
+    @order.tax = 0.12
+    @order.shipping = 2.00
     @order.save
     session[:order_id] = @order.id
   end
@@ -24,7 +26,7 @@ class OrderProductsController < ApplicationController
 
   private
 
-  def order_products_params
-    params.require(:order_product).permit(:qty, :product_id)
+  def order_product_params
+    params.require(:order_product).permit(:qty, :product_id, :unit_price)
   end
 end

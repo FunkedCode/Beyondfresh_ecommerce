@@ -25,7 +25,17 @@
                         <%end %>
                     <% end%>
                  </div>
-                 <div class='add_to_cart'></div>
+                 <footer class="card-footer">
+                    <%= form_for @order_product, remote: true do |f| %>
+                    <div class="input-group">
+                        <%= f.number_field :qty, value: 1, class: "form-control", min: 1 %>
+                        <div class="input-group-btn">
+                            <%= f.hidden_field :product_id, value: product.id %>
+                            <%= f.submit "Add to Cart", class: "button" %>
+                        </div>
+                    </div>
+                    <% end %>
+                </footer>
             </div>
             <%end%>
         </div>
@@ -37,5 +47,4 @@
         <%end%>
     <%end%>
 </div>
-<%= javascript_pack_tag 'add_to_cart.js'%>
 <%= paginate @products %>
