@@ -5,9 +5,17 @@ require 'pp'
 require 'faker'
 require 'open-uri'
 
+OrderProduct.destroy_all
+Order.destroy_all
 ProductCategory.destroy_all
 Category.destroy_all
 Product.destroy_all
+OrderStatus.destroy_all
+
+OrderStatus.create! id: 1, name: 'In Progress'
+OrderStatus.create! id: 2, name: 'Placed'
+OrderStatus.create! id: 3, name: 'Shipped'
+OrderStatus.create! id: 4, name: 'Cancelled'
 
 Dir.foreach('json') do |json_file|
   if json_file.include? '.json'
@@ -16,7 +24,12 @@ Dir.foreach('json') do |json_file|
 
     price = product_json['price'] == 0.0 ? 1.0 : product_json['price']
 
-    # file = open(product_json['images'][1])
+    file_found = true
+    begin
+      file = open(product_json['images'][1])
+    rescue Net::OpenTimeout
+      file_found = false
+    end
 
     new_product = Product.new(title: product_json['title'],
                               price: Faker::Commerce.price(range = 0..12.0),
@@ -25,9 +38,12 @@ Dir.foreach('json') do |json_file|
                               ingredient_list: product_json['ingredientList'],
                               image: file)
 
-    # new_product.image.attach(io: file, filename: "temp.#{file.content_type_parse.first.split('/').last}", content_type: file.content_type_parse.first)
-    # new_product.save
-    # sleep(rand(10))
+    if file_found
+      new_product.image.attach(io: file, filename: "temp.#{file.content_type_parse.first.split('/').last}", content_type: file.content_type_parse.first)
+      new_product.save
+      sleep(rand(10))
+    end
+
     pp new_product.errors if new_product.errors.count > 0
 
     crumb_count = 1
@@ -59,11 +75,5 @@ Dir.foreach('json') do |json_file|
 
   end
 end
-
-OrderStatus.delete_all
-OrderStatus.create! id: 1, name: 'In Progress'
-OrderStatus.create! id: 2, name: 'Placed'
-OrderStatus.create! id: 3, name: 'Shipped'
-OrderStatus.create! id: 4, name: 'Cancelled'
 
 AdminUser.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password')
