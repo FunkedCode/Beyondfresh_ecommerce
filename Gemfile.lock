@@ -70,6 +70,7 @@ GEM
     bootsnap (1.4.1)
       msgpack (~> 1.0)
     builder (3.2.3)
+    bulma-extensions-rails (1.0.30)
     bulma-rails (0.7.4)
       sass (~> 3.5)
     byebug (11.0.0)
@@ -317,6 +318,7 @@ DEPENDENCIES
   activeadmin
   arctic_admin
   bootsnap (>= 1.1.0)
+  bulma-extensions-rails
   bulma-rails
   byebug
   capybara (>= 2.15)

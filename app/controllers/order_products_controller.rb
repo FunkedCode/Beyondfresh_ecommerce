@@ -15,6 +15,7 @@ class OrderProductsController < ApplicationController
     @order_product = @order.order_products.find(params[:id])
     @order_product.update_attributes(order_product_params)
     @order_products = @order.order_products
+    @order.save
    end
 
   def destroy
@@ -22,6 +23,7 @@ class OrderProductsController < ApplicationController
     @order_product = @order.order_products.find(params[:id])
     @order_product.destroy
     @order_products = @order.order_products
+    @order.save
   end
 
   private

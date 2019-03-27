@@ -1,0 +1,59 @@
+<div class = "container">
+    <div class="columns">
+        <div class="box column is-three-fifths main-box">
+            <div class="content">
+                <h2>YOUR CART</h2>
+                <div>
+                    <% unless current_order.nil? %>
+                        <% current_order.order_products.order("id desc").each do |cart_item| %>
+                            <div class="box box-link-hover-shadow">
+                                <div class="columns">
+                                    <div class="column">
+                                        <figure class="image is-128x128">
+                                            <%= image_tag cart_item.product.image.attachment, alt: 'product image' %>
+                                        </figure>
+                                    </div>
+                                    <div class="column">
+                                        <p><%= cart_item.product.title%></p>
+                                        <%= form_for cart_item, remote: true, method: :delete do |f| %>
+                                            <%= f.submit "delete", class: "button" %>
+                                        <% end %>
+                                    </div>
+                                    <div class="column">
+                                        <strong class="has-text-danger">CDN<%= number_to_currency cart_item.total_price%></strong>
+                                    </div>
+                                    <div class="column">
+                                        <%= form_for cart_item, remote: true do |f| %>
+                                            <%= f.number_field :qty, value: cart_item.qty, class: "input", min: 1 %>
+                                            <%= f.submit "update", class: "button" %>
+                                        <% end %>
+                                    </div>
+                                </div>
+                            </div>
+                        <% end %>
+                    <% end %>
+                </div>
+            </div>
+        </div>
+        <div class="box column main-box ">
+            <div class="content">
+                <h2>SUMMARY</h2>
+
+                <div class="is-divider"></div>
+                <div class="is-clearfix">
+                <h3 class="is-pulled-left">SUBTOTAL</h3>
+                <p class="is-pulled-right"><%= number_to_currency current_order.subtotal%></p>
+                </div>
+                <div class="is-divider"></div>
+
+                <div class="is-clearfix">
+                <h3 class="is-pulled-left">TAX</h3>
+                <p class="is-pulled-right"><%= number_to_currency current_order.tax%></p>
+                </div>
+
+                <h3>TOTAL</h3>
+                <p><strong>Total: </strong><%= number_to_currency current_order.subtotal + current_order.tax%></p>
+            </div>
+        </div>
+    </div>
+</div>

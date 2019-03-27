@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 Rails.application.routes.draw do
-  resource :cart, only: [:show]
   devise_for :admin_users, ActiveAdmin::Devise.config
   ActiveAdmin.routes(self)
   resources :orders
@@ -11,6 +10,8 @@ Rails.application.routes.draw do
 
   resources :categories
   root to: 'categories#index'
+
+  resource :cart, only: [:show]
 
   resources :order_products, only: %i[create update destroy]
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html

@@ -14,7 +14,7 @@
  *= require_self
  */
  @import "bulma";
- @import 'buefy';
+ @import 'bulma-extensions';
 
 
  .card {
@@ -41,4 +41,8 @@
 
  .container{
     margin-top: 134px;
+ }
+
+ .main-box{
+    margin: 20px;
  }
