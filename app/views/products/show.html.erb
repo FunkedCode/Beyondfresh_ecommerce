@@ -1,21 +1,35 @@
-<div class="columns">
-  <div class="column">
-    <% if @product.image.attached? %>
-      <%= image_tag @product.image.attachment, alt: 'product image' %>
-    <% else %>
-      <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-    <% end%>
+<div class="container">
+  <div class="columns">
+    <div class="column is-two-fifths">
+      <%= render partial: 'products/product_card', locals: {product: @product,show_cart: false} %>
+    </div>
+    <div class="column is-two-fifths">
+      <div class="content">
+        <h2 class="title is-2"><%= @product.title%></h2>
+        <p><%= @product.description%></p>
+        <p><strong>Serving Size:</strong> <%= @product.serving_size%></p>
+      </div>
+    </div>
+    <div class="column">
+      <%= render partial: 'products/add_to_cart_form', locals: {order_product: @order_product, product: @product} %>
+    </div>
   </div>
-  <div class="column">
-    <h2><%=@product.title%></h2>
-    <p>Price:<strong><%= @product.price%></strong></p>
-    <p><%=@product.description%></p>
-    <p><%=@product.serving_size%></p>
-    <br/>
-    <ul>
-      <% @product.ingredient_list.split(',').each do |ingredient|%>
-        <li><%= ingredient%></li>
-      <% end %>
-    </ul>
+  <div class="columns">
+    <div class="column is-full">
+    <h2 class="title is-3">Product Details</h2>
+    <div class="is-divider"></div>
+    <h3 class="title is-4">Ingredients</h3>
+    <table class="table">
+          <thead>
+          </thead>
+          <tbody>
+            <% @product.ingredient_list.split(',').each do |ingredient| %>
+              <tr>
+                <td><%= ingredient %></td>
+              </tr>
+            <% end %>
+          <tbody>
+        </table>
+      </div>
   </div>
 </div>

@@ -1,0 +1,17 @@
+
+<div class="box">
+    <%= form_for order_product, remote: true do |f| %>
+        <div class="field">
+            <div class="control">
+            <label class="label">Quantity</label>
+                <%= f.number_field :qty, value: 1, class: "input is-info", min: 1 %>
+            </div>
+        </div>
+                <%= f.hidden_field :product_id, value: product.id %>
+        <div class="field">
+            <div class="control">
+                <%= f.submit "Add to Cart", class: "button is-primary is-outlined is-fullwidth" %>
+            </div>
+        </div>
+    <% end %>
+</div>

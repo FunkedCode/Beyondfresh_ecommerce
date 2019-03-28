@@ -2,42 +2,7 @@
 <div class="columns is-multiline is-marginless">
     <% count=0; @products.each do |product| %>
         <div class="column is-one-fifth">
-        <%= link_to product do %>
-            <div class="card">
-                <div class="card-image">
-                    <figure class="image is-636x393">
-                        <% if product.image.attached? %>
-                            <%= image_tag product.image.attachment, alt: 'product image' %>
-                        <% else %>
-                            <img src="https://bulma.io/images/placeholders/1280x960.png" alt="Placeholder image">
-                        <% end%>
-                    </figure>
-                 </div>
-                 <div class="card-content">
-                    <h3><%= product.title%></h3>
-                    <strong>$<%= product.price%></strong>
-                    <br>
-                    <% product.categories.order('is_main_category DESC').each do |category| %>
-                        <% if category.is_main_category%>
-                            <%= link_to "# #{category.name}", category, class:'tag is-light is-medium' %>
-                        <% else%>
-                            <%= link_to "# #{category.name}", category, class:'tag is-dark' %>
-                        <%end %>
-                    <% end%>
-                 </div>
-                 <footer class="card-footer">
-                    <%= form_for @order_product, remote: true do |f| %>
-                    <div class="input-group">
-                        <div class="input-group-btn">
-                            <%= f.number_field :qty, value: 1, class: "form-control", min: 1 %>
-                            <%= f.hidden_field :product_id, value: product.id %>
-                            <%= f.submit "Add to Cart", class: "button" %>
-                        </div>
-                    </div>
-                    <% end %>
-                </footer>
-            </div>
-            <%end%>
+            <%= render partial: 'products/product_card', locals: {product: product, show_cart: true} %>
         </div>
         <% count = count + 1%>
         <% if count > 4 %>
