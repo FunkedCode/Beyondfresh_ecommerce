@@ -7,7 +7,9 @@ class ProductsController < ApplicationController
   # GET /products.json
   def index
     @products = if params[:search]
-                  Product.joins(:categories).where('lower(title) LIKE ? or lower(categories.name) LIKE ?', "%#{params[:search]}%".downcase, "%#{params[:search]}%".downcase).page params[:page]
+                  Product.joins(:categories)
+                         .where('lower(title) LIKE ? or lower(categories.name) LIKE ?', "%#{params[:search]}%".downcase, "%#{params[:search]}%".downcase)
+                         .distinct.page params[:page]
                 else
                   Product.all.page params[:page]
                   end
