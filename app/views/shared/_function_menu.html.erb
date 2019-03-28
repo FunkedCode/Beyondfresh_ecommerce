@@ -1,10 +1,27 @@
 
-<nav class="navbar is-fixed-top secondary-menu" role="navigation" aria-label="main navigation">
+<nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
   <div class="navbar-menu is-active">
-    <div class="navbar-start is-active">
+    <div class="navbar-brand">
+        <%= link_to root_path do %>
+        <%= image_tag(image_url("logo.png"),alt: 'logo') %>
+      <% end %>
+      </div>
+    <div class="navbar-start">
+        <div class="navbar-item search-bar-width">
+          <%= form_tag(products_path,method: :get, class: "search-bar-width") do %>
+            <div class="field is-horizontal search-bar-width">
+              <div class="control search-bar-width">
+                <%= text_field_tag :search,"", class: "input is-medium search-bar-width" %>
+              </div>
+              <div class="control is-fullwidth">
+                <%= submit_tag 'Search', class: "button is-medium" %>
+              </div>
+            </div>
+          <% end %>
+      </div>
     </div>
-    <div class="navbar-end is-active">
-      <h1 class="cart-text"><%= render 'layouts/cart_progress' %></h1>
+    <div class="navbar-end">
+      <%= render 'layouts/cart_progress', class: "cart-text" %>
     </div>
   </div>
 </nav>

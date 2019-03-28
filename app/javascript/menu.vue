@@ -3,13 +3,10 @@
 <template>
   <div id="menu">
     <nav
-      class="navbar is-fixed-top"
+      class="navbar is-fixed-top secondary-menu"
       role="navigation"
       aria-label="main navigation"
     >
-      <div class="navbar-brand">
-        <img v-bind:src="logo">
-      </div>
       <div
         class="navbar-burger burger"
         role="button"

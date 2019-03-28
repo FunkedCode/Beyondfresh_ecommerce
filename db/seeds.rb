@@ -40,10 +40,11 @@ Dir.foreach('json') do |json_file|
 
     if file_found
       new_product.image.attach(io: file, filename: "temp.#{file.content_type_parse.first.split('/').last}", content_type: file.content_type_parse.first)
+      new_product.save
       sleep(rand(10))
+    else
+      new_product.save
     end
-
-    new_product.save
 
     pp new_product.errors if new_product.errors.count > 0
 
