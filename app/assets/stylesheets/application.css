@@ -30,39 +30,40 @@
      margin-top: auto;
  }
 
- .navbar{
-    padding: 3px;
- }
-
- .navbar-start{
-    margin: 0;
-    width: 100%;
- }
-
- .navbar-end{
-   padding: 20px;
- }
-
  .navbar-brand{
     padding-top: 5px;
     padding-left: 10px;
  }
 
  .secondary-menu{
-   margin-top: 69px;
    box-shadow:rgba(0, 0, 0, 0.117647) 0px 3px 0px;
  }
 
  .container{
-    margin-top: 200px;
+    margin: 50px;
  }
 
+.navbar-start{
+   margin: 0;
+   width: 100%;
+}
+
+.navbar-end{
+  padding-top: 16px;
+}
  .main-box{
     margin: 20px;
  }
 
+ .box{
+    width: 100%;
+ }
 
  .search-bar-width{
     width: 100%;
+ }
+
+ .label{
+    padding-right: 25px;
  }
 
