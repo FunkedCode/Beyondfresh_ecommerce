@@ -12,7 +12,9 @@ class ProductsController < ApplicationController
 
   # GET /products/1
   # GET /products/1.json
-  def show; end
+  def show
+    @order_product = current_order.order_products.new
+  end
 
   # GET /products/new
   def new
