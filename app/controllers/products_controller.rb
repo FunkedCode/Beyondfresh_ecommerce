@@ -6,13 +6,17 @@ class ProductsController < ApplicationController
   # GET /products
   # GET /products.json
   def index
-    @products = if params[:search]
+    @products = if params[:search].to_s != '' && params[:category_search].to_s != ''
                   Product.joins(:categories)
-                         .where('lower(title) LIKE ? or lower(categories.name) LIKE ?', "%#{params[:search]}%".downcase, "%#{params[:search]}%".downcase)
+                         .where('lower(title) LIKE ? and categories.id = ?', "%#{params[:search]}%".downcase, params[:category_search])
+                         .distinct.page params[:page]
+                elsif params[:search].to_s != ''
+                  Product.joins(:categories)
+                         .where('lower(title) LIKE ?', "%#{params[:search]}%".downcase)
                          .distinct.page params[:page]
                 else
                   Product.all.page params[:page]
-                  end
+                end
     @order_product = current_order.order_products.new
   end
 

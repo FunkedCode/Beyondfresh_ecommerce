@@ -21,6 +21,22 @@
       <%= yield %>
     </div>
     <footer class="footer">
+      <a class="button is-medium" target="_blank" href="https://github.com/GhileMear/Beyondfresh_ecommerce">
+        <span class="icon is-medium">
+          <i class="fab fa-github"></i>
+        </span>
+        <span>GitHub</span>
+      </a>
+      <div class="is-divider"></div>
+      <div class="container">
+        <div class="columns">
+          <div class="column is-fullwidth footer-sub-content">
+            <%= link_to root_path do %>
+              <%= image_tag(image_url("logo.png"),alt: 'logo') %>
+            <% end %>
+          </div>
+        </div>
+      </div >
     </footer>
   </body>
 </html>

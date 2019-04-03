@@ -40,7 +40,17 @@
  }
 
  .container{
-    margin: 50px;
+    margin: 0 auto;
+    margin-top: 20px;
+ }
+
+ .footer-sub-content{
+    margin: 0 auto;
+    text-align: center
+ }
+
+ footer{
+    margin-top: 50px;
  }
 
 .navbar-start{
