@@ -1,0 +1,30 @@
+<div class="modal" id="checkout">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+        <header class="modal-card-head">
+            <p class="modal-card-title">Checkout</p>
+            <button class="delete close" aria-label="close"></button>
+        </header>
+        <section class="modal-card-body">
+            <div class="content">
+                <div class="columns">
+                    <div class="column">
+                        <div class="columns">
+                            <div class="column">
+                                <h4>Shipping Information</h4>
+                                <p><%= current_order.customer.first_name %></p>
+                                <p><%= current_order.customer.address %></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="modal-card-foot">
+            <button class="button is-success">Place your order</button>
+            <button class="button close">Cancel</button>
+        </div>
+    </div>
+</div>
