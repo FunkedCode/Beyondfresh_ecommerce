@@ -1,6 +1,13 @@
 # frozen_string_literal: true
 
 class OrderProductsController < ApplicationController
+  after_action :set_customer, on: :update
+
+  def set_customer
+    @order.customer_id = current_customer.id
+    @order.save
+  end
+
   def create
     @order = current_order
     @order_product = @order.order_products.new(order_product_params)
