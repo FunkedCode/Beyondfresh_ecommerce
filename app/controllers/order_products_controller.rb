@@ -23,7 +23,7 @@ class OrderProductsController < ApplicationController
     @order_product.update_attributes(order_product_params)
     @order_products = @order.order_products
     @order.save
-   end
+  end
 
   def destroy
     @order = current_order

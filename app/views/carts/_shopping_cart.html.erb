@@ -54,9 +54,9 @@
 
                 <h3>TOTAL</h3>
                 <p><strong>Total: </strong><%= number_to_currency current_order.subtotal + current_order.tax%></p>
-                <button class="button is-primary modal-button" data-target="#checkout" aria-haspopup="true">Launch example modal</button>
+                <button class="button is-primary modal-button" data-target="#checkout" aria-haspopup="true">Checkout</button>
             </div>
         </div>
     </div>
 </div>
-<%= render 'checkout' %>
+<%= render 'carts/checkout' %>
