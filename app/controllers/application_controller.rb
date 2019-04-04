@@ -9,8 +9,11 @@ class ApplicationController < ActionController::Base
 
   def current_order
     if !session[:order_id].nil?
+      pp 'test2'
+      pp Order.find(session[:order_id])
       Order.find(session[:order_id])
     else
+      pp 'test'
       Order.new
     end
   end

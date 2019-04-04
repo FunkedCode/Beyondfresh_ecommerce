@@ -79,4 +79,4 @@ gem "mini_magick"
 gem 'kaminari'
 gem 'jquery-rails'
 gem 'bulma-extensions-rails'
-
+gem 'stripe'
