@@ -13,8 +13,8 @@ class OrderProductsController < ApplicationController
     @order_product = @order.order_products.new(order_product_params)
     @order.tax = 0.12
     @order.shipping = 2.00
+    @order.order_status_id = 1
     set_customer
-    @order.save
     session[:order_id] = @order.id
   end
 

@@ -1,16 +1,21 @@
-$(document).ready(function() {
-  document.querySelectorAll(".modal-button").forEach(function(el) {
-    el.addEventListener("click", function() {
-      console.log("test");
-      var target = document.querySelector(el.getAttribute("data-target"));
+// var ready;
 
-      target.classList.add("is-active");
+// ready = function() {
+//   document.querySelectorAll(".modal-button").forEach(function(el) {
+//     el.addEventListener("click", function() {
+//       console.log("test");
+//       var target = document.querySelector(el.getAttribute("data-target"));
 
-      target.querySelectorAll(".close").forEach(function(closeEl) {
-        closeEl.addEventListener("click", function() {
-          target.classList.remove("is-active");
-        });
-      });
-    });
-  });
-});
+//       target.classList.add("is-active");
+
+//       target.querySelectorAll(".close").forEach(function(closeEl) {
+//         closeEl.addEventListener("click", function() {
+//           target.classList.remove("is-active");
+//         });
+//       });
+//     });
+//   });
+// };
+
+// $(document).ready(ready);
+// $(document).on("page:load", ready);

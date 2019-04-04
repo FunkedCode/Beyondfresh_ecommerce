@@ -7,7 +7,6 @@ class Order < ApplicationRecord
   # belongs_to :customer
   # validates :tax, :shipping, :sub_total, :total, presence: true
 
-  before_validation :set_order_status
   before_save :update_subtotal
 
   def subtotal
@@ -15,10 +14,6 @@ class Order < ApplicationRecord
   end
 
   private
-
-  def set_order_status
-    self.order_status_id = 1
-  end
 
   def update_subtotal
     self[:sub_total] = subtotal
