@@ -80,3 +80,4 @@ gem 'kaminari'
 gem 'jquery-rails'
 gem 'bulma-extensions-rails'
 gem 'stripe'
+gem "google-cloud-storage", "~> 1.8", require: false

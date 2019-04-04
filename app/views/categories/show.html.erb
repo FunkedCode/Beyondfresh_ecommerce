@@ -1,3 +1,22 @@
-<% @category.products.each do |product|%>
-    <p><%= product.title%></p>
-<% end %>
+
+<div class="columns is-multiline is-marginless">
+    <% if @category.products.count != 0 %>
+    <% count=0; @category.products.each do |product| %>
+        <div class="column is-one-fifth">
+            <%= render partial: 'products/product_card', locals: {product: product, show_cart: true} %>
+        </div>
+        <% count = count + 1%>
+        <% if count > 4 %>
+            </div>
+            <div class="columns is-multiline is-marginless ">
+            <% count = 0%>
+        <%end%>
+    <%end%>
+    <% else %>
+    <div class="content">
+        <h3>Whoops! Nothing here but this cute turnip...</h3>
+        <p>He sure is glad to see you though!</p>
+        <%= image_tag asset_path('nothing_here.jpg') %>
+    </div>
+    <% end %>
+</div>

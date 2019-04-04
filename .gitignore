@@ -18,6 +18,7 @@
 !/storage/.keep
 
 /json/*
+/config/secrets/*
 
 /node_modules
 /yarn-error.log

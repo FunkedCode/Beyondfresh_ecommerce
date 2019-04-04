@@ -18,6 +18,9 @@
       <%= render 'shared/function_menu' %>
       <div id="menu"></div>
     <div class="container main-content">
+      <% flash.each do |key, value| %>
+        <div class="notification is-<%= key %>"><strong><%= value %></strong></div>
+      <% end %>
       <%= yield %>
     </div>
     <footer class="footer">

@@ -1,25 +1,28 @@
 # frozen_string_literal: true
 
 class OrderProductsController < ApplicationController
-  after_action :set_customer, on: :update
+  before_action :set_customer, on: %i[update create]
 
   def set_customer
-    @order.customer_id = current_customer.id
-    @order.save
+    if current_customer.nil?
+      flash[:warning] = 'Please Login first.'
+      redirect_back(fallback_location: root_path)
+    else
+      @order = current_order
+      @order.customer_id = current_customer.id
+    end
   end
 
   def create
-    @order = current_order
     @order_product = @order.order_products.new(order_product_params)
     @order.tax = 0.12
     @order.shipping = 2.00
     @order.order_status_id = 1
-    set_customer
+    @order.save
     session[:order_id] = @order.id
   end
 
   def update
-    @order = current_order
     @order_product = @order.order_products.find(params[:id])
     @order_product.update_attributes(order_product_params)
     @order_products = @order.order_products
