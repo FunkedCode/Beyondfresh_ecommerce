@@ -76,7 +76,6 @@ gem "font-awesome-rails"
 gem 'haml-rails'
 gem 'bulma-extensions-rails'
 gem "bulma-rails"
-gem 'bulma', '~> 0.1.0'
 gem "mini_magick"
 gem 'kaminari'
 gem 'jquery-rails'
