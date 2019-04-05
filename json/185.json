@@ -1,0 +1,132 @@
+{
+  "id": 22535,
+  "title": "Heidelberg Baking Co. Bread",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 120.0,
+    "fat": "1.5g",
+    "protein": "4g",
+    "carbs": "25g"
+  },
+  "serving_size": "1 Slice",
+  "number_of_servings": 12.0,
+  "spoonacular_score": 88.0,
+  "breadcrumbs": [
+    "bread",
+    "baked goods"
+  ],
+  "generatedText": "Heidelberg Baking Co. Bread: This product is an awesome fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product contains 120 calories, 1.5g grams of fat, 4g grams of protein, and 25g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 10 ingredients.",
+  "ingredients": [
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unbleached flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "seeds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malted barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sunflower seeds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "raisins",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "allergen",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "contains wheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Unbleached Flour (Malted Barley Flour), Water, Whole Wheat Flour, Raisins, Sunflower Seeds, Salt, Yeast. Allergen: Contains Wheat",
+  "images": [
+    "https://spoonacular.com/productImages/22535-312x231.jpg",
+    "https://spoonacular.com/productImages/22535-636x393.jpg",
+    "https://spoonacular.com/productImages/22535-90x90.jpg"
+  ]
+}

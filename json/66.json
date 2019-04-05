@@ -1,0 +1,55 @@
+{
+  "id": 22416,
+  "title": "Lotus Foods Rice",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "paleo",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 150.0,
+    "fat": "0g",
+    "protein": "3g",
+    "carbs": "36g"
+  },
+  "serving_size": "1/4 Cup",
+  "number_of_servings": 10.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "rice",
+    "grains",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for rice? You could try Lotus Foods Rice. This product has 1 ingredient (in our experience: the fewer ingredients, the better!) One serving of this product provides 150 calories, 0g grams of fat, 3g grams of protein, and 36g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "red rice",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Red Rice",
+  "images": [
+    "https://spoonacular.com/productImages/22416-312x231.jpg",
+    "https://spoonacular.com/productImages/22416-636x393.jpg",
+    "https://spoonacular.com/productImages/22416-90x90.jpg"
+  ]
+}

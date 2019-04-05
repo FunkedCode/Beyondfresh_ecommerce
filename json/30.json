@@ -1,0 +1,77 @@
+{
+  "id": 22380,
+  "title": "Goya White Hominy",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "corn",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 100.0,
+    "fat": "0.5g",
+    "protein": "2g",
+    "carbs": "22g"
+  },
+  "serving_size": "0.5 cup",
+  "number_of_servings": 24.5,
+  "spoonacular_score": 94.0,
+  "breadcrumbs": [
+    "white hominy",
+    "hominy",
+    "corn",
+    "grains",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some food product today? Goya White Hominy is one option; let's take a closer look. This product has 5 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid. One serving of this product provides 100 calories, 0.5g grams of fat, 2g grams of protein, and 22g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "sodium bisulfite to promote retention",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white corn",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "White Corn, Water, Salt and Sodium Bisulfite to Promote Color Retention",
+  "images": [
+    "https://spoonacular.com/productImages/22380-312x231.jpg",
+    "https://spoonacular.com/productImages/22380-636x393.jpg",
+    "https://spoonacular.com/productImages/22380-90x90.jpg"
+  ]
+}

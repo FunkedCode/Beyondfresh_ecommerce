@@ -1,0 +1,80 @@
+{
+  "id": 22486,
+  "title": "Ener-g Xanthan Gum",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 80.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "20g"
+  },
+  "serving_size": "2 Tablespoons",
+  "number_of_servings": 7.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "xanthan gum",
+    "food gum",
+    "emulsifier",
+    "additive"
+  ],
+  "generatedText": "Ener-g Xanthan Gum: This product is an amazing fit if you are searching for a healthy xanthan gum. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 1 ingredient. One serving of this product provides 80 calories, 0g grams of fat, 0g grams of protein, and 20g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "contains no phenylalanine",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Xanthan Gum. Contains No Phenylalanine",
+  "images": [
+    "https://spoonacular.com/productImages/22486-312x231.jpg",
+    "https://spoonacular.com/productImages/22486-636x393.jpg",
+    "https://spoonacular.com/productImages/22486-90x90.jpg"
+  ]
+}

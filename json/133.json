@@ -1,0 +1,140 @@
+{
+  "id": 22483,
+  "title": "Polaner Jelly",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 40.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "10g"
+  },
+  "serving_size": "1 Tablespoons",
+  "number_of_servings": 16.0,
+  "spoonacular_score": 81.0,
+  "breadcrumbs": [
+    "jelly",
+    "fruit spread",
+    "spread",
+    "ingredient"
+  ],
+  "generatedText": "Are you trying to decide on a food product? Here's some information to help you decide whether Polaner Jelly is the right product for you. This product has 17 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid. This product contains 40 calories, 0g grams of fat, 0g grams of protein, and 10g grams of carbs per serving.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fd",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pectin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oil of spearmint",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c yellow #5",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium citrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "c blue #1",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "High Fructose Corn Syrup, Corn Syrup, Water, Pectin, Sugar, Citric Acid, Potassium Citrate, Oil of Spearmint. FD&C Yellow #5 and FD&C Blue #1",
+  "images": [
+    "https://spoonacular.com/productImages/22483-312x231.jpg",
+    "https://spoonacular.com/productImages/22483-636x393.jpg",
+    "https://spoonacular.com/productImages/22483-90x90.jpg"
+  ]
+}

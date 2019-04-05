@@ -1,0 +1,267 @@
+{
+  "id": 22563,
+  "title": "Lance Crackers",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "vegetarian",
+    "pescetarian"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 200.0,
+    "fat": "9g",
+    "protein": "4g",
+    "carbs": "21g"
+  },
+  "serving_size": "1.0 pkg (39 g)",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 61.0,
+  "breadcrumbs": [
+    "crackers",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for cracker? You could try Lance Crackers. This product contains no ingredients that some research suggests you should avoid. This product has 35 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 200 calories, 9g grams of fat, 4g grams of protein, and 21g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monocalcium phosphate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "leavening",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "canola oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "contains one or more of the following vegetable oils",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium bicarbonate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peanuts",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nuts",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "reduced iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "palm oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "seeds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "snack",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamine mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sesame seeds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "containing niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Enriched Wheat Flour (Containing Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Peanuts, Vegetable Oil (Contains One or More of the Following Vegetable Oils: Canola Oil, Corn Oil, Palm Oil, Soybean Oil), Sugar, Dextrose, Whole Wheat Flour, Salt, Leavening (Sodium Bicarbonate, Monocalcium Phosphate), Sesame Seeds, Caramel Color",
+  "images": [
+    "https://spoonacular.com/productImages/22563-312x231.jpg",
+    "https://spoonacular.com/productImages/22563-636x393.jpg",
+    "https://spoonacular.com/productImages/22563-90x90.jpg"
+  ]
+}

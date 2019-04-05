@@ -1,0 +1,355 @@
+{
+  "id": 22494,
+  "title": "Cobblestone Mill Bread - Bon Appetit! French Baguette",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "msg_free",
+    "no_artificial_colors",
+    "peanut_free",
+    "no_artificial_flavors",
+    "sugar_free",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "nut_free",
+    "vegan",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "nut_free",
+    "peanut_free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 90.0,
+    "fat": "1g",
+    "protein": "3g",
+    "carbs": "17g"
+  },
+  "serving_size": null,
+  "number_of_servings": 13.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "bread",
+    "baked goods"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ammonium sulfate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bleaching agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium peroxide",
+      "safety_level": null,
+      "description": "While there does not appear to be any conclusive evidence that calcium peroxide is harmful to consume, it IS prohibited in the European Union and China. According to the Chinese Health Minister, this additive is no longer necessary thanks to modern processing techniques. For this reason, we think it is worth avoiding when possible."
+    },
+    {
+      "name": "calcium propionate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "calcium sulfate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cornmeal",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dough conditioner",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "each of the following",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enzymes",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "flour product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "leavening",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "malted barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monocalcium phosphate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "monoglycerides",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "propionate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "reduced iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "to retard spoilage",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow corn meal",
+      "safety_level": "medium",
+      "description": null
+    }
+  ],
+  "ingredientCount": 24.0,
+  "ingredientList": "Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, High Fructose Corn Syrup, Yellow Corn Meal, Contains 2% or Less of Each of the Following: Yeast, Salt, Soybean Oil, Malted Barley Flour, Monoglycerides, Calcium Sulfate, Dextrose, Monocalcium Phosphate, Ammonium Sulfate, Enzymes, Calcium Peroxide, Calcium Propionate (to Retard Spoilage)",
+  "images": [
+    "https://spoonacular.com/productImages/22494-312x231.jpg",
+    "https://spoonacular.com/productImages/22494-636x393.jpg",
+    "https://spoonacular.com/productImages/22494-90x90.jpg"
+  ]
+}

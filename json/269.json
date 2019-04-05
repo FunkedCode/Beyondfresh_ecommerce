@@ -1,0 +1,384 @@
+{
+  "id": 22619,
+  "title": "Marie Callender's Muffin Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian"
+  ],
+  "important_badges": [
+    "egg_free"
+  ],
+  "nutrition": {
+    "calories": 130.0,
+    "fat": "1g",
+    "protein": "2g",
+    "carbs": "30g"
+  },
+  "serving_size": "0.25 cup mix",
+  "number_of_servings": 12.0,
+  "spoonacular_score": 51.0,
+  "breadcrumbs": [
+    "baking mix",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some muffin mix today? Marie Callender's Muffin Mix is one option; let's take a closer look. This product contains no ingredients that some research suggests you should avoid. This product has 44 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 130 calories, 1g grams of fat, 2g grams of protein, and 30g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "acidic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavors",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "ascorbic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "baking soda",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bleached flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "canola oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cellulose gum",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "defatted soy flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "degermed yellow corn meal",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated bananas",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "diglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dough conditioner",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "egg yolk powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched bleached flours",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gluten free flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "leavening",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malted barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "meat substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mono",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monosodium phosphate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nonfat dry milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "propylene glycol mono esters",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "rosemary",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium aluminum phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "sodium stearoyl lactylate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweet whey powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat gluten",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow corn flour",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Enriched Bleached Flours (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Sugar, Degermed Yellow Corn Meal, Dehydrated Bananas, Canola Oil (with Ascorbic Acid and Rosemary Added to Preserve Freshness), Nonfat Dry Milk, Leavening (Baking Soda, Sodium Aluminum Phosphate, Acidic, Monosodium Phosphate, Yellow Corn Flour, Modified Food Starch, Defatted Soy Flour, Egg Yolk Powder, Salt, Dextrose, Sweet Whey Powder, Soybean Oil, Natural and Artificial Flavors, Wheat Gluten, Lecithin, Propylene Glycol Mono Esters, Mono and Diglycerides, Sodium Stearoyl Lactylate, Cellulose Gum",
+  "images": [
+    "https://spoonacular.com/productImages/22619-312x231.jpg",
+    "https://spoonacular.com/productImages/22619-636x393.jpg",
+    "https://spoonacular.com/productImages/22619-90x90.jpg"
+  ]
+}

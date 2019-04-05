@@ -1,0 +1,303 @@
+{
+  "id": 22457,
+  "title": "Williams Soup Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegetarian",
+    "wheat_free"
+  ],
+  "nutrition": {
+    "calories": 150.0,
+    "fat": "1.5g",
+    "protein": "8g",
+    "carbs": "25g"
+  },
+  "serving_size": "0.33 cup dry... (44 g)",
+  "number_of_servings": null,
+  "spoonacular_score": 54.0,
+  "breadcrumbs": [
+    "soup mix",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for soup mix? You could try Williams Soup Mix. This product contains 3 ingredients that some research suggests you should avoid. This product contains 150 calories, 1.5g grams of fat, 8g grams of protein, and 25g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 43 ingredients.",
+  "ingredients": [
+    {
+      "name": "other spices",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn gluten",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anti-cake",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated red",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chili peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "black",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "lactic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sweet pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed soy protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "beans",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monosodium glutamate",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pinto beans",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium guanylate",
+      "safety_level": "high",
+      "description": "Disodium guanylate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium inosinate",
+      "safety_level": "high",
+      "description": "Disodium inosinate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "bell pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "green bell peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed vegetable protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "partially hydrogenated soybean oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "yeast extract",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "autolyzed yeast extract",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified corn starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "calcium silicate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Dehydrated Red, Black, and Pinto Beans, Modified Corn Starch, Chili Peppers and Other Spices, Salt, Hydrolyzed Soy Protein and Corn Gluten (Maltodextrin, Caramel Color, Disodium Inosinate, Disodium Guanylate, Lactic Acid), Dehydrated Red and Green Bell Peppers, Monosodium Glutamate, Dehydrated Onion and Garlic, Autolyzed Yeast Extract, Partially Hydrogenated Soybean Oil, Sugar, Calcium Silicate (Anti-Cake)",
+  "images": [
+    "https://spoonacular.com/productImages/22457-312x231.jpg",
+    "https://spoonacular.com/productImages/22457-636x393.jpg",
+    "https://spoonacular.com/productImages/22457-90x90.jpg"
+  ]
+}

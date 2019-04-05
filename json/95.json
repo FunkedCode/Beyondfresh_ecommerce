@@ -1,0 +1,100 @@
+{
+  "id": 22445,
+  "title": "Rose's Cocktail Sugar",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 10.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "2g"
+  },
+  "serving_size": "0.5 tsp (2 g)",
+  "number_of_servings": 336.0,
+  "spoonacular_score": 87.0,
+  "breadcrumbs": [
+    "cocktail",
+    "alcoholic drink",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": "Rose's Cocktail Sugar: This product is an outstanding match if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. One serving of this product provides 10 calories, 0g grams of fat, 0g grams of protein, and 2g grams of carbs. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 11 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cane sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "natural ing",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Cane Sugar, Citric Acid, Natural Flavors and Natural Coloring",
+  "images": [
+    "https://spoonacular.com/productImages/22445-312x231.jpg",
+    "https://spoonacular.com/productImages/22445-636x393.jpg",
+    "https://spoonacular.com/productImages/22445-90x90.jpg"
+  ]
+}

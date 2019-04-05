@@ -1,0 +1,163 @@
+{
+  "id": 22600,
+  "title": "Wilton Sprinkles",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 15.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "4g"
+  },
+  "serving_size": "1.0 tsp (4 g)",
+  "number_of_servings": 35.0,
+  "spoonacular_score": 75.0,
+  "breadcrumbs": [
+    "sprinkles",
+    "ingredient"
+  ],
+  "generatedText": "Wilton Sprinkles: This product is a spectacular match if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 23 ingredients. One serving of this product provides 15 calories, 0g grams of fat, 0g grams of protein, and 4g grams of carbs. This product contains 1 ingredient that some research suggests could be harmful, including .",
+  "ingredients": [
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "confectioner's glaze",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "or soybean",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "artificial",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fd",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c red 40 lake",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "glazing agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cottonseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carnauba wax",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Dextrose, Sugar, Corn Starch, Partially Hydrogenated Vegetable Oil (Cottonseed and/or Soybean), Corn Syrup, Confectioner's Glaze, Soy Lecithin, Carnauba Wax, Artificial Color, FD&C Red 40 Lake",
+  "images": [
+    "https://spoonacular.com/productImages/22600-312x231.jpg",
+    "https://spoonacular.com/productImages/22600-636x393.jpg",
+    "https://spoonacular.com/productImages/22600-90x90.jpg"
+  ]
+}

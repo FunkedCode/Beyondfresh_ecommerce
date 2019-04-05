@@ -1,0 +1,82 @@
+{
+  "id": 22536,
+  "title": "Heidelberg Baking Co. Bread",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 120.0,
+    "fat": "0g",
+    "protein": "3g",
+    "carbs": "25g"
+  },
+  "serving_size": "1 Center Slice",
+  "number_of_servings": 12.0,
+  "spoonacular_score": 94.0,
+  "breadcrumbs": [
+    "bread",
+    "baked goods"
+  ],
+  "generatedText": "In the mood for bread? You could try Heidelberg Baking Co. Bread. This product has 5 ingredients (in our experience: the fewer ingredients, the better!) This product contains 120 calories, 0g grams of fat, 3g grams of protein, and 25g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "unbleached white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cracked wheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "contains wheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Unbleached White Flour, Cracked Wheat, Water, Salt, Yeast. Contains Wheat",
+  "images": [
+    "https://spoonacular.com/productImages/22536-312x231.jpg",
+    "https://spoonacular.com/productImages/22536-636x393.jpg",
+    "https://spoonacular.com/productImages/22536-90x90.jpg"
+  ]
+}

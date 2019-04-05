@@ -1,0 +1,78 @@
+{
+  "id": 22385,
+  "title": "Mancini Fire Roasted Peppers",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "primal",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "paleo",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 20.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "4g"
+  },
+  "serving_size": "2 pieces",
+  "number_of_servings": 5.0,
+  "spoonacular_score": 95.0,
+  "breadcrumbs": [
+    "pepper",
+    "spices",
+    "ingredient"
+  ],
+  "generatedText": "Mancini Fire Roasted Peppers: This product is a spectacular fit if you are searching for a healthy pepper. One serving of this product provides 20 calories, 0g grams of fat, 0g grams of protein, and 4g grams of carbs. This product has 4 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Peppers, Water, Salt and Citric Acid",
+  "images": [
+    "https://spoonacular.com/productImages/22385-312x231.jpg",
+    "https://spoonacular.com/productImages/22385-636x393.jpg",
+    "https://spoonacular.com/productImages/22385-90x90.jpg"
+  ]
+}

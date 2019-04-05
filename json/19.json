@@ -1,0 +1,124 @@
+{
+  "id": 22369,
+  "title": "Woebers Mustard Relish",
+  "price": 319.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "paleo",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 0.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "0g"
+  },
+  "serving_size": "1.0 teaspoon (5 g)",
+  "number_of_servings": 90.0,
+  "spoonacular_score": 88.0,
+  "breadcrumbs": [
+    "relish",
+    "condiment",
+    "ingredient"
+  ],
+  "generatedText": "Woebers Mustard Relish: This product is an outstanding match if you are searching for a healthy relish. This product contains 0 calories, 0g grams of fat, 0g grams of protein, and 0g grams of carbs per serving. This product has 10 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid. This product is also pretty expensive. It usually costs roughly $3.19, depending on the store and your location.",
+  "ingredients": [
+    {
+      "name": "no",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "1 mustard seed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chopped pickles",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "distilled vinegar",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "turmeric",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "paprika",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "crushed red peppers",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Distilled Vinegar and Water, Chopped Pickles, No. 1 Mustard Seed, Salt, Crushed Red Peppers, Turmeric, Spices and Paprika",
+  "images": [
+    "https://spoonacular.com/productImages/22369-312x231.jpg",
+    "https://spoonacular.com/productImages/22369-636x393.jpg",
+    "https://spoonacular.com/productImages/22369-90x90.jpg"
+  ]
+}

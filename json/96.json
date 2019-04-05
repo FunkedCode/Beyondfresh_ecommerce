@@ -1,0 +1,77 @@
+{
+  "id": 22446,
+  "title": "Gefen Apple Sauce",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 50.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "15g"
+  },
+  "serving_size": "0.5 cup (122 g)",
+  "number_of_servings": 6.0,
+  "spoonacular_score": 95.0,
+  "breadcrumbs": [
+    "applesauce",
+    "ingredient"
+  ],
+  "generatedText": "Gefen Apple Sauce: This product is an awesome fit if you are searching for a healthy food product. This product contains 50 calories, 0g grams of fat, 0g grams of protein, and 15g grams of carbs per serving. This product has 4 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "apples",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Apples, Water and Salt",
+  "images": [
+    "https://spoonacular.com/productImages/22446-312x231.jpg",
+    "https://spoonacular.com/productImages/22446-636x393.jpg",
+    "https://spoonacular.com/productImages/22446-90x90.jpg"
+  ]
+}

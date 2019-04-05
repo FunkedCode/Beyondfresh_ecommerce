@@ -1,0 +1,219 @@
+{
+  "id": 22567,
+  "title": "Bar-Tender's Instant Margarita Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "nut_free",
+    "peanut_free",
+    "vegan",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 90.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "21g"
+  },
+  "serving_size": "1 pouch",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 73.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "Bar-Tender's Instant Margarita Mix: This product is a super fit if you like to buy products that are vegetarian, vegan, and gluten-free. This product contains 90 calories, 0g grams of fat, 0g grams of protein, and 21g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 24 ingredients. This product contains 2 ingredients that some research suggests could be harmful, including .",
+  "ingredients": [
+    {
+      "name": "natural lemon",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime juice dehydrated",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "provides tartness",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "controls acidity",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "prevents caking",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cottonseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "prolongs freshness",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "orange flavors",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup solids",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium citrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "soybean oils",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bha",
+      "safety_level": "low",
+      "description": "Scientific research has led the U.S. Department of Health and Human Services to conclude that BHA can be \"reasonably anticipated to be a human carcinogen.\""
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried egg whites",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime juice powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citrus fruit",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, Citric Acid (Provides Tartness), Lime Juice Powder (Lime Juice Dehydrated with Corn Syrup Solids), Natural Lemon, Lime and Orange Flavors, Sodium Citrate (Controls Acidity), Calcium Phosphate (Prevents Caking), Dried Egg Whites, Partially Hydrogenated Vegetable Oil (Cottonseed and Soybean Oils), BHA (Prolongs Freshness)",
+  "images": [
+    "https://spoonacular.com/productImages/22567-312x231.jpg",
+    "https://spoonacular.com/productImages/22567-636x393.jpg",
+    "https://spoonacular.com/productImages/22567-90x90.jpg"
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "id": 22616,
+  "title": "Malt-o-meal Cereal",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "nut_free",
+    "wheat_free"
+  ],
+  "nutrition": {
+    "calories": 120.0,
+    "fat": "1g",
+    "protein": "1g",
+    "carbs": "26g"
+  },
+  "serving_size": "3/4 Cup Cereal",
+  "number_of_servings": 63.0,
+  "spoonacular_score": 59.0,
+  "breadcrumbs": [
+    "cereal",
+    "breakfast"
+  ],
+  "generatedText": "Malt-o-meal Cereal: This product is a tremendous match if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product contains 2 ingredients that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 36 ingredients. One serving of this product provides 120 calories, 1g grams of fat, 1g grams of protein, and 26g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "alkali",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "palm kernel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "contains wheat ingredients",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "processed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin a palmitate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "zinc oxide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vitamin b6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vitamin B3",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cocoa",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "reduced iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b12",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "zinc",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pyridoxine hydrochloride",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacinamide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin a",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin d",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "coconut",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "wheat starch",
+      "safety_level": "high",
+      "description": "Wheat starch can be processed to remove enough of the gluten to make it gluten free (<a href=\"http://www.glutafin.co.uk/coeliac-students/codex-wheat-starch/\">legally speaking</a>) but it may be wise to avoid products with wheat starch unless they specifically state they are suitable for gluten free diets."
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b2",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Rice, Sugar, Partially Hydrogenated Vegetable Oil (Coconut and Palm Kernel), Cocoa (Processed With Alkali), Corn Syrup, Salt, Caramel Color, Natural and Artificial Flavor, Niacin (Niacinamide), Vitamin A Palmitate, Reduced Iron, Zinc (Zinc Oxide), Vitamin B6 (Pyridoxine Hydrochloride), Vitamin B2 (Riboflavin), Vitamin D, Vitamin B1 (Thiamin Mononitrate), Vitamin B12, Folate (Folic Acid), Wheat Starch. Contains Wheat Ingredients",
+  "images": [
+    "https://spoonacular.com/productImages/22616-312x231.jpg",
+    "https://spoonacular.com/productImages/22616-636x393.jpg",
+    "https://spoonacular.com/productImages/22616-90x90.jpg"
+  ]
+}

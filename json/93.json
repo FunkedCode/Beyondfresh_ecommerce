@@ -1,0 +1,179 @@
+{
+  "id": 22443,
+  "title": "Storck CaraMelts",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "nut_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 190.0,
+    "fat": "7g",
+    "protein": "3g",
+    "carbs": "28g"
+  },
+  "serving_size": "7.0 pieces (41 g)",
+  "number_of_servings": 2.0,
+  "spoonacular_score": 80.0,
+  "breadcrumbs": [
+    "caramel candy",
+    "candy",
+    "ingredient"
+  ],
+  "generatedText": "Storck CaraMelts: This product is an excellent fit if you are searching for a healthy food product. This product has 18 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 190 calories, 7g grams of fat, 3g grams of protein, and 28g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "butter fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "caramel sugar syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cream powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fat reduced cocoa",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "from one or more of sheanut oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "illipe butter",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mango oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "palm oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sal oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "skim milk powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "sugar vegetable fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweet whey powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey powder",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar Vegetable Fat (from One or More of Sheanut Oil, Illipe Butter, Mango Oil, Sal Oil, Palm Oil), Cream Powder, Sweet Whey Powder, Butter Fat, Maltodextrin, Skim Milk Powder, Fat Reduced Cocoa, Soy Lecithin Emulsifier, Caramel Sugar Syrup, Artificial Flavor, Salt",
+  "images": [
+    "https://spoonacular.com/productImages/22443-312x231.jpg",
+    "https://spoonacular.com/productImages/22443-636x393.jpg",
+    "https://spoonacular.com/productImages/22443-90x90.jpg"
+  ]
+}

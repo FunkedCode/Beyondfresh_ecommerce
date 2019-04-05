@@ -1,0 +1,753 @@
+{
+  "id": 22549,
+  "title": "Swanson Pot Pies - Chicken",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "msg_free",
+    "egg_free",
+    "peanut_free",
+    "no_artificial_colors",
+    "sugar_free",
+    "no_artificial_flavors",
+    "nut_free",
+    "no_artificial_ingredients"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "nut_free",
+    "peanut_free",
+    "sugar_free"
+  ],
+  "nutrition": {
+    "calories": 370.0,
+    "fat": "20g",
+    "protein": "10g",
+    "carbs": "34g"
+  },
+  "serving_size": "1 pie",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "pot pie",
+    "meat pie",
+    "main dish"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "spice extractive",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bleached flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mechanically separated poultry",
+      "safety_level": "medium",
+      "description": "Though mechanically separated meat has received a lot of bad press recently, it is not necessarily harmful or unsafe. It is, however, extremely processed and frankly pretty gross - we'll pass."
+    },
+    {
+      "name": "soy protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "main dish",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast extract",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin e",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oleoresin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "root vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "dietary fiber",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "animal product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "grains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pork fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "seasoning",
+      "safety_level": "high",
+      "description": "\"Seasoning\" in an ingredient list implies a mix of flavoring agents, including spices, herbs, salt, sugar, etc. Starch, flour, and whey power may also be included. If you are allergic to a particular spice or herb, you will need to call the manufacturer to find out what exactly is included. Wheat <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">has to be listed separately</a>, so \"seasoning\" is safe for gluten free diets. If you have other allergies, it is best to look for special labels on the package or ask the manufacturer."
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mechanically separated meat",
+      "safety_level": "medium",
+      "description": "Though mechanically separated meat has received a lot of bad press recently, it is not necessarily harmful or unsafe. It is, however, extremely processed and frankly pretty gross - we'll pass."
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "broth",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dough conditioner",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "poultry",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated garlic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "processed meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bht",
+      "safety_level": "medium",
+      "description": "It is hard to say whether BHT is safe, as different <a href=\"http://www.berkeleywellness.com/healthy-eating/food-safety/article/two-preservatives-avoid\">scientific studies</a> have had conflicting results. But since it is usually found in processed foods that you should probably avoid anyhow, it is easy to limit your BHT consumption."
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast extract",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "reduced iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "enzymes",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "grill flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium acid pyrophosphate to maintain",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "seasoning blend",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "autolyzed yeast extract",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bleached enriched wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "chicken powder",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "soy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fumaric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "hydrogenated lard",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated soybean oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cottonseed oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malted barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ferrous sulfate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "artificial flavors",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "wheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peas",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "annatto",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dough conditioner",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spice extract",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "ammonium sulfate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "enriched flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy protein isolate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial chicken flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "turmeric extract",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "potassium bromate",
+      "safety_level": "low",
+      "description": "Potassium bromate is used in the US as a flour improver, although it is considered \"possibly carcinogenic to humans\" and has been banned in numerous other countries."
+    },
+    {
+      "name": "carrots",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ground chicken",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken broth",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "tocopherols",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "from partially hydrogenated soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lard",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "invert sugar",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mechanically separated chicken",
+      "safety_level": "medium",
+      "description": "Though mechanically separated meat has received a lot of bad press recently, it is not necessarily harmful or unsafe. It is, however, extremely processed and frankly pretty gross - we'll pass."
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    },
+    {
+      "name": "chicken filling",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey protein concentrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "chicken",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "shortening",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carrageenan",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "thiamine mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "contains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "crust",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium aluminosilicate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": 68.0,
+  "ingredientList": "Water, Enriched Flour (Wheat Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Cooked Chicken (Dark Meat Chicken, Salt, Soy Protein Isolate, Carrageenan, Modified Food Starch, Sodium Phosphate, Spice Extract), Carrots, Potatoes with Sodium Acid Pyrophosphate, Shortening (Lard, Hydrogenated Lard, Partially Hydrogenated Soybean Oil), Cooked Mechanically Separated Chicken, Modified Food Starch, Chicken Base (Bleached Enriched Wheat Flour [Malted Barley Flour, Potassium Bromate, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin], Salt, Maltodextrin, Whey Powder, Whey Protein Concentrate, Garlic Powder, Soy Lecithin, Yeast Extract, Onion Powder, Spices, Xanthan Gum, Turmeric Extract, Annatto), Contains 2% or Less of: Peas, Chicken Fat, Dextrose, Natural and Artificial Chicken Flavor (Salt, Chicken Powder, Chicken Fat, Autolyzed Yeast Extract, Water, Natural and Artificial Flavors, Invert Sugar, Chicken Broth, Onion Powder, Partially Hydrogenated Soybean Oil and Cottonseed Oil, Grill Flavor [from Partially Hydrogenated Soybean Oil and Cottonseed Oil], Tocopherols), Salt, Dough Conditioner (Sodium Aluminosilicate, Salt, Vital Wheat Gluten, Enzymes, Soy Protein Flour, Ammonium Sulfate, Fumaric Acid), Caramel Color, Annatto (for Color)",
+  "images": [
+    "https://spoonacular.com/productImages/22549-312x231.jpg",
+    "https://spoonacular.com/productImages/22549-636x393.jpg",
+    "https://spoonacular.com/productImages/22549-90x90.jpg"
+  ]
+}

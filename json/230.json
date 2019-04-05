@@ -1,0 +1,335 @@
+{
+  "id": 22580,
+  "title": "Daily's Ready to Drink Frozen Pina Colada",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "nut_free",
+    "vegan",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "sugar_free",
+    "no_artificial_flavors",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "gluten_free",
+    "nut_free",
+    "peanut_free"
+  ],
+  "nutrition": {
+    "calories": 290.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "50g"
+  },
+  "serving_size": "1 pouch",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "pina colada",
+    "cocktail",
+    "alcoholic drink",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "High Fructose Corn Syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Wine",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "made",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Xanthan Gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Citric Acid",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Sodium Benzoate and Potassium Sorbate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "to Protect Flavor).",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Calcium Disodium EDTA",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Sodium Polyphosphates",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Pear Juice Concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Carbon Dioxide",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Preservatives",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "Natural and Artificial Flavors",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alcoholic drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carbonated water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavors",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium benzoate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium hexametaphosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "frozen yogurt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dessert",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "low calorie sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "foaming agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "saturated fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "glycerin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whipping agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yogurt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "medium chain triglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "frozen dessert",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sucralose",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 16.0,
+  "ingredientList": "Water, High Fructose Corn Syrup, Wine, Natural and Artificial Flavors, Glycerin, Food Starch-Modified, Citric Acid, Sodium Hexametaphosphate, Medium Chain Triglycerides, Xanthan Gum, Salt, Sodium Benzoate and Potassium Sorbate (Preservatives), Sucralose",
+  "images": [
+    "https://spoonacular.com/productImages/22580-312x231.jpg",
+    "https://spoonacular.com/productImages/22580-636x393.jpg",
+    "https://spoonacular.com/productImages/22580-90x90.jpg"
+  ]
+}

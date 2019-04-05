@@ -1,0 +1,182 @@
+{
+  "id": 22484,
+  "title": "Washington Breading Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 50.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "10g"
+  },
+  "serving_size": "2.0 tbsp (15 g)",
+  "number_of_servings": 60.0,
+  "spoonacular_score": 75.0,
+  "breadcrumbs": [
+    "baking mix",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for bread mix? You could try Washington Breading Mix. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 21 ingredients. One serving of this product provides 50 calories, 0g grams of fat, 1g grams of protein, and 10g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turmeric",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "enriched bleached flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "bleached flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow corn flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Enriched Bleached Flour (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Yellow Corn Flour, Salt, Spices, Natural Flavor, Onion Powder, Turmeric",
+  "images": [
+    "https://spoonacular.com/productImages/22484-312x231.jpg",
+    "https://spoonacular.com/productImages/22484-636x393.jpg",
+    "https://spoonacular.com/productImages/22484-90x90.jpg"
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": 22575,
+  "title": "Angostura Premium Quality Pina Colada Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 190.0,
+    "fat": "4.5g",
+    "protein": "0g",
+    "carbs": "38g"
+  },
+  "serving_size": "4 oz",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 69.0,
+  "breadcrumbs": [
+    "pina colada mix",
+    "cocktail mix"
+  ],
+  "generatedText": "Angostura Premium Quality Pina Colada Mix: This product is a spectacular match if you like to buy products that are vegetarian, vegan, and gluten-free. One serving of this product provides 190 calories, 4.5g grams of fat, 0g grams of protein, and 38g grams of carbs. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 28 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alcohol",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alginate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "an aromatic preparation of water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "angostura bitters",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavoring",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "c yellow no",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cloud",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "coconut milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fd",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gentian",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "guar gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "ing extractives",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pineapple concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "polysorbate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "propylene glycol alginate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "triglycerin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable flavoring",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Water, High Fructose Corn Syrup, Coconut Milk, Pineapple Concentrate, Sugar, Cloud (Modified Food Starch and Triglycerin), Xanthan Gum, Citric Acid, Artificial Flavoring, Potassium Sorbate (Preservative), Polysorbate, Propylene Glycol Alginate, Salt, Guar Gum, Angostura Bitters (an Aromatic Preparation of Water, Alcohol, Gentian, Vegetable Flavoring and Vegetable Coloring Extractives) and FD&C Yellow No. 6",
+  "images": [
+    "https://spoonacular.com/productImages/22575-312x231.jpg",
+    "https://spoonacular.com/productImages/22575-636x393.jpg",
+    "https://spoonacular.com/productImages/22575-90x90.jpg"
+  ]
+}

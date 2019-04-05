@@ -1,0 +1,307 @@
+{
+  "id": 22611,
+  "title": "Pacific Soup - Hearty Split Pea & Uncured Ham",
+  "price": 549.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "nut_free",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "sugar_free",
+    "no_artificial_flavors",
+    "no_artificial_ingredients",
+    "corn_free",
+    "dairy_free",
+    "gluten_free",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "gluten_free",
+    "nut_free"
+  ],
+  "nutrition": {
+    "calories": 160.0,
+    "fat": "2.5g",
+    "protein": "11g",
+    "carbs": "26g"
+  },
+  "serving_size": "1.0 cup (250 g)",
+  "number_of_servings": 2.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "soup",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "green pea powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "uncured ham",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "processed pork",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "pepper",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "processed meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "split peas",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sea salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "organic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lactic acid starter culture",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "honey",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "green peas",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peas",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ham",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rosemary",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "culture",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "carrots",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pork",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "canola oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "black pepper",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "badge",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "curing agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "celery juice powder",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "animal product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "root vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "search modifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried peas",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "probiotic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "celery juice",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 19.0,
+  "ingredientList": "Water, Split Peas (Organic), Carrots (Organic), Uncured Ham No Nitrates or Nitrites Added Except for Naturally Occurring Nitrates in Sea Salt and Celery Juice Powder (Ham [Organic], Water, Sea Salt, Honey [Organic], Celery Juice, Spices [Organic], Lactic Acid Starter Culture) (Organic), Onions (Organic), Green Pea Powder (Organic), Green Peas (Organic), Canola Oil (Organic), Sea Salt, Garlic (Organic), Black Pepper (Organic), Rosemary (Organic)",
+  "images": [
+    "https://spoonacular.com/productImages/22611-312x231.jpg",
+    "https://spoonacular.com/productImages/22611-636x393.jpg",
+    "https://spoonacular.com/productImages/22611-90x90.jpg"
+  ]
+}

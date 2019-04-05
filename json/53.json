@@ -1,0 +1,340 @@
+{
+  "id": 22403,
+  "title": "Cheerios Cereal",
+  "price": 469.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegan",
+    "wheat_free"
+  ],
+  "nutrition": {
+    "calories": 120.0,
+    "fat": "1.5g",
+    "protein": "2g",
+    "carbs": "25g"
+  },
+  "serving_size": "30 g",
+  "number_of_servings": 14.0,
+  "spoonacular_score": 48.0,
+  "breadcrumbs": [
+    "cereal",
+    "breakfast"
+  ],
+  "generatedText": "Cheerios Cereal: This product is a great fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product has 45 ingredients (in our experience: the fewer ingredients, the better!) This product contains 120 calories, 1.5g grams of fat, 2g grams of protein, and 25g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid. Depending on your store and location, this product usually costs roughly $4.69, which comes out to $0 per serving.",
+  "ingredients": [
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn meal",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat starch",
+      "safety_level": "high",
+      "description": "Wheat starch can be processed to remove enough of the gluten to make it gluten free (<a href=\"http://www.glutafin.co.uk/coeliac-students/codex-wheat-starch/\">legally speaking</a>) but it may be wise to avoid products with wheat starch unless they specifically state they are suitable for gluten free diets."
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "canola oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried apple pieces",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin d",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cinnamon",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin e",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oats",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "freshness preserved by vitamin e",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral nutrients",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "sodium ascorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "a b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pyridoxine hydrochloride",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vitamin b12",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacinamide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "brown sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin B3",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole grain",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xinc",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "palmitate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "grains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "trisodium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "vitamin c",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "or rice bran oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "mixed tocopherols",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "calcium carbonate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "whole grain oats",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin a",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Whole Grain Oats, Sugar, Brown Sugar, Corn Meal, Corn Starch, Corn Syrup, Dried Apple Pieces, Canola Oil and/or Rice Bran Oil, Calcium Carbonate, Salt, Cinnamon, Trisodium Phosphate, Xinc and Iron (Mineral Nutrients), Vitamin C (Sodium Ascorbate), A B Vitamin (Niacinamide), Artificial Flavor, Vitamin B6 (Pyridoxine Hydrochloride), Vitamin B2 (Riboflavin), Vitamin B1 (Thiamin Mononitrate), Vitamin A (Palmitate), A B Vitamin (Folic Acid), Vitamin B12, Vitamin D, Wheat Starch, Freshness Preserved by Vitamin E (Mixed Tocopherols)",
+  "images": [
+    "https://spoonacular.com/productImages/22403-312x231.jpg",
+    "https://spoonacular.com/productImages/22403-636x393.jpg",
+    "https://spoonacular.com/productImages/22403-90x90.jpg"
+  ]
+}

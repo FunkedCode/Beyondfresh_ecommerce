@@ -1,0 +1,189 @@
+{
+  "id": 22521,
+  "title": "Alamo Red Salsa",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "paleo",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 15.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "2g"
+  },
+  "serving_size": "2.0 tbsp (30 g)",
+  "number_of_servings": null,
+  "spoonacular_score": 75.0,
+  "breadcrumbs": [
+    "salsa",
+    "dip",
+    "appetizer"
+  ],
+  "generatedText": "In the mood for chili's salsa? You could try Alamo Red Salsa. One serving of this product provides 15 calories, 0g grams of fat, 0g grams of protein, and 2g grams of carbs. This product has 21 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "cilantro",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "tomato concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "jalapeno peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "tomato paste",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated minced garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spicy pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pickled jalapeno peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Water, Tomatoes, Tomato Paste, Vinegar, Pickled Jalapeno Peppers (Jalapeno Peppers, Water, Vinegar, Salt, Spices), White Vinegar, Dehydrated Onion, High Fructose Corn Syrup, Salt, Dehydrated Minced Garlic, Cilantro, Spices",
+  "images": [
+    "https://spoonacular.com/productImages/22521-312x231.jpg",
+    "https://spoonacular.com/productImages/22521-636x393.jpg",
+    "https://spoonacular.com/productImages/22521-90x90.jpg"
+  ]
+}

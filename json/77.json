@@ -1,0 +1,680 @@
+{
+  "id": 22427,
+  "title": "Wyler's Soup Starter Soup Mix - Cheddar Broccoli",
+  "price": 349.0,
+  "likes": 0.0,
+  "badges": [
+    "msg_free",
+    "no_artificial_colors",
+    "peanut_free",
+    "no_artificial_flavors",
+    "nut_free",
+    "no_artificial_ingredients"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "nut_free",
+    "peanut_free",
+    "msg_free"
+  ],
+  "nutrition": {
+    "calories": 120.0,
+    "fat": "3g",
+    "protein": "3g",
+    "carbs": "19g"
+  },
+  "serving_size": "1.0 cup (245 g)",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "soup",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "caseinate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hard cheese",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "dietary fiber",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried potatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "probiotic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "dried herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cheese",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sulfite",
+      "safety_level": "medium",
+      "description": "Sulfites are safe for most people, but some asthmatics and other people who are sensitive to sulfites should avoid them."
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "saturated fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "milk protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "parsley",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "culture",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural cheese flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "leavening",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed vegetable protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "dehydrated garlic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dehydrated diced potatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buttermilk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mono",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "diglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "diacetyl",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "hydrolyzed corn protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "whey",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "pasteurized milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buttermilk solids",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c yellow #6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dipotassium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cheddar cheese",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "processed on equipment that also processes wheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enzymes",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sodium sulfites",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "sodium acid pyrophosphate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "turmeric",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "natural cheese flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated soybean oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "dehydrated potato flakes",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "disodium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "silicon dioxide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dehydrated onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "butter",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enzyme modified cheese",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "sodium caseinate",
+      "safety_level": "high",
+      "description": "Sodium caseinate is derived from milk and is therefore NOT suitable for vegans, even if it is used in so-called non-dairy products. It may also cause <a href=\"http://www.kidswithfoodallergies.org/resourcespre.php?id=37\">allergic reactions</a> in people allergic to milk, and may potentially cause problems in lactose intolerant individuals because it can contain <a href=\"http://www.fda.gov/forconsumers/consumerupdates/ucm094550.htm\">small amounts of lactose</a>."
+    },
+    {
+      "name": "enzyme modified cheese solids",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cultured nonfat milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium citrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "c yellow #5",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated broccoli",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural cheddar cheese flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybeans",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "sodium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "triethyl citrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monosodium glutamate",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "dehydrated parsley flakes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c yellow #6 lake",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tricalcium phosphate",
+      "safety_level": "high",
+      "description": "Since tricalcium phosphate is usually derived from minerals, it is <a href=\"http://www.vrg.org/blog/2014/01/27/food-grade-calcium-phosphates-%E2%80%9Cmineral-source%E2%80%9D-state-major-manufacturers-and-distributors/\">probably suitable for vegans and vegetarians</a>. If in doubt, contact the manufacturer."
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup solids",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "sodium silica aluminate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "parmesan cheese",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    },
+    {
+      "name": "bha",
+      "safety_level": "low",
+      "description": "Scientific research has led the U.S. Department of Health and Human Services to conclude that BHA can be \"reasonably anticipated to be a human carcinogen.\""
+    },
+    {
+      "name": "egg",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated canola oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cheese cultures",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "medium chain triglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium bisulfites",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "propyl gallate",
+      "safety_level": "low",
+      "description": "According to the Center for Science in the Public Interest, propyl gallate may cause cancer and consumption should be avoided until further research has been done."
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified corn starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "aged cheddar cheese solids",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 65.0,
+  "ingredientList": "Modified Corn Starch, Dehydrated Potato Flakes, Whey (Milk), Dehydrated Onions, Dehydrated Diced Potatoes, Salt, Dehydrated Broccoli, Sugar, Cheddar Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes), Partially Hydrogenated Canola Oil, Corn Syrup Solids, Butter, Chicken Fat, Hydrolyzed Corn Protein, Buttermilk Solids, Corn Maltodextrin, Natural Flavors, Dehydrated Parsley Flakes, Sodium Caseinate (Milk), Natural Cheese Flavor (Enzyme Modified Cheese Solids), Garlic Powder, Enzyme Modified Cheese (Cheddar Cheese, Pasteurized Milk, Cheese Cultures, Salt, Enzymes], Disodium Phosphate, Enzymes, Xanthan Gum), Mono and Diglycerides, Dipotassium Phosphate, Silicon Dioxide, Medium Chain Triglycerides, Sodium Acid Pyrophosphate, Soy Lecithin, Partially Hydrogenated Soybean Oil, Aged Cheddar Cheese Solids (Pasteurized Milk, Cheese Cultures, Salt, Enzymes), Natural Cheddar Cheese Flavor, Xanthan Gum, Sodium Phosphate, Parmesan Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes), Cultured Nonfat Milk, Turmeric, Artificial Flavor, Sodium Silica Aluminate, Buttermilk, Soybean Oil, FD&C Yellow 5, FD&C Yellow 6, Diacetyl (Flavor), Citric Acid, Disodium Phosphate, Sodium Citrate, FD&C Yellow 6 Lake, Tricalcium Phosphate, Monosodium Glutamate, Triethyl Citrate, BHA (Preservative), Propyl Gallate, Sodium Sulfites and Sodium Bisulfites (Preservatives)",
+  "images": [
+    "https://spoonacular.com/productImages/22427-312x231.jpg",
+    "https://spoonacular.com/productImages/22427-636x393.jpg",
+    "https://spoonacular.com/productImages/22427-90x90.jpg"
+  ]
+}

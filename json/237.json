@@ -1,0 +1,83 @@
+{
+  "id": 22587,
+  "title": "TinyTini Vodka Cocktail",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 53.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "3g"
+  },
+  "serving_size": "1.5 fl oz",
+  "number_of_servings": null,
+  "spoonacular_score": 93.0,
+  "breadcrumbs": [
+    "cocktail",
+    "alcoholic drink",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": "TinyTini Vodka Cocktail: This product is a spectacular fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product has 6 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 53 calories, 0g grams of fat, 0g grams of protein, and 3g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "grain neutral spirits",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "low calorie sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sucralose",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "artificial sweetener",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Grain Neutral Spirits with Natural Flavors, Sucralose, Caramel Color",
+  "images": [
+    "https://spoonacular.com/productImages/22587-312x231.jpg",
+    "https://spoonacular.com/productImages/22587-636x393.jpg",
+    "https://spoonacular.com/productImages/22587-90x90.jpg"
+  ]
+}

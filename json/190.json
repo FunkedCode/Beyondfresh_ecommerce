@@ -1,0 +1,297 @@
+{
+  "id": 22540,
+  "title": "Oroweat Bread",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 100.0,
+    "fat": "1g",
+    "protein": "3g",
+    "carbs": "19g"
+  },
+  "serving_size": "1.0 slice (38 g)",
+  "number_of_servings": 18.0,
+  "spoonacular_score": 50.0,
+  "breadcrumbs": [
+    "bread",
+    "baked goods"
+  ],
+  "generatedText": "In the mood for bread? You could try Oroweat Bread. This product contains no ingredients that some research suggests you should avoid. This product has 44 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 100 calories, 1g grams of fat, 3g grams of protein, and 19g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malted barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "azodicarbonamide",
+      "safety_level": "low",
+      "description": "Azodicarbonamide is often found in bread. It is banned in Europe as a food additive and is listed as an additive to avoid by the CSPI because it may be a carcinogen."
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "meat substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "seeds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monocalcium phosphate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "malted barley",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "reduced iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unbleached enriched wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sesame seeds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "monoglycerides",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "leavening",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "grains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat gluten",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium propionate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b2",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "propionate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Unbleached Enriched Wheat Flour [Flour, Malted Barley Flour, Reduced Iron, Niacin, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Water, Sugar, Sesame Seeds, Yeast, Salt, Soybean Oil, Wheat Gluten, Monoglycerides, Calcium Propionate (Preservative), Malted Barley, Monocalcium Phosphate, Soy Lecithin, Azodicarbonamide",
+  "images": [
+    "https://spoonacular.com/productImages/22540-312x231.jpg",
+    "https://spoonacular.com/productImages/22540-636x393.jpg",
+    "https://spoonacular.com/productImages/22540-90x90.jpg"
+  ]
+}

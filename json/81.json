@@ -1,0 +1,402 @@
+{
+  "id": 22431,
+  "title": "Lipton Cup-A-Soup Hearty Chicken Noodle with White Meat Instant Soup - 3 CT",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "msg_free",
+    "no_artificial_colors",
+    "peanut_free",
+    "sugar_free",
+    "no_artificial_flavors",
+    "nut_free",
+    "no_artificial_ingredients",
+    "no_preservatives"
+  ],
+  "important_badges": [
+    "no_preservatives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "nut_free",
+    "peanut_free"
+  ],
+  "nutrition": {
+    "calories": 60.0,
+    "fat": "1g",
+    "protein": "2g",
+    "carbs": "10g"
+  },
+  "serving_size": "1 envelope",
+  "number_of_servings": 3.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "pasta",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated garlic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "poultry",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "animal product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "main dish",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast extract",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "broth",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "dietary fiber",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pasta flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "hydrolyzed vegetable protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "for",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "paprika",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nonfat dry milk.*dehydrated",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium inosinate",
+      "safety_level": "high",
+      "description": "Disodium inosinate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "powdered chicken",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "egg yolks",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ferrous sulfate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "parsley",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "each of the following",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "autolyzed yeast extract",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium guanylate",
+      "safety_level": "high",
+      "description": "Disodium guanylate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turmeric",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "durum wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken broth",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "chicken fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "whey",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "enriched egg noodles",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed soy protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "silicon dioxide",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": 33.0,
+  "ingredientList": "Enriched Egg Noodles [Wheat Flour, Eggs, Niacin, Iron, Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid], Maltodextrin, Modified Potato Starch, Salt, Chicken White Meat (Dehydrated), Chicken Fat, Chicken Powder, Autolyzed Yeast Extract, Onion Powder, Turmeric (for Color), Chicken Broth (Dehydrated), Spices, Parsley (Dehydrated), Natural Flavors, Egg Yolk (Dehydrated), Garlic Powder, Whey (Dehydrated), Nonfat Milk (Dehydrated)",
+  "images": [
+    "https://spoonacular.com/productImages/22431-312x231.jpg",
+    "https://spoonacular.com/productImages/22431-636x393.jpg",
+    "https://spoonacular.com/productImages/22431-90x90.jpg"
+  ]
+}

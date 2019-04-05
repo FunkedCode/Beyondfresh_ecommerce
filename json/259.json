@@ -1,0 +1,150 @@
+{
+  "id": 22609,
+  "title": "Land O Lakes(r) Butter Spread - Cinnamon Sugar",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "sulfite_free",
+    "nut_free",
+    "no_preservatives",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "no_artificial_flavors",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "no_additives",
+    "no_preservatives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "sulfite_free"
+  ],
+  "nutrition": {
+    "calories": 70.0,
+    "fat": "6g",
+    "protein": "0g",
+    "carbs": "4g"
+  },
+  "serving_size": "1.0 tbsp (13 g)",
+  "number_of_servings": 14.0,
+  "spoonacular_score": 100.0,
+  "breadcrumbs": [
+    "spreadable butter",
+    "butter",
+    "cooking fat",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cinnamon",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cream",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "canola oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 7.0,
+  "ingredientList": "Cream, Sugar, Canola Oil, Water, Cinnamon, Salt, Citric Acid",
+  "images": [
+    "https://spoonacular.com/productImages/22609-312x231.jpg",
+    "https://spoonacular.com/productImages/22609-636x393.jpg",
+    "https://spoonacular.com/productImages/22609-90x90.jpg"
+  ]
+}

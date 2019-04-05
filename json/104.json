@@ -1,0 +1,164 @@
+{
+  "id": 22454,
+  "title": "Gia Russa Pasta Sauce",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "vegetarian",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 160.0,
+    "fat": "14g",
+    "protein": "2g",
+    "carbs": "7g"
+  },
+  "serving_size": "1/2 Cup",
+  "number_of_servings": 5.0,
+  "spoonacular_score": 81.0,
+  "breadcrumbs": [
+    "pasta sauce",
+    "sauce",
+    "ingredient"
+  ],
+  "generatedText": "Gia Russa Pasta Sauce: This product is an excellent match if you are searching for a healthy noodles. This product contains no ingredients that some research suggests you should avoid. This product has 17 ingredients (in our experience: the fewer ingredients, the better!) This product contains 160 calories, 14g grams of fat, 2g grams of protein, and 7g grams of carbs per serving.",
+  "ingredients": [
+    {
+      "name": "100% pure cow's milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "all natural xanthan gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "crushed red pepper",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cultures",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enzyme",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "fresh basil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fresh garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fresh onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "heavy whipping cream",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "imported italian olive oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "imported italian parmigiano reggiano cheese",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "imported italian plum tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "probiotics",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rennet",
+      "safety_level": "high",
+      "description": "Rennet is an additive often used in cheese-making because the enzyme it contains curdles the milk. Traditionally, rennet is sourced from the stomachs of calves, but non-animal sources do exist. Certain types of cheese, such as authentic Parmesan and Gorgonzola, always use animal rennet. If you aren't sure whether a cheese is suitable for vegetarians, contact the manufacturer."
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "spirits",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vodka",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Imported Italian Plum Tomatoes, Heavy Whipping Cream (Milk), Fresh Onions, Imported Italian Olive Oil, Imported Italian Parmigiano Reggiano Cheese (100% Pure Cow's Milk, Cultures, Rennet, Salt), Salt and Spices, Fresh Garlic, Vodka, Crushed Red Pepper, Fresh Basil, All Natural Xanthan Gum",
+  "images": [
+    "https://spoonacular.com/productImages/22454-312x231.jpg",
+    "https://spoonacular.com/productImages/22454-636x393.jpg",
+    "https://spoonacular.com/productImages/22454-90x90.jpg"
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": 22585,
+  "title": "Angostura Premium Quality Strawberry Daiquiri Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "nut_free",
+    "peanut_free",
+    "vegetarian",
+    "vegan",
+    "pescetarian"
+  ],
+  "nutrition": {
+    "calories": 180.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "48g"
+  },
+  "serving_size": "4 oz",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 69.0,
+  "breadcrumbs": [
+    "daiquiri mix",
+    "cocktail mix"
+  ],
+  "generatedText": "Angostura Premium Quality Strawberry Daiquiri Mix: This product is an amazing fit if you are searching for a healthy daiquiri mix. This product contains no ingredients that some research suggests you should avoid. This product contains 180 calories, 0g grams of fat, 0g grams of protein, and 48g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 27 ingredients.",
+  "ingredients": [
+    {
+      "name": "1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "40",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "berries",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c blue no",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c red no",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fd",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "lemon juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium benzoate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "strawberry puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "High Fructose Corn Syrup, Water, Strawberry Puree, Sugar, Malic Acid, Xanthan Gum, Lemon Juice Concentrate, Artificial Flavor, Potassium Sorbate (Preservative), Sodium Benzoate (Preservative), FD&C Red No. 40, FD&C Blue No. 1",
+  "images": [
+    "https://spoonacular.com/productImages/22585-312x231.jpg",
+    "https://spoonacular.com/productImages/22585-636x393.jpg",
+    "https://spoonacular.com/productImages/22585-90x90.jpg"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": 22625,
+  "title": "King Arthur Flour Cake Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 160.0,
+    "fat": "1.5g",
+    "protein": "3g",
+    "carbs": "36g"
+  },
+  "serving_size": "0.33 cup (45 g)",
+  "number_of_servings": 14.0,
+  "spoonacular_score": 75.0,
+  "breadcrumbs": [
+    "baking mix",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for cake mix? You could try King Arthur Flour Cake Mix. This product has 22 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 160 calories, 1.5g grams of fat, 3g grams of protein, and 36g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alkali",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "baking powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "black cocoa",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "cocoa",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dutch cocoa",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "king arthur unbleached flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "leavening",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "malted barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monocalcium phosphate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "processed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium acid pyrophosphate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sodium bicarbonate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, King Arthur Unbleached Flour (Wheat Flour, Malted Barley Flour), Dutch Cocoa (Processed with Alkali), Cocoa (Processed with Alkali), Cornstarch, Black Cocoa (Processed with Alkali), Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Natural Flavor, Salt",
+  "images": [
+    "https://spoonacular.com/productImages/22625-312x231.jpg",
+    "https://spoonacular.com/productImages/22625-636x393.jpg",
+    "https://spoonacular.com/productImages/22625-90x90.jpg"
+  ]
+}

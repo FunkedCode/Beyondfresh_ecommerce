@@ -1,0 +1,124 @@
+{
+  "id": 22562,
+  "title": "Fudge in my Life Chocolate Sauce",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 160.0,
+    "fat": "11g",
+    "protein": "1g",
+    "carbs": "17g"
+  },
+  "serving_size": "2 tbsp",
+  "number_of_servings": 7.0,
+  "spoonacular_score": 85.0,
+  "breadcrumbs": [
+    "fudge",
+    "dessert"
+  ],
+  "generatedText": "Fudge in my Life Chocolate Sauce: This product is a tremendous fit if you are searching for a healthy food product. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 14 ingredients. This product contains no ingredients that some research suggests you should avoid. One serving of this product provides 160 calories, 11g grams of fat, 1g grams of protein, and 17g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "processed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "brown sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "butter",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cream",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cocoa powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "honey natural flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alkali",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Cream, Brown Sugar, Cocoa Powder (Processed with Alkali), Sugar, Butter, Honey Natural Flavor and Salt",
+  "images": [
+    "https://spoonacular.com/productImages/22562-312x231.jpg",
+    "https://spoonacular.com/productImages/22562-636x393.jpg",
+    "https://spoonacular.com/productImages/22562-90x90.jpg"
+  ]
+}

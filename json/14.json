@@ -1,0 +1,121 @@
+{
+  "id": 22364,
+  "title": "JFC Coconut Milk",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "sulfite_free",
+    "nut_free",
+    "vegan",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "no_artificial_flavors",
+    "sugar_free",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "no_additives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "sulfite_free",
+    "gluten_free"
+  ],
+  "nutrition": {
+    "calories": 90.0,
+    "fat": "9g",
+    "protein": "1g",
+    "carbs": "2g"
+  },
+  "serving_size": null,
+  "number_of_servings": 5.0,
+  "spoonacular_score": 70.0,
+  "breadcrumbs": [
+    "coconut milk",
+    "milk substitute",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "coconut milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "guar gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "polysorbate 60",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "potassium metabisulphite",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sulfite",
+      "safety_level": "medium",
+      "description": "Sulfites are safe for most people, but some asthmatics and other people who are sensitive to sulfites should avoid them."
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 5.0,
+  "ingredientList": "Coconut Milk, Guar Gum, Polysorbate 60 (Emulsifier) and Potassium Metabisulphite (Preservative)",
+  "images": [
+    "https://spoonacular.com/productImages/22364-312x231.jpg",
+    "https://spoonacular.com/productImages/22364-636x393.jpg",
+    "https://spoonacular.com/productImages/22364-90x90.jpg"
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": 22432,
+  "title": "Goodman's Soup Mix",
+  "price": 139.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegetarian",
+    "vegan",
+    "wheat_free",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 100.0,
+    "fat": "0.5g",
+    "protein": "6g",
+    "carbs": "0g"
+  },
+  "serving_size": "1 cup pre",
+  "number_of_servings": 6.0,
+  "spoonacular_score": 59.0,
+  "breadcrumbs": [
+    "soup mix",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some soup mix today? Goodman's Soup Mix is one option; let's take a closer look. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 37 ingredients. This product contains 100 calories, 0.5g grams of fat, 6g grams of protein, and 0g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid. The price of a product varies depending on the store, location, current sales, etc., but this product usually costs roughly $1.39. This amounts to $0 per serving.",
+  "ingredients": [
+    {
+      "name": "turmeric",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "sodium bisulfite",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "cottonseed oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spinach",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "main dish",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "paprika",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium chloride",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweet pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pasta",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "celery",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched macaroni products",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sulfite",
+      "safety_level": "medium",
+      "description": "Sulfites are safe for most people, but some asthmatics and other people who are sensitive to sulfites should avoid them."
+    },
+    {
+      "name": "ferrous sulfite",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium citrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carrots",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "root vegetables",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monosodium glutamate",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vegetable shortening",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "green",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bell peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated soybean",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow split peas",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "semolina",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Green & Yellow Split Peas, Enriched Macaroni Products (Semolina, Niacin, Ferrous Sulfite, Thiamin Mononitrate, Riboflavin, & Folic Acid), Onions, Sugar, Potassium Chloride, Monosodium Glutamate, Potatoes, Carrots, Garlic, Vegetable Shortening (Partially Hydrogenated Soybean & Cottonseed Oil, Celery, Tomatoes, Bell Peppers, Spinach, Potassium Citrate, Spices, Paprika, Turmeric, Sodium Bisulfite Added as a Preservative",
+  "images": [
+    "https://spoonacular.com/productImages/22432-312x231.jpg",
+    "https://spoonacular.com/productImages/22432-636x393.jpg",
+    "https://spoonacular.com/productImages/22432-90x90.jpg"
+  ]
+}

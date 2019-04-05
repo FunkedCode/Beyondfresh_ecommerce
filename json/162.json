@@ -1,0 +1,169 @@
+{
+  "id": 22512,
+  "title": "Clint's Texas Salsa Medium",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "nut_free",
+    "vegan",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "no_artificial_flavors",
+    "sugar_free",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "corn_free",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "gluten_free",
+    "vegan",
+    "sugar_free"
+  ],
+  "nutrition": {
+    "calories": 10.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "2g"
+  },
+  "serving_size": null,
+  "number_of_servings": 16.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "salsa",
+    "dip",
+    "appetizer"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium chloride",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cilantro",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "distilled vinegar",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lemon juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "serrano peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato juice",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "tomato paste",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable juice",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 12.0,
+  "ingredientList": "Tomatoes (Tomatoes, Tomato Juice, Calcium Chloride, Citric Acid), Onions, Serrano Peppers, Cilantro, Tomato Paste, Garlic, Salt, Lemon Juice",
+  "images": [
+    "https://spoonacular.com/productImages/22512-312x231.jpg",
+    "https://spoonacular.com/productImages/22512-636x393.jpg",
+    "https://spoonacular.com/productImages/22512-90x90.jpg"
+  ]
+}

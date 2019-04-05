@@ -1,0 +1,188 @@
+{
+  "id": 22389,
+  "title": "World Foods Stir-Fry Sauce",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegan",
+    "wheat_free",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 70.0,
+    "fat": "3g",
+    "protein": "1g",
+    "carbs": "11g"
+  },
+  "serving_size": "0.25 jar (85 g)",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 78.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "In the mood for food product? You could try World Foods Stir-Fry Sauce. This product contains 70 calories, 3g grams of fat, 1g grams of protein, and 11g grams of carbs per serving. This product has 20 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "0.3%",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "6%",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "basil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "coconut milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "coriander",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dried chili",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "kaffir lime leaves",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lemon grass",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified tapioca starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tamarind puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tapioca starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Water, Coconut Milk, Sugar, Onion, Lemon Grass, Dried Chili (6%), Garlic, Salt, Tamarind Puree, Modified Tapioca Starch, Kaffir Lime Leaves, Basil (0.3%), Coriander",
+  "images": [
+    "https://spoonacular.com/productImages/22389-312x231.jpg",
+    "https://spoonacular.com/productImages/22389-636x393.jpg",
+    "https://spoonacular.com/productImages/22389-90x90.jpg"
+  ]
+}

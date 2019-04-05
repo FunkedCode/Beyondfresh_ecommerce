@@ -1,0 +1,192 @@
+{
+  "id": 22465,
+  "title": "Smoked Cooked 21500",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "nut_free",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "wheat_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 180.0,
+    "fat": "17g",
+    "protein": "7g",
+    "carbs": "1g"
+  },
+  "serving_size": "56 g",
+  "number_of_servings": 12.0,
+  "spoonacular_score": 76.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "Smoked Cooked 21500: This product is a spectacular fit if you are searching for a healthy food product. This product contains 180 calories, 17g grams of fat, 7g grams of protein, and 1g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 22 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "pork",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sodium erythorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "animal product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oleoresin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "beef",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium nitrate in natural sheep casing",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "made from sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oleoresin of paprika",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "red meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spice extractive",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "monosodium glutamate",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Beef And Pork, Water, Salt, Corn Syrup, Spices, Dextrose, Monosodium Glutamate, Oleoresin of Paprika, Sodium Erythorbate (Made from Sugar), Sodium Nitrate In Natural Sheep Casing",
+  "images": [
+    "https://spoonacular.com/productImages/22465-312x231.jpg",
+    "https://spoonacular.com/productImages/22465-636x393.jpg",
+    "https://spoonacular.com/productImages/22465-90x90.jpg"
+  ]
+}

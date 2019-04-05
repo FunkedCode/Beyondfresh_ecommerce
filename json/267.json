@@ -1,0 +1,314 @@
+{
+  "id": 22617,
+  "title": "Dr. Oetker Cake Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "corn",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "corn",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 230.0,
+    "fat": "5g",
+    "protein": "2g",
+    "carbs": "43g"
+  },
+  "serving_size": "0.125 package (56 g)",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 66.0,
+  "breadcrumbs": [
+    "baking mix",
+    "ingredient"
+  ],
+  "generatedText": "Dr. Oetker Cake Mix: This product is an excellent fit if you are searching for a healthy cake mix. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 30 ingredients. This product contains 230 calories, 5g grams of fat, 2g grams of protein, and 43g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "contains less than 1.0 percent of sodium acid pyrophosphate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "esters",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "propylene glycol mono fatty",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "glaze",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soya lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "contains soya or palm kernel oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "processed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gluten free flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alkali",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cake mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cellulose gum",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sodium bicarbonate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "coca",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat syrup solids",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "hydrogenated vegetable oil",
+      "safety_level": "high",
+      "description": "Unlike partially hydrogenated oils, fully hydrogenated oils do not contain trans fat and thus are currently considered safer."
+    },
+    {
+      "name": "baking mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "polysorbate 80",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "corn",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "glycerol-lacto esters of fatty acids",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Cake Mix: Enriched Flour (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid). Sugar, Contains Less than 1.0 Percent of Sodium Acid Pyrophosphate, Sodium Bicarbonate, Glycerol-Lacto Esters of Fatty Acids, Propylene Glycol Mono Fatty and Esters, Polysorbate 80, Disodium Phosphate, Soy Flour, Corn and Wheat Syrup Solids, Cellulose Gum, Salt, Artificial Flavor. Glaze: Hydrogenated Vegetable Oil, (Contains Soya or Palm Kernel Oil), Sugar, Coca (Processed with Alkali), Soya Lecithin, Natural and Artificial Flavor",
+  "images": [
+    "https://spoonacular.com/productImages/22617-312x231.jpg",
+    "https://spoonacular.com/productImages/22617-636x393.jpg",
+    "https://spoonacular.com/productImages/22617-90x90.jpg"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": 22473,
+  "title": "Ouh LaLa Fruit to Go",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "paleo",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 50.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "13g"
+  },
+  "serving_size": "1 pouch",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 89.0,
+  "breadcrumbs": [
+    "fruit",
+    "flavor"
+  ],
+  "generatedText": "Thinking about having some fruit today? Ouh LaLa Fruit to Go is one option; let's take a closer look. This product has 8 ingredients (in our experience: the fewer ingredients, the better!) This product contains 50 calories, 0g grams of fat, 0g grams of protein, and 13g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "banana",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apple",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated apple juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lemon juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tropical fruit",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Apple, Banana, Concentrated Apple Juice, Lemon Juice",
+  "images": [
+    "https://spoonacular.com/productImages/22473-312x231.jpg",
+    "https://spoonacular.com/productImages/22473-636x393.jpg",
+    "https://spoonacular.com/productImages/22473-90x90.jpg"
+  ]
+}

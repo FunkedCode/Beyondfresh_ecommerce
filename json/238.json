@@ -1,0 +1,137 @@
+{
+  "id": 22588,
+  "title": "Fever-Tree Premium Natural Mixers Bitter Lemon",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "sulfite_free",
+    "nut_free",
+    "vegan",
+    "no_preservatives",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "no_artificial_flavors",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "no_additives",
+    "no_preservatives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "sulfite_free"
+  ],
+  "nutrition": {
+    "calories": 75.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "18g"
+  },
+  "serving_size": "1 bottle",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 100.0,
+  "breadcrumbs": [
+    "lemon",
+    "citrus fruit",
+    "fruit",
+    "flavor"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "carbonated spring water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural lemon flavours",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lemon fruit from concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural quinine",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "7.8%",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "granulated sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ascorbic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 8.0,
+  "ingredientList": "Spring Water, Cane Sugar, Lemon Juice (3.7%), Citric Acid, Natural Flavours, Natural Quinine",
+  "images": [
+    "https://spoonacular.com/productImages/22588-312x231.jpg",
+    "https://spoonacular.com/productImages/22588-636x393.jpg",
+    "https://spoonacular.com/productImages/22588-90x90.jpg"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "id": 22506,
+  "title": "Saratoga Salsa Company Premium Salsa",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 10.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "3g"
+  },
+  "serving_size": "2 tbsp",
+  "number_of_servings": 16.0,
+  "spoonacular_score": 75.0,
+  "breadcrumbs": [
+    "salsa",
+    "dip",
+    "appetizer"
+  ],
+  "generatedText": "Saratoga Salsa Company Premium Salsa: This product is a tremendous match if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. One serving of this product provides 10 calories, 0g grams of fat, 1g grams of protein, and 3g grams of carbs. This product has 22 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bell pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium chloride",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cilantro",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "jalapeno peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified corn starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oregano",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "plum tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "spicy pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweet pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white pepper",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "white vinegar",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Plum Tomatoes, White Onions, Jalapeno Peppers, White Pepper, Tomato Puree, Cilantro, White Vinegar, Salt, Garlic, Calcium Chloride, Modified Corn Starch, Citric, Onion Powder, Garlic Powder, Red Pepper and Oregano",
+  "images": [
+    "https://spoonacular.com/productImages/22506-312x231.jpg",
+    "https://spoonacular.com/productImages/22506-636x393.jpg",
+    "https://spoonacular.com/productImages/22506-90x90.jpg"
+  ]
+}

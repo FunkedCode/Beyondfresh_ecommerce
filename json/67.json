@@ -1,0 +1,67 @@
+{
+  "id": 22417,
+  "title": "Lundberg Organic Burgundy Red Rice",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "sustainable",
+    "primal",
+    "peanut_free",
+    "sulfite_free",
+    "nut_free",
+    "vegan",
+    "no_preservatives",
+    "soy_free",
+    "msg_free",
+    "gmo_free",
+    "no_artificial_colors",
+    "no_artificial_flavors",
+    "vegetarian",
+    "sugar_free",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free",
+    "gluten_free",
+    "paleo",
+    "dairy_free",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "no_additives",
+    "no_preservatives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients"
+  ],
+  "nutrition": {
+    "calories": 150.0,
+    "fat": "1g",
+    "protein": "4g",
+    "carbs": "32g"
+  },
+  "serving_size": "0.25 cup dry (45 g)",
+  "number_of_servings": 10.0,
+  "spoonacular_score": 100.0,
+  "breadcrumbs": [
+    "rice",
+    "grains",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "whole grain burgundy red rice",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 1.0,
+  "ingredientList": "Organic Whole Grain Burgundy Red Rice. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22417-312x231.jpg",
+    "https://spoonacular.com/productImages/22417-636x393.jpg",
+    "https://spoonacular.com/productImages/22417-90x90.jpg"
+  ]
+}

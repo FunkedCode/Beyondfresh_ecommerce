@@ -1,0 +1,188 @@
+{
+  "id": 22581,
+  "title": "Canada Dry Bitter Lemon",
+  "price": 329.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "primal",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegan",
+    "paleo",
+    "primal",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 100.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "26g"
+  },
+  "serving_size": "8 oz",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 71.0,
+  "breadcrumbs": [
+    "lemon",
+    "citrus fruit",
+    "fruit",
+    "flavor"
+  ],
+  "generatedText": "Canada Dry Bitter Lemon: This product is an excellent fit if you like to buy products that are vegetarian, vegan, and gluten-free. This product has 23 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid. One serving of this product provides 100 calories, 0g grams of fat, 0g grams of protein, and 26g grams of carbs. This product is also pretty expensive. It usually costs around $3.29, depending on the store and your location.",
+  "ingredients": [
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gum acacia",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "quinine",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carbonated water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated lemon juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ascorbic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "or sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Carbonated Water, High Fructose Corn Syrup and/or Sugar, Concentrated Lemon Juice, Citric Acid, Ascorbic Acid (Preservative), Gum Acacia, Quinine",
+  "images": [
+    "https://spoonacular.com/productImages/22581-312x231.jpg",
+    "https://spoonacular.com/productImages/22581-636x393.jpg",
+    "https://spoonacular.com/productImages/22581-90x90.jpg"
+  ]
+}

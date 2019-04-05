@@ -1,0 +1,394 @@
+{
+  "id": 22407,
+  "title": "Fortune Udon",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "nut_free",
+    "soy",
+    "pescetarian"
+  ],
+  "important_badges": [
+    "soy"
+  ],
+  "nutrition": {
+    "calories": 140.0,
+    "fat": "0.5g",
+    "protein": "4g",
+    "carbs": "29g"
+  },
+  "serving_size": "0.5 package (100 g)",
+  "number_of_servings": 2.0,
+  "spoonacular_score": 46.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "In the mood for food product? You could try Fortune Udon. This product contains 1 ingredient that some research suggests you should avoid. This product has 49 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 140 calories, 0.5g grams of fat, 4g grams of protein, and 29g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "noodle",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "hydrolyzed plant protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "beef stock",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried leeks",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milled flaxseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stock",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "reduced iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "meat substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat gluten",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "main dish",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated soybean",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy wheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium guanylate",
+      "safety_level": "high",
+      "description": "Disodium guanylate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cottonseed oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed corn gluten",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "disodium inosinate",
+      "safety_level": "high",
+      "description": "Disodium inosinate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "seeds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybeans",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamine mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flaxseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed vegetable protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "calcium carbonate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sauce",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy sauce powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Noodle: Water, Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Modified Food Starch, Milled Flaxseed, Salt. Sauce: Salt, Maltodextrin, Soy Sauce Powder (Soy Sauce (Wheat, Soybeans, Salt), Maltodextrin, Salt), Sugar, Onion Powder, Disodium Guanylate, Disodium Inosinate, Caramel Color, Hydrolyzed Plant Protein (Hydrolyzed Corn Gluten, Soy Protein and Wheat Gluten, Partially Hydrogenated Soybean and Cottonseed Oil), Beef Stock, Dried Leeks, Spices, Garlic Powder, Corn Oil, Calcium Carbonate",
+  "images": [
+    "https://spoonacular.com/productImages/22407-312x231.jpg",
+    "https://spoonacular.com/productImages/22407-636x393.jpg",
+    "https://spoonacular.com/productImages/22407-90x90.jpg"
+  ]
+}

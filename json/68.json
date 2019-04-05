@@ -1,0 +1,55 @@
+{
+  "id": 22418,
+  "title": "Roland Red Rice",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "primal",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "vegan",
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 200.0,
+    "fat": "1.5g",
+    "protein": "5g",
+    "carbs": "42g"
+  },
+  "serving_size": "0.25 cup (55 g)",
+  "number_of_servings": 18.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "rice",
+    "grains",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some rice today? Roland Red Rice is one option; let's take a closer look. One serving of this product provides 200 calories, 1.5g grams of fat, 5g grams of protein, and 42g grams of carbs. This product contains no ingredients that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 1 ingredient.",
+  "ingredients": [
+    {
+      "name": "long grain conventional red rice",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Long Grain Conventional Red Rice",
+  "images": [
+    "https://spoonacular.com/productImages/22418-312x231.jpg",
+    "https://spoonacular.com/productImages/22418-636x393.jpg",
+    "https://spoonacular.com/productImages/22418-90x90.jpg"
+  ]
+}

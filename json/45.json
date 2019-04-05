@@ -1,0 +1,77 @@
+{
+  "id": 22395,
+  "title": "Explore Asian Noodles",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "primal",
+    "nut_free",
+    "vegan",
+    "grain_free",
+    "vegetarian",
+    "pescetarian",
+    "gluten_free",
+    "paleo",
+    "dairy_free",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "gluten_free",
+    "vegan",
+    "paleo",
+    "primal",
+    "wheat_free"
+  ],
+  "nutrition": {
+    "calories": 200.0,
+    "fat": "1.5g",
+    "protein": "4g",
+    "carbs": "44g"
+  },
+  "serving_size": "2.0 oz (56 g)",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 95.0,
+  "breadcrumbs": [
+    "pasta",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some food product today? Explore Asian Noodles is one option; let's take a closer look. This product contains 200 calories, 1.5g grams of fat, 4g grams of protein, and 44g grams of carbs per serving. This product has 4 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "jasmine brown rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "92%",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "8%",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Organic Jasmine Brown Rice (92%), Water (8%). Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22395-312x231.jpg",
+    "https://spoonacular.com/productImages/22395-636x393.jpg",
+    "https://spoonacular.com/productImages/22395-90x90.jpg"
+  ]
+}

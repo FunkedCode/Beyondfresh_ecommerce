@@ -1,0 +1,80 @@
+{
+  "id": 22467,
+  "title": "Andros Fruit Sauce",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "vegan",
+    "paleo",
+    "primal",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 50.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "13g"
+  },
+  "serving_size": "1.0 pouch (113 g)",
+  "number_of_servings": null,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "sauce",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some fruit today? Andros Fruit Sauce is one option; let's take a closer look. One serving of this product provides 50 calories, 0g grams of fat, 0g grams of protein, and 13g grams of carbs. This product has 1 ingredient (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apples",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin c",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Apples, Vitamin C. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22467-312x231.jpg",
+    "https://spoonacular.com/productImages/22467-636x393.jpg",
+    "https://spoonacular.com/productImages/22467-90x90.jpg"
+  ]
+}

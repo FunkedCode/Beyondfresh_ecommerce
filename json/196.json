@@ -1,0 +1,259 @@
+{
+  "id": 22546,
+  "title": "Maggi Soup Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian"
+  ],
+  "important_badges": [
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 60.0,
+    "fat": "1g",
+    "protein": "1g",
+    "carbs": "9g"
+  },
+  "serving_size": "0.25 packet (16 g)",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 67.0,
+  "breadcrumbs": [
+    "soup mix",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for soup mix? You could try Maggi Soup Mix. This product contains 60 calories, 1g grams of fat, 1g grams of protein, and 9g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 31 ingredients. This product contains 2 ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "contains egg",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "less than 2% of chicken fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated tomato",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated carrot",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavors",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turmeric",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated palm oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monosodium glutamate",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "palm oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium inosinate",
+      "safety_level": "high",
+      "description": "Disodium inosinate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "nonfat milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cornstarch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dough conditioner",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast extract",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tbhq",
+      "safety_level": "controversial",
+      "description": "TBHQ is considered safe in low doses by the European Food Safety Authority and the FDA. However, there has been conflicting research regarding its potentially harmful effects. For this reason, the Center for Science in the Public Interest recommends avoiding it whenever possible."
+    },
+    {
+      "name": "l-cysteine",
+      "safety_level": "high",
+      "description": "Although synthetic versions exist, L-cysteine is often sourced from duck or chicken feathers, hog hair, and even human hair, so it is often not suitable for vegetarians and vegans."
+    },
+    {
+      "name": "spice",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "succinic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sodium acetate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dehydrated chicken",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Wheat Flour, Cornstarch, Nonfat Milk, Salt, Partially Hydrogenated Palm Oil, Monosodium Glutamate, Onion Powder, and Less than 2% of Chicken Fat, Dehydrated Carrot, Sugar, Turmeric, Dehydrated Chicken, Dehydrated Tomato, Disodium Inosinate, Natural and Artificial Flavors (Contains Egg), Spice, L-Cysteine, Yeast Extract, Sodium Acetate, Succinic Acid, TBHQ (Preservative)",
+  "images": [
+    "https://spoonacular.com/productImages/22546-312x231.jpg",
+    "https://spoonacular.com/productImages/22546-636x393.jpg",
+    "https://spoonacular.com/productImages/22546-90x90.jpg"
+  ]
+}

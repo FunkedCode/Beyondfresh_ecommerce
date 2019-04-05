@@ -1,0 +1,171 @@
+{
+  "id": 22520,
+  "title": "Sage Valley Salsa",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "primal",
+    "nut_free",
+    "vegan",
+    "grain_free",
+    "vegetarian",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 10.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "2g"
+  },
+  "serving_size": "2.0 tbsp (28 g)",
+  "number_of_servings": null,
+  "spoonacular_score": 93.0,
+  "breadcrumbs": [
+    "salsa",
+    "dip",
+    "appetizer"
+  ],
+  "generatedText": "In the mood for chili's salsa? You could try Sage Valley Salsa. This product contains 10 calories, 0g grams of fat, 0g grams of protein, and 2g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 6 ingredients.",
+  "ingredients": [
+    {
+      "name": "black pepper",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "canned tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cider vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cilantro",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "cumin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "diced tomatoes",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "jalapeno powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "jalapenos",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sea salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "spicy pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Organic Diced Tomatoes, Organic Onions, Water, Organic Crushed Tomatoes, Organic Jalapenos, Organic Garlic, Organic Cilantro, Organic Cider Vinegar, Sea Salt, Organic Lime Juice Concentrate, Organic Cumin, Organic Black Pepper, Organic Jalapeno Powder. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22520-312x231.jpg",
+    "https://spoonacular.com/productImages/22520-636x393.jpg",
+    "https://spoonacular.com/productImages/22520-90x90.jpg"
+  ]
+}

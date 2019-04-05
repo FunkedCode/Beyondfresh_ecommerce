@@ -1,0 +1,331 @@
+{
+  "id": 22479,
+  "title": "Glutino Bagels",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "wheat_free"
+  ],
+  "nutrition": {
+    "calories": 220.0,
+    "fat": "5g",
+    "protein": "3g",
+    "carbs": "41g"
+  },
+  "serving_size": "0.5 bagel",
+  "number_of_servings": 10.0,
+  "spoonacular_score": 59.0,
+  "breadcrumbs": [
+    "bagel",
+    "baked goods"
+  ],
+  "generatedText": "Glutino Bagels: This product is an excellent fit if you are searching for a healthy bagel. This product contains 220 calories, 5g grams of fat, 3g grams of protein, and 41g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 34 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "safflower oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium bicarbonate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamine",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "liquid yolks",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified vegetable cellulose",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "egg whites",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "palm kernel oils",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "alginate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "guar gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dried raisins",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "palm",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium alginate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "skim milk powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cinnamon",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "liquid egg whites",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "pectin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "margarine",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "evaporated cane juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tapioca starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cane sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "glucono-delta-lactone",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "order may vary",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Corn Mix (Corn Starch, Skim Milk Powder, Evaporated Cane Juice, Salt, Glucono-Delta-Lactone, Pectin, Sodium Bicarbonate, Sodium Alginate, Modified Vegetable Cellulose), Water, Tapioca Starch, Dried Raisins, Margarine (Palm and Palm Kernel Oils, Soy Lecithin), Skim Milk Powder, Evaporated Cane Juice, Liquid Egg Whites, Safflower Oil, Liquid Yolks, Cinnamon, Guar Gum, Yeast (Order may Vary), Salt, Thiamine, Niacin, Vitamin B6, Riboflavin, Iron, Calcium. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22479-312x231.jpg",
+    "https://spoonacular.com/productImages/22479-636x393.jpg",
+    "https://spoonacular.com/productImages/22479-90x90.jpg"
+  ]
+}

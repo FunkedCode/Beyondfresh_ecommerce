@@ -1,0 +1,381 @@
+{
+  "id": 22537,
+  "title": "Healthy Life Bread - Sugar Free 100% Whole Grain Wheat",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "msg_free",
+    "no_artificial_colors",
+    "peanut_free",
+    "no_artificial_flavors",
+    "sugar_free",
+    "sulfite_free",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "nut_free",
+    "no_additives",
+    "corn_free"
+  ],
+  "important_badges": [
+    "no_additives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "sulfite_free",
+    "nut_free"
+  ],
+  "nutrition": {
+    "calories": 80.0,
+    "fat": "1g",
+    "protein": "5g",
+    "carbs": "16g"
+  },
+  "serving_size": null,
+  "number_of_servings": 11.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "bread",
+    "baked goods"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ascorbic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "azodicarbonamide",
+      "safety_level": "low",
+      "description": "Azodicarbonamide is often found in bread. It is banned in Europe as a food additive and is listed as an additive to avoid by the CSPI because it may be a carcinogen."
+    },
+    {
+      "name": "badge",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bleaching agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium peroxide",
+      "safety_level": null,
+      "description": "While there does not appear to be any conclusive evidence that calcium peroxide is harmful to consume, it IS prohibited in the European Union and China. According to the Chinese Health Minister, this additive is no longer necessary thanks to modern processing techniques. For this reason, we think it is worth avoiding when possible."
+    },
+    {
+      "name": "calcium propionate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "calcium sulfate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dietary fiber",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dough conditioners",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dough conditioner",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ethoxylated mono-diglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fat substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fumaric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "guar gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "low calorie sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "meat substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monoglycerides",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "polydextrose",
+      "safety_level": "medium",
+      "description": "Consuming large amounts of polydextrose may cause gastrointestinal discomfort."
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "propionate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "search modifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium stearoyl lactylate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sucralose",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "sugar substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "to prevent spoilage",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat gluten",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat starch",
+      "safety_level": "high",
+      "description": "Wheat starch can be processed to remove enough of the gluten to make it gluten free (<a href=\"http://www.glutafin.co.uk/coeliac-students/codex-wheat-starch/\">legally speaking</a>) but it may be wise to avoid products with wheat starch unless they specifically state they are suitable for gluten free diets."
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole grain",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 26.0,
+  "ingredientList": "Water, Whole Wheat Flour, Wheat Gluten, Oat Fiber, Yeast, Contains 2% or Less of the Following: Polydextrose, Salt, Dough Conditioners (Monoglycerides, Ethoxylated Mono- & Diglycerides, Sodium Stearoyl Lactylate, Ascorbic Acid, Calcium Peroxide), Calcium Propionate, Potassium Sorbate (to Retain Freshness), Fumaric Acid, Soybean Oil, Yeast Nutrients (Calcium Sulfate, Ammonium Sulfate), Wheat Starch, Sucralose, Soy Lecithin",
+  "images": [
+    "https://spoonacular.com/productImages/22537-312x231.jpg",
+    "https://spoonacular.com/productImages/22537-636x393.jpg",
+    "https://spoonacular.com/productImages/22537-90x90.jpg"
+  ]
+}

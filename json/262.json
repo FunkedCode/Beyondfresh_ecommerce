@@ -1,0 +1,261 @@
+{
+  "id": 22612,
+  "title": "A 1 Marinade - Classic",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "msg_free",
+    "no_artificial_colors",
+    "peanut_free",
+    "no_artificial_flavors",
+    "sugar_free",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "nut_free",
+    "gluten_free",
+    "soy_free"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "gluten_free",
+    "sugar_free",
+    "msg_free"
+  ],
+  "nutrition": {
+    "calories": 15.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "4g"
+  },
+  "serving_size": null,
+  "number_of_servings": 32.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "marinade",
+    "seasoning",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium disodium edta",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "celery seed",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "crushed orange puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried garlic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dried onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "raisin juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "raisin paste",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "to preserve freshness",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato paste",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "tomato puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    }
+  ],
+  "ingredientCount": 19.0,
+  "ingredientList": "Tomato Puree (Water, Tomato Paste), Vinegar, Corn Syrup, High Fructose Corn Syrup, Salt, Raisin Juice Concentrate, Contains Less Than 2% of Crushed Orange Puree, Spices, Raisin Paste, Dried Garlic, Caramel Color, Xanthan Gum, Dried Onions, Calcium Disodium Edta and Potassium Sorbate to Preserve Freshness",
+  "images": [
+    "https://spoonacular.com/productImages/22612-312x231.jpg",
+    "https://spoonacular.com/productImages/22612-636x393.jpg",
+    "https://spoonacular.com/productImages/22612-90x90.jpg"
+  ]
+}

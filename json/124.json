@@ -1,0 +1,123 @@
+{
+  "id": 22474,
+  "title": "Santa Cruz Organic Apple Sauce - Organic Cinnamon 4 oz",
+  "price": 479.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "sulfite_free",
+    "nut_free",
+    "vegan",
+    "no_preservatives",
+    "soy_free",
+    "msg_free",
+    "gmo_free",
+    "no_artificial_colors",
+    "sugar_free",
+    "no_artificial_flavors",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free",
+    "dairy_free",
+    "gluten_free",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "no_additives",
+    "no_preservatives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients"
+  ],
+  "nutrition": {
+    "calories": 70.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "19g"
+  },
+  "serving_size": "113 g",
+  "number_of_servings": 6.0,
+  "spoonacular_score": 100.0,
+  "breadcrumbs": [
+    "applesauce",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apples",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apple juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin c",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cinnamon",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 5.0,
+  "ingredientList": "Organic Apples, Organic Apple Juice Concentrate, Organic Cinnamon, Vitamin C (Ascorbic Acid)",
+  "images": [
+    "https://spoonacular.com/productImages/22474-312x231.jpg",
+    "https://spoonacular.com/productImages/22474-636x393.jpg",
+    "https://spoonacular.com/productImages/22474-90x90.jpg"
+  ]
+}

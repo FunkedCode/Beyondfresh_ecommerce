@@ -1,0 +1,214 @@
+{
+  "id": 22524,
+  "title": "Hillshire Farm Turkey Polska Kielbasa",
+  "price": 399.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "nut_free",
+    "soy",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "soy"
+  ],
+  "nutrition": {
+    "calories": 130.0,
+    "fat": "7g",
+    "protein": "12g",
+    "carbs": "3g"
+  },
+  "serving_size": "1 link",
+  "number_of_servings": 6.0,
+  "spoonacular_score": 76.0,
+  "breadcrumbs": [
+    "kielbasa",
+    "sausage",
+    "processed meat",
+    "meat",
+    "animal product"
+  ],
+  "generatedText": "Are you trying to decide on a polish sausage? Here's some information to help you decide whether Hillshire Farm Turkey Polska Kielbasan is the right product for you. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 19 ingredients. One serving of this product provides 130 calories, 7g grams of fat, 12g grams of protein, and 3g grams of carbs. This product contains no ingredients that some research suggests you should avoid. The price of a product varies depending on the store, location, current sales, etc., but this product usually costs approximately $3.99. This amounts to $1 per serving.",
+  "ingredients": [
+    {
+      "name": "processed meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mechanically separated turkey",
+      "safety_level": "medium",
+      "description": "Though mechanically separated meat has received a lot of bad press recently, it is not necessarily harmful or unsafe. It is, however, extremely processed and frankly pretty gross - we'll pass."
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ascorbic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turkey",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "poultry",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "isolated soy protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mechanically separated poultry",
+      "safety_level": "medium",
+      "description": "Though mechanically separated meat has received a lot of bad press recently, it is not necessarily harmful or unsafe. It is, however, extremely processed and frankly pretty gross - we'll pass."
+    },
+    {
+      "name": "meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "animal product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nitrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monosodium glutamate",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "curing agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavorings",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mechanically separated meat",
+      "safety_level": "medium",
+      "description": "Though mechanically separated meat has received a lot of bad press recently, it is not necessarily harmful or unsafe. It is, however, extremely processed and frankly pretty gross - we'll pass."
+    },
+    {
+      "name": "sodium nitrite",
+      "safety_level": "controversial",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Turkey, Water, Mechanically Separated Turkey, Corn Syrup, Salt, 2% or Less of: Dextrose, Flavorings, Monosodium Glutamate, Isolated Soy Protein, Ascorbic Acid (Vitamin C), Sodium Nitrite",
+  "images": [
+    "https://spoonacular.com/productImages/22524-312x231.jpg",
+    "https://spoonacular.com/productImages/22524-636x393.jpg",
+    "https://spoonacular.com/productImages/22524-90x90.jpg"
+  ]
+}

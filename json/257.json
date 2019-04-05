@@ -1,0 +1,187 @@
+{
+  "id": 22607,
+  "title": "Betty Crocker Cookie Icing",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegan",
+    "wheat_free",
+    "dairy_free",
+    "egg_free"
+  ],
+  "nutrition": {
+    "calories": 120.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "30g"
+  },
+  "serving_size": "2.0 tbsp (35 g)",
+  "number_of_servings": 6.0,
+  "spoonacular_score": 70.0,
+  "breadcrumbs": [
+    "cookies",
+    "dessert"
+  ],
+  "generatedText": "Are you trying to decide on an ice? Here's some information to help you decide whether Betty Crocker Cookie Icing is the right product for you. This product has 28 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid. This product contains 120 calories, 0g grams of fat, 0g grams of protein, and 30g grams of carbs per serving.",
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gum arabic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "artificial food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "yellow 6",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "blue 1",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alginate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red 40",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "propylene glycol alginate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow 5",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, Water, Corn Syrup, Gum Arabic, Propylene Glycol Alginate, Xanthan Gum, Red 40, Blue 1, Potassium Sorbate (Preservative), Natural and Artificial Flavor, Yellow 6, Citric Acid, Yellow 5",
+  "images": [
+    "https://spoonacular.com/productImages/22607-312x231.jpg",
+    "https://spoonacular.com/productImages/22607-636x393.jpg",
+    "https://spoonacular.com/productImages/22607-90x90.jpg"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": 22422,
+  "title": "Wax Orchards Peanut Butter Fudge",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "vegetarian",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "vegan",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 55.0,
+    "fat": "1.5g",
+    "protein": "1g",
+    "carbs": "9g"
+  },
+  "serving_size": "1 tbsp",
+  "number_of_servings": 22.0,
+  "spoonacular_score": 95.0,
+  "breadcrumbs": [
+    "peanut butter",
+    "nut butter",
+    "spread",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for peanut butter? You could try Wax Orchards Peanut Butter Fudge. This product has 4 ingredients (in our experience: the fewer ingredients, the better!) This product contains 55 calories, 1.5g grams of fat, 1g grams of protein, and 9g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nuts",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dutch cocoa",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peanuts",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "snack",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "juices",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pear",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peach",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pineapple conc",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Organic Peanuts with Pear, Peach, and Pineapple Conc. Juices, Dutch Cocoa, Natural Flavors",
+  "images": [
+    "https://spoonacular.com/productImages/22422-312x231.jpg",
+    "https://spoonacular.com/productImages/22422-636x393.jpg",
+    "https://spoonacular.com/productImages/22422-90x90.jpg"
+  ]
+}

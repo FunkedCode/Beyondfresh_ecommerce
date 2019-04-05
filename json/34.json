@@ -1,0 +1,63 @@
+{
+  "id": 22384,
+  "title": "Delallo Organic Orzo No. 65 Whole Wheat",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "primal",
+    "sulfite_free",
+    "nut_free",
+    "vegan",
+    "no_preservatives",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "vegetarian",
+    "no_artificial_flavors",
+    "sugar_free",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free",
+    "dairy_free",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "no_additives",
+    "no_preservatives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients"
+  ],
+  "nutrition": {
+    "calories": 200.0,
+    "fat": "1.5g",
+    "protein": "6g",
+    "carbs": "40g"
+  },
+  "serving_size": "2.0 oz (56 g)",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 100.0,
+  "breadcrumbs": [
+    "orzo",
+    "pasta",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "whole wheat semolina",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 1.0,
+  "ingredientList": "Whole Wheat Organic Semolina",
+  "images": [
+    "https://spoonacular.com/productImages/22384-312x231.jpg",
+    "https://spoonacular.com/productImages/22384-636x393.jpg",
+    "https://spoonacular.com/productImages/22384-90x90.jpg"
+  ]
+}

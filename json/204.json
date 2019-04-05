@@ -1,0 +1,78 @@
+{
+  "id": 22554,
+  "title": "Roland Sardines Packed in Water",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "seafood",
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "primal",
+    "peanut_free",
+    "nut_free",
+    "pescetarian",
+    "paleo",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 70.0,
+    "fat": "2.5g",
+    "protein": "12g",
+    "carbs": "0g"
+  },
+  "serving_size": "0.25 cup",
+  "number_of_servings": 2.0,
+  "spoonacular_score": 93.0,
+  "breadcrumbs": [
+    "sardines",
+    "fish",
+    "animal product"
+  ],
+  "generatedText": "In the mood for food product? You could try Roland Sardines Packed in Water. This product contains 70 calories, 2.5g grams of fat, 12g grams of protein, and 0g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 6 ingredients.",
+  "ingredients": [
+    {
+      "name": "main dish",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fish",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "seafood",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sardines",
+      "safety_level": "medium",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sardines, Water",
+  "images": [
+    "https://spoonacular.com/productImages/22554-312x231.jpg",
+    "https://spoonacular.com/productImages/22554-636x393.jpg",
+    "https://spoonacular.com/productImages/22554-90x90.jpg"
+  ]
+}

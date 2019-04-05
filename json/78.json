@@ -1,0 +1,103 @@
+{
+  "id": 22428,
+  "title": "Frontier Soups Soup",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegetarian",
+    "vegan",
+    "pescetarian",
+    "wheat_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 50.0,
+    "fat": "0g",
+    "protein": "2g",
+    "carbs": "10g"
+  },
+  "serving_size": "2.5 tbsp (15 g)",
+  "number_of_servings": 11.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "soup",
+    "ingredient"
+  ],
+  "generatedText": "Frontier Soups Soup: This product is an amazing fit if you are searching for a healthy soup. This product contains no ingredients that some research suggests you should avoid. This product contains 50 calories, 0g grams of fat, 2g grams of protein, and 10g grams of carbs per serving. This product has 1 ingredient (in our experience: the fewer ingredients, the better!)",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "celery",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn pasta",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "grains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "leeks",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "other herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "root vegetables",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wild rice",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Wild Rice, Corn Pasta (Gluten Free Corn Flour), Onions, Carrots, Celery, Leeks and Other Herbs. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22428-312x231.jpg",
+    "https://spoonacular.com/productImages/22428-636x393.jpg",
+    "https://spoonacular.com/productImages/22428-90x90.jpg"
+  ]
+}

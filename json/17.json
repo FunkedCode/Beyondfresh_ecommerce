@@ -1,0 +1,137 @@
+{
+  "id": 22367,
+  "title": "Pennant Red Cherries",
+  "price": 729.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 15.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "4g"
+  },
+  "serving_size": "1 pc",
+  "number_of_servings": null,
+  "spoonacular_score": 84.0,
+  "breadcrumbs": [
+    "cherries",
+    "fruit",
+    "flavor"
+  ],
+  "generatedText": "Pennant Red Cherries: This product is a super fit if you are searching for a healthy food product. This product contains 15 calories, 0g grams of fat, 0g grams of protein, and 4g grams of carbs per serving. This product has 14 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid. At about $7.29, this product is expensive.",
+  "ingredients": [
+    {
+      "name": "fd",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c red 40",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sulphur dioxide",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cherries",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Cherries, Sugar, Water, Citric Acid, Natural and Artificial Flavor, FD&C Red 40, Potassium Sorbate, Sulphur Dioxide",
+  "images": [
+    "https://spoonacular.com/productImages/22367-312x231.jpg",
+    "https://spoonacular.com/productImages/22367-636x393.jpg",
+    "https://spoonacular.com/productImages/22367-90x90.jpg"
+  ]
+}

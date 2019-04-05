@@ -1,0 +1,110 @@
+{
+  "id": 22378,
+  "title": "Gefen Sweet Peas",
+  "price": 159.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 60.0,
+    "fat": "0.5g",
+    "protein": "4g",
+    "carbs": "10g"
+  },
+  "serving_size": "0.5 cup",
+  "number_of_servings": 3.5,
+  "spoonacular_score": 88.0,
+  "breadcrumbs": [
+    "peas",
+    "legumes",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some food product today? Gefen Sweet Peas is one option; let's take a closer look. This product contains 60 calories, 0.5g grams of fat, 4g grams of protein, and 10g grams of carbs per serving. This product has 10 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid. This product is also reasonably priced. It usually costs around $1.59, depending on the store and your location.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peas",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Peas, Water, Sugar, Salt",
+  "images": [
+    "https://spoonacular.com/productImages/22378-312x231.jpg",
+    "https://spoonacular.com/productImages/22378-636x393.jpg",
+    "https://spoonacular.com/productImages/22378-90x90.jpg"
+  ]
+}

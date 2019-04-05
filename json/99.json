@@ -1,0 +1,174 @@
+{
+  "id": 22449,
+  "title": "Mezzetta Pasta Sauce",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 100.0,
+    "fat": "6g",
+    "protein": "3g",
+    "carbs": "9g"
+  },
+  "serving_size": "1/2 Cup",
+  "number_of_servings": 6.0,
+  "spoonacular_score": 80.0,
+  "breadcrumbs": [
+    "pasta sauce",
+    "sauce",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some noodles today? Mezzetta Pasta Sauce is one option; let's take a closer look. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 16 ingredients. One serving of this product provides 100 calories, 6g grams of fat, 3g grams of protein, and 9g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artichoke",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artichoke hearts",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cheese",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cheese culture",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "culture",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "enzymes",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "fresh basil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fresh garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fresh onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hard cheese",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "imported olive oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "napa valley cabernet sauvignon wine",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavor spices",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "parmesan cheese",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "part skim milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "plum tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "probiotics",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sea salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Plum Tomatoes, Artichoke Hearts, Fresh Onions, Imported Olive Oil, Parmesan Cheese (Part Skim Milk, Cheese Culture, Salt, Enzymes), Fresh Basil, Fresh Garlic, Sea Salt, Napa Valley Cabernet Sauvignon Wine, Natural Flavor Spices",
+  "images": [
+    "https://spoonacular.com/productImages/22449-312x231.jpg",
+    "https://spoonacular.com/productImages/22449-636x393.jpg",
+    "https://spoonacular.com/productImages/22449-90x90.jpg"
+  ]
+}

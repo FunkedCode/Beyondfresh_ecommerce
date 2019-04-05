@@ -1,0 +1,559 @@
+{
+  "id": 22425,
+  "title": "Wyler's Mrs. Grass Hearty Soup Mix - Homestyle Creamy Chicken with Wild Rice",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "msg_free",
+    "no_artificial_colors",
+    "peanut_free",
+    "no_artificial_flavors",
+    "no_artificial_ingredients",
+    "nut_free"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "msg_free"
+  ],
+  "nutrition": {
+    "calories": 130.0,
+    "fat": "1.5g",
+    "protein": "3g",
+    "carbs": "25g"
+  },
+  "serving_size": null,
+  "number_of_servings": 8.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "soup mix",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "artificial food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "autolyzed yeast extract",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "bha",
+      "safety_level": "low",
+      "description": "Scientific research has led the U.S. Department of Health and Human Services to conclude that BHA can be \"reasonably anticipated to be a human carcinogen.\""
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "carageenan",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken powder",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup solids",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated carrots",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated celery",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated parsley flakes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated garlic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dietary fiber",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "diglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium guanylate",
+      "safety_level": "high",
+      "description": "Disodium guanylate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "disodium inosinate",
+      "safety_level": "high",
+      "description": "Disodium inosinate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "dried herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched parboiled rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ferric orthophosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "grains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed corn",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified corn starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mono",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monosodium glutamate",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "parboiled rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "parsley",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated soybean oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "propyl gallate as",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "root vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "silicon dioxide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "soy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sunflower oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tbhq",
+      "safety_level": "controversial",
+      "description": "TBHQ is considered safe in low doses by the European Food Safety Authority and the FDA. However, there has been conflicting research regarding its potentially harmful effects. For this reason, the Center for Science in the Public Interest recommends avoiding it whenever possible."
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamine mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "titanium dioxide",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "torula yeast",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "turmeric",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat proteins",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "whey protein concentrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "whey protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wild rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    },
+    {
+      "name": "yeast extract",
+      "safety_level": "controversial",
+      "description": null
+    }
+  ],
+  "ingredientCount": 52.0,
+  "ingredientList": "Enriched Parboiled Rice (Parboiled Rice, Corn Starch, Ferric Orthophosphate [Iron], Niacin, Thiamine Mononitrate, Folic Acid, Calcium Phosphate), Modified Corn Starch, Wild Rice, Corn Syrup Solids, Salt, Chicken Fat, Dehydrated Carrots, Hydrolyzed Corn, Soy and Wheat Proteins, Whey Powder (Milk), Dehydrated Onions, Onion Powder, Sugar, Dehydrated Celery, Garlic Powder, Cooked Chicken Powder, Sunflower Oil, Whey Protein Concentrate (Milk), Monosodium Glutamate, Xanthan Gum, Partially Hydrogenated Soybean Oil, Spices, Torula Yeast, Dehydrated Parsley Flakes, Titanium Dioxide, Silicon Dioxide, Corn Maltodextrin, Natural Flavors (Contains Milk), Citric Acid, Mono and Diglycerides, Carrageenan, Turmeric, Soybean Oil, Disodium Inosinate, Disodium Guanylate, Artificial Flavor, Autolyzed Yeast Extract, TBHQ, BHA and Propyl Gallate as Preservatives",
+  "images": [
+    "https://spoonacular.com/productImages/22425-312x231.jpg",
+    "https://spoonacular.com/productImages/22425-636x393.jpg",
+    "https://spoonacular.com/productImages/22425-90x90.jpg"
+  ]
+}

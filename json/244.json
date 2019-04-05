@@ -1,0 +1,97 @@
+{
+  "id": 22594,
+  "title": "Lulu B Margarita",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 38.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "2g"
+  },
+  "serving_size": "1.5 fl oz",
+  "number_of_servings": null,
+  "spoonacular_score": 93.0,
+  "breadcrumbs": [
+    "margarita",
+    "cocktail",
+    "alcoholic drink",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": "Lulu B Margarita: This product is a great fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 5 ingredients. One serving of this product provides 38 calories, 0g grams of fat, 0g grams of protein, and 2g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "triple sec",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rebiana-a",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c yellow 5",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetened",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tequila",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fd",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "made",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spirits",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Made with Tequila, Triple Sec, Natural Flavors, Sweetened with Rebiana-A, FD&C Yellow 5",
+  "images": [
+    "https://spoonacular.com/productImages/22594-312x231.jpg",
+    "https://spoonacular.com/productImages/22594-636x393.jpg",
+    "https://spoonacular.com/productImages/22594-90x90.jpg"
+  ]
+}

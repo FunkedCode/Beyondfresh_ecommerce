@@ -1,0 +1,364 @@
+{
+  "id": 22532,
+  "title": "Gateway Bread - St. Louis Famous Style Soft Rye",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "msg_free",
+    "no_artificial_colors",
+    "peanut_free",
+    "no_artificial_flavors",
+    "sulfite_free",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free"
+  ],
+  "important_badges": [
+    "no_additives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "sulfite_free",
+    "peanut_free"
+  ],
+  "nutrition": {
+    "calories": 70.0,
+    "fat": "1g",
+    "protein": "3g",
+    "carbs": "14g"
+  },
+  "serving_size": null,
+  "number_of_servings": 16.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "bread",
+    "baked goods"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "acetic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ammonium sulfate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium propionate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "calcium sulfate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "diglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dough conditioners",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dough conditioner",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ethoxylated mono",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "ground caraway seeds",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malted barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "meat substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monoglycerides",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphoric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "propionate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium stearoyl lactylate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "to prevent spoilage",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unbleached enriched wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat gluten",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat starch",
+      "safety_level": "high",
+      "description": "Wheat starch can be processed to remove enough of the gluten to make it gluten free (<a href=\"http://www.glutafin.co.uk/coeliac-students/codex-wheat-starch/\">legally speaking</a>) but it may be wise to avoid products with wheat starch unless they specifically state they are suitable for gluten free diets."
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white rye flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast nutrients",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 31.0,
+  "ingredientList": "Unbleached Enriched Wheat Flour (Flour, Malted Barley, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, White Rye Flour, Yeast, High Fructose Corn Syrup, Wheat Gluten, Soybean Oil (Non-Hydrogenated), Salt, Ground Caraway, Calcium Propionate (to Prevent Spoilage), Dough Conditioners (Monoglycerides, Mono and Diglycerides, Sodium Stearoyl Lactylate, Ascorbic Acid, Enzymes, Azodicarbonamide), Soy Flour, Soy Lecithin",
+  "images": [
+    "https://spoonacular.com/productImages/22532-312x231.jpg",
+    "https://spoonacular.com/productImages/22532-636x393.jpg",
+    "https://spoonacular.com/productImages/22532-90x90.jpg"
+  ]
+}

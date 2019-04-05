@@ -1,0 +1,55 @@
+{
+  "id": 22420,
+  "title": "The Art Of Spice Rice",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "vegan",
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 160.0,
+    "fat": "1g",
+    "protein": "4g",
+    "carbs": "34g"
+  },
+  "serving_size": "1 Cup",
+  "number_of_servings": 9.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "rice",
+    "grains",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some rice today? The Art Of Spice Rice is one option; let's take a closer look. This product contains 160 calories, 1g grams of fat, 4g grams of protein, and 34g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 1 ingredient. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "red rice",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Red Rice",
+  "images": [
+    "https://spoonacular.com/productImages/22420-312x231.jpg",
+    "https://spoonacular.com/productImages/22420-636x393.jpg",
+    "https://spoonacular.com/productImages/22420-90x90.jpg"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": 22462,
+  "title": "Naninas Marinara Sauce",
+  "price": 699.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "paleo",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 70.0,
+    "fat": "3.5g",
+    "protein": "2g",
+    "carbs": "9g"
+  },
+  "serving_size": "0.5 cup (125 g)",
+  "number_of_servings": 6.0,
+  "spoonacular_score": 92.0,
+  "breadcrumbs": [
+    "marinara sauce",
+    "pasta sauce",
+    "sauce",
+    "ingredient"
+  ],
+  "generatedText": "Naninas Marinara Sauce: This product is a super fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 6 ingredients. One serving of this product provides 70 calories, 3.5g grams of fat, 2g grams of protein, and 9g grams of carbs. This product contains no ingredients that some research suggests you should avoid. This product is also expensive. It usually costs around $6.99, depending on the store and your location.",
+  "ingredients": [
+    {
+      "name": "imported italian plum tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "imported olive oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "canned tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oregano",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "crushed tomatoes",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "basil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Imported Italian Plum Tomatoes, Crushed Tomatoes, Imported Olive Oil, Garlic, Salt, Oregano, Basil",
+  "images": [
+    "https://spoonacular.com/productImages/22462-312x231.jpg",
+    "https://spoonacular.com/productImages/22462-636x393.jpg",
+    "https://spoonacular.com/productImages/22462-90x90.jpg"
+  ]
+}

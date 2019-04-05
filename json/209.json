@@ -1,0 +1,208 @@
+{
+  "id": 22559,
+  "title": "Annie's Homegrown Rice",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free",
+    "organic"
+  ],
+  "important_badges": [
+    "organic"
+  ],
+  "nutrition": {
+    "calories": 220.0,
+    "fat": "2.5g",
+    "protein": "6g",
+    "carbs": "44g"
+  },
+  "serving_size": "2.1 oz",
+  "number_of_servings": 2.0,
+  "spoonacular_score": 91.0,
+  "breadcrumbs": [
+    "rice",
+    "grains",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some rice today? Annie's Homegrown Rice is one option; let's take a closer look. This product contains no ingredients that some research suggests you should avoid. This product has 8 ingredients (in our experience: the fewer ingredients, the better!) This product contains 220 calories, 2.5g grams of fat, 6g grams of protein, and 44g grams of carbs per serving.",
+  "ingredients": [
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "cultured pasteurized milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nonfat milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "parsley",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "yeast extract",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "whey",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cultured milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cheddar cheese",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "tomato powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enzymes",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cheese",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "long grain rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "roasted garlic powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Organic Long Grain Rice, Organic Cheddar Cheese (Organic Cultured Pasteurized Milk, Salt, Enzymes), Organic Whey, Organic Tomato Powder, Organic Nonfat Milk, Salt, Organic Corn Starch, Organic Onion Powder, Organic Roasted Garlic Powder, Disodium Phosphate, Organic Spice, Organic Parsley, Yeast Extract",
+  "images": [
+    "https://spoonacular.com/productImages/22559-312x231.jpg",
+    "https://spoonacular.com/productImages/22559-636x393.jpg",
+    "https://spoonacular.com/productImages/22559-90x90.jpg"
+  ]
+}

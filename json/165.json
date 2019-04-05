@@ -1,0 +1,193 @@
+{
+  "id": 22515,
+  "title": "Tostitos Salsa - Restaurant Style Salsa Medium",
+  "price": 429.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "nut_free",
+    "vegan",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "no_artificial_flavors",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "corn_free",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "gluten_free",
+    "vegan",
+    "msg_free"
+  ],
+  "nutrition": {
+    "calories": 15.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "3g"
+  },
+  "serving_size": null,
+  "number_of_servings": 14.0,
+  "spoonacular_score": 17.5,
+  "breadcrumbs": [
+    "salsa",
+    "dip",
+    "appetizer"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chili pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated garlic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "diced tomatoes in tomato juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "including cilantro",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "jalapeno peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pectin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato paste",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "tomato concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unpeeled ground tomatoes in tomato puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 14.0,
+  "ingredientList": "Diced Tomatoes in Tomato Juice, Water, Unpeeled Ground Tomatoes in Tomato Puree, Onions, Jalapeno Peppers, and Less than 2% of the Following: Salt, Garlic Powder, Vinegar, Pectin, Sugar, Natural Flavors, Tomato Paste, and Spices (Including Cilantro)",
+  "images": [
+    "https://spoonacular.com/productImages/22515-312x231.jpg",
+    "https://spoonacular.com/productImages/22515-636x393.jpg",
+    "https://spoonacular.com/productImages/22515-90x90.jpg"
+  ]
+}

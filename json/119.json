@@ -1,0 +1,68 @@
+{
+  "id": 22469,
+  "title": "Smucker's Blended Fruit",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 90.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "25g"
+  },
+  "serving_size": "1 Pouch",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "fruit",
+    "flavor"
+  ],
+  "generatedText": "Smucker's Blended Fruit: This product is a super match if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product contains 90 calories, 0g grams of fat, 1g grams of protein, and 25g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 1 ingredient. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "apples",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cinnamon",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Apples, Cinnamon",
+  "images": [
+    "https://spoonacular.com/productImages/22469-312x231.jpg",
+    "https://spoonacular.com/productImages/22469-636x393.jpg",
+    "https://spoonacular.com/productImages/22469-90x90.jpg"
+  ]
+}

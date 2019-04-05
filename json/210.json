@@ -1,0 +1,113 @@
+{
+  "id": 22560,
+  "title": "Marconi Sport Peppers",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "primal",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "paleo",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 10.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "2g"
+  },
+  "serving_size": "1.0 oz (28 g)",
+  "number_of_servings": 10.0,
+  "spoonacular_score": 89.0,
+  "breadcrumbs": [
+    "pepper",
+    "spices",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for pepper? You could try Marconi Sport Peppers. This product has 9 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 10 calories, 0g grams of fat, 0g grams of protein, and 2g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "sulfite",
+      "safety_level": "medium",
+      "description": "Sulfites are safe for most people, but some asthmatics and other people who are sensitive to sulfites should avoid them."
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium bisulfite",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow 5",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Peppers, Water, Vinegar, Salt, Yellow 5, and Sodium Bisulfite",
+  "images": [
+    "https://spoonacular.com/productImages/22560-312x231.jpg",
+    "https://spoonacular.com/productImages/22560-636x393.jpg",
+    "https://spoonacular.com/productImages/22560-90x90.jpg"
+  ]
+}

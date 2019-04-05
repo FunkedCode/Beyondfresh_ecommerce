@@ -1,0 +1,159 @@
+{
+  "id": 22541,
+  "title": "Laci Le Beau Super Dieter's Tea Herbal Dietary Supplement - 15 CT",
+  "price": 519.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "primal",
+    "nut_free",
+    "vegan",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "vegetarian",
+    "sugar_free",
+    "no_artificial_flavors",
+    "no_artificial_ingredients",
+    "corn_free",
+    "paleo",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "gluten_free",
+    "nut_free",
+    "peanut_free"
+  ],
+  "nutrition": {
+    "calories": 0.0
+  },
+  "serving_size": "1 tea bag",
+  "number_of_servings": 15.0,
+  "spoonacular_score": 12.5,
+  "breadcrumbs": [
+    "tea",
+    "hot drink",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "cinnamomum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mentha spicata",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carica papaya",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citrus sinensis",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cinnamon bark",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lonicera japonica",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chrysanthemum flower",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spearmint leaf",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chrysanthemum morifolium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "orange peel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "althaea officinalis",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "marshmallow root",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "japanese honeysuckle flower",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "glycyrrhiza glabra",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "eleuthero root",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "other ingredients",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "licorice root",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "papaya leaf",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "eleutherococcus senticosus",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 19.0,
+  "ingredientList": "Other Ingredients: Orange Peel (Citrus Sinensis), Licorice Root (Glycyrrhiza Glabra), Spearmint Leaf (Mentha Spicata), Marshmallow Root (Althaea Officinalis), Papaya Leaf (Carica Papaya), Eleuthero Root (Eleutherococcus Senticosus), Cinnamon Bark (Cinnamomum), Chrysanthemum Flower (Chrysanthemum Morifolium), Japanese Honeysuckle Flower (Lonicera Japonica)",
+  "images": [
+    "https://spoonacular.com/productImages/22541-312x231.jpg",
+    "https://spoonacular.com/productImages/22541-636x393.jpg",
+    "https://spoonacular.com/productImages/22541-90x90.jpg"
+  ]
+}

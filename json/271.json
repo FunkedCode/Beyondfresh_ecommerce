@@ -1,0 +1,177 @@
+{
+  "id": 22621,
+  "title": "Good Food Baking Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 110.0,
+    "fat": "0g",
+    "protein": "3g",
+    "carbs": "23g"
+  },
+  "serving_size": "3 tbsp dr",
+  "number_of_servings": 15.0,
+  "spoonacular_score": 72.0,
+  "breadcrumbs": [
+    "baking mix",
+    "ingredient"
+  ],
+  "generatedText": "Good Food Baking Mix: This product is a spectacular match if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. One serving of this product provides 110 calories, 0g grams of fat, 3g grams of protein, and 23g grams of carbs. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 23 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "baking powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buttermilk powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malted barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "reduced iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamine mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "unbleached flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow cornmeal",
+      "safety_level": "medium",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Unbleached Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Yellow Cornmeal, Sugar, Buttermilk Powder, Baking Powder, Salt",
+  "images": [
+    "https://spoonacular.com/productImages/22621-312x231.jpg",
+    "https://spoonacular.com/productImages/22621-636x393.jpg",
+    "https://spoonacular.com/productImages/22621-90x90.jpg"
+  ]
+}

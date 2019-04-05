@@ -1,0 +1,82 @@
+{
+  "id": 22466,
+  "title": "Tyson Chicken Breasts",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "nut_free",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "pescetarian",
+    "paleo",
+    "primal",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 170.0,
+    "fat": "10g",
+    "protein": "21g",
+    "carbs": "0g"
+  },
+  "serving_size": "4 Oz",
+  "number_of_servings": null,
+  "spoonacular_score": 95.0,
+  "breadcrumbs": [
+    "chicken breast",
+    "chicken",
+    "poultry",
+    "meat",
+    "animal product"
+  ],
+  "generatedText": "Thinking about having some chicken breasts today? Tyson Chicken Breasts is one option; let's take a closer look. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 4 ingredients. One serving of this product provides 170 calories, 10g grams of fat, 21g grams of protein, and 0g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "broth",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken broth",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavoring",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "sea salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Chicken Broth: Chicken Broth, Sea Salt, Natural Flavoring",
+  "images": [
+    "https://spoonacular.com/productImages/22466-312x231.jpg",
+    "https://spoonacular.com/productImages/22466-636x393.jpg",
+    "https://spoonacular.com/productImages/22466-90x90.jpg"
+  ]
+}

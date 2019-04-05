@@ -1,0 +1,238 @@
+{
+  "id": 22393,
+  "title": "Campbell's Gravy",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "nut_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 45.0,
+    "fat": "3g",
+    "protein": "1g",
+    "carbs": "3g"
+  },
+  "serving_size": "1/4 Cup",
+  "number_of_servings": 5.0,
+  "spoonacular_score": 78.0,
+  "breadcrumbs": [
+    "gravy",
+    "sauce",
+    "ingredient"
+  ],
+  "generatedText": "Campbell's Gravy: This product is an awesome fit if you are searching for a healthy food product. This product contains 1 ingredient that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 20 ingredients. This product contains 45 calories, 3g grams of fat, 1g grams of protein, and 3g grams of carbs per serving.",
+  "ingredients": [
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "root vegetables",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast extract",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "tomato puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pork fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pork",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato paste",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "animal product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed wheat gluten",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG and/or gluten should avoid hydrolyzed wheat protein/gluten."
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "tomato concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dehydrated garlic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pork stock",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spice extract",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carrots",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monosodium glutamate",
+      "safety_level": "controversial",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Water, Pork, Pork Stock, Tomato Puree (Water, Tomato Paste), Wheat Flour, Contains Less Than 2% of: Modified Food Starch, Pork Fat, Salt, Carrots, Yeast Extract and Hydrolyzed Wheat Gluten, Monosodium Glutamate, Onion Powder, Dehydrated Garlic, Caramel Color, Spice Extract, Dextrose",
+  "images": [
+    "https://spoonacular.com/productImages/22393-312x231.jpg",
+    "https://spoonacular.com/productImages/22393-636x393.jpg",
+    "https://spoonacular.com/productImages/22393-90x90.jpg"
+  ]
+}

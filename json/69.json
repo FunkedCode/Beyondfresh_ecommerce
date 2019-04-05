@@ -1,0 +1,67 @@
+{
+  "id": 22419,
+  "title": "Lundberg Organic Sprouted Red Rice",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "sustainable",
+    "peanut_free",
+    "primal",
+    "sulfite_free",
+    "nut_free",
+    "vegan",
+    "no_preservatives",
+    "soy_free",
+    "msg_free",
+    "gmo_free",
+    "no_artificial_colors",
+    "no_artificial_flavors",
+    "sugar_free",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free",
+    "dairy_free",
+    "gluten_free",
+    "paleo",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "no_additives",
+    "no_preservatives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients"
+  ],
+  "nutrition": {
+    "calories": 160.0,
+    "fat": "1.5g",
+    "protein": "3g",
+    "carbs": "34g"
+  },
+  "serving_size": null,
+  "number_of_servings": 10.0,
+  "spoonacular_score": 100.0,
+  "breadcrumbs": [
+    "rice",
+    "grains",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "sprouted whole grain red rice",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 1.0,
+  "ingredientList": "Organic Sprouted Whole Grain Red Rice",
+  "images": [
+    "https://spoonacular.com/productImages/22419-312x231.jpg",
+    "https://spoonacular.com/productImages/22419-636x393.jpg",
+    "https://spoonacular.com/productImages/22419-90x90.jpg"
+  ]
+}

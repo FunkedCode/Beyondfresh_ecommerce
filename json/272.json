@@ -1,0 +1,337 @@
+{
+  "id": 22622,
+  "title": "Betty Crocker Cake Mix",
+  "price": 99.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 170.0,
+    "fat": "2.5g",
+    "protein": "2g",
+    "carbs": "35g"
+  },
+  "serving_size": "0.08 package",
+  "number_of_servings": 12.0,
+  "spoonacular_score": 49.0,
+  "breadcrumbs": [
+    "baking mix",
+    "ingredient"
+  ],
+  "generatedText": "Are you trying to decide on a cake mix? Here's some information to help you decide whether Betty Crocker Cake Mix is the right product for you. This product contains no ingredients that some research suggests you should avoid. One serving of this product provides 170 calories, 2.5g grams of fat, 2g grams of protein, and 35g grams of carbs. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 47 ingredients. The price of a product varies depending on the store, location, current sales, etc., but this product usually costs around 99 cents. This amounts to $0 per serving.",
+  "ingredients": [
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alkali",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alum",
+      "safety_level": "medium",
+      "description": "Typically used in pickling, alum is toxic in large amounts. For this reason, it is becoming harder to find and is used less frequently."
+    },
+    {
+      "name": "aluminum sulfate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "baking soda",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bleached flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "cocoa processed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "datem",
+      "safety_level": "controversial",
+      "description": "Some research indicates that DATEM consumption in rats is associated with stiffening/thickening of the heart (which can lead to heart failure) and the growth of benign adrenal tumors. However, DATEM has been deemed safe by the <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#DATEM\">CSPI</a> and <a href=\"http://www.inchem.org/documents/jecfa/jecmono/v52je05.htm\">JEFCA</a>, the latter of which has directly addressed the original findings."
+    },
+    {
+      "name": "dicalcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "diesters",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "diglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched flour bleached",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "firming agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lactose",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "leavening",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified corn starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "modified whey",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mono",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "monocalcium phosphate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated soybean or cottonseed oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "propylene glycol mono",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium aluminum phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "sodium-stearoyl lactylate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat starch",
+      "safety_level": "high",
+      "description": "Wheat starch can be processed to remove enough of the gluten to make it gluten free (<a href=\"http://www.glutafin.co.uk/coeliac-students/codex-wheat-starch/\">legally speaking</a>) but it may be wise to avoid products with wheat starch unless they specifically state they are suitable for gluten free diets."
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, Enriched Flour Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Cocoa Processed with Alkali, Partially Hydrogenated Soybean or Cottonseed Oil, Leavening (Baking Soda, Sodium Aluminum Phosphate, Dicalcium Phosphate, Monocalcium Phosphate, Aluminum Sulfate), Wheat Starch, Modified Corn Starch, Propylene Glycol Mono and Diesters, Lactose, Salt, Mono and Diglycerides, Corn Starch, Modified Whey, Xanthan Gum, Sodium-Stearoyl Lactylate, Datem, Artificial Flavor",
+  "images": [
+    "https://spoonacular.com/productImages/22622-312x231.jpg",
+    "https://spoonacular.com/productImages/22622-636x393.jpg",
+    "https://spoonacular.com/productImages/22622-90x90.jpg"
+  ]
+}

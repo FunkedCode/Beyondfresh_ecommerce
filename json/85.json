@@ -1,0 +1,286 @@
+{
+  "id": 22435,
+  "title": "Gefen Noodle Soup",
+  "price": 169.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "corn",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegetarian",
+    "vegan",
+    "pescetarian",
+    "corn",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 190.0,
+    "fat": "0g",
+    "protein": "7g",
+    "carbs": "42g"
+  },
+  "serving_size": "1.0 cup (55 g)",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 67.0,
+  "breadcrumbs": [
+    "soup",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some soup today? Gefen Noodle Soup is one choice; let's take a closer look. This product contains 190 calories, 0g grams of fat, 7g grams of protein, and 42g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid. This product has 31 ingredients (in our experience: the fewer ingredients, the better!) Depending on your store and location, this product usually costs around $1.69, which comes out to $2 per serving.",
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red chili powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mineral salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turmeric powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor packet",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "shitake powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "noodle",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fenugreek powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed vegetable protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "coriander powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried carrot",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "silicon dioxide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "hydrolyzed protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "main dish",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chives",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starnise powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium guanylate",
+      "safety_level": "high",
+      "description": "Disodium guanylate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "disodium inosinate",
+      "safety_level": "high",
+      "description": "Disodium inosinate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cinnamon powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed soy protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "cumin powder",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Noodle: Wheat Flour, Modified Food Starch, Salt, Mineral Salt. Flavor Packet: Salt, Sugar, Yeast, Onion Powder, Coriander Powder, Cumin Powder, Red Chili Powder, Turmeric Powder, Starnise Powder, Cinnamon Powder, Fenugreek Powder, Hydrolyzed Soy Protein, Maltodextrin, Disodium Guanylate, Disodium Inosinate, Shitake Powder, Chives, Silicon Dioxide and Pepper, Dried Carrot, Dried Onion, Corn",
+  "images": [
+    "https://spoonacular.com/productImages/22435-312x231.jpg",
+    "https://spoonacular.com/productImages/22435-636x393.jpg",
+    "https://spoonacular.com/productImages/22435-90x90.jpg"
+  ]
+}

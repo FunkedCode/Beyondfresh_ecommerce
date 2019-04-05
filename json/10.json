@@ -1,0 +1,378 @@
+{
+  "id": 22360,
+  "title": "So Delicious Coconut Milk",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "seafood",
+    "shellfish",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "seafood",
+    "shellfish"
+  ],
+  "nutrition": {
+    "calories": 140.0,
+    "fat": "6g",
+    "protein": "1g",
+    "carbs": "24g"
+  },
+  "serving_size": "1 container",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 52.0,
+  "breadcrumbs": [
+    "coconut milk",
+    "milk substitute",
+    "ingredient"
+  ],
+  "generatedText": "So Delicious Coconut Milk: This product is a spectacular match if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. One serving of this product provides 140 calories, 6g grams of fat, 1g grams of protein, and 24g grams of carbs. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 44 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "agar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "algin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "berries",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bif",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bulgaricus",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "cane sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carrageenan",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "chicory root extract",
+      "safety_level": "high",
+      "description": "Chicory root extract is safe, but consuming large amounts may cause gastrointestinal discomfort."
+    },
+    {
+      "name": "coconut milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "culture",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dipotassium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "evaporated cane juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fat substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fodmap",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "guar gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "kelp extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "l",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lactus",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "live active cultures include",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "locust bean gum",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "magnesium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "magnesium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "milk substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "paracasei",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pectin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "plantarum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "probiotics",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "raspberries",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rhamnosus",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rice starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "s",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "seafood",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thermophilus",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tricalcium phosphate",
+      "safety_level": "high",
+      "description": "Since tricalcium phosphate is usually derived from minerals, it is <a href=\"http://www.vrg.org/blog/2014/01/27/food-grade-calcium-phosphates-%E2%80%9Cmineral-source%E2%80%9D-state-major-manufacturers-and-distributors/\">probably suitable for vegans and vegetarians</a>. If in doubt, contact the manufacturer."
+    },
+    {
+      "name": "unrefined sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b12",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Water, Coconut Milk, Raspberries, Evaporated Cane Juice, Pectin, Chicory Root Extract, Dextrose, Natural Flavors, Algin (Kelp Extract), Magnesium Phosphate, Tricalcium Phosphate, Rice Starch, Locust Bean Gum, Agar, Culture, Carrageenan, Guar Gum, Dipotassium Phosphate, Vitamin B12. Live Active Cultures Include: L. Bulgaricus, S. Thermophilus, L. Plantarum, L. Rhamnosus, L. Paracasei and Bif. Lactus",
+  "images": [
+    "https://spoonacular.com/productImages/22360-312x231.jpg",
+    "https://spoonacular.com/productImages/22360-636x393.jpg",
+    "https://spoonacular.com/productImages/22360-90x90.jpg"
+  ]
+}

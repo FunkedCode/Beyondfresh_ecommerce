@@ -1,0 +1,113 @@
+{
+  "id": 22471,
+  "title": "Ouh LaLa Buddy Fruits",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "primal",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "paleo",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 60.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "15g"
+  },
+  "serving_size": "1.0 pouch (90 g)",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 91.0,
+  "breadcrumbs": [
+    "fruit",
+    "flavor"
+  ],
+  "generatedText": "Are you trying to decide on a fruit? Here's some information to help you decide whether Ouh LaLa Buddy Fruits is the right product for you. One serving of this product provides 60 calories, 0g grams of fat, 0g grams of protein, and 15g grams of carbs. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 6 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "banana",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "passion fruit juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mango",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated apple juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "strawberry",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apple",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "berries",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tropical fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tropical fruit",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Apple, Banana, Passion Fruit Juice, Mango, Strawberry, Concentrated Apple Juice. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22471-312x231.jpg",
+    "https://spoonacular.com/productImages/22471-636x393.jpg",
+    "https://spoonacular.com/productImages/22471-90x90.jpg"
+  ]
+}

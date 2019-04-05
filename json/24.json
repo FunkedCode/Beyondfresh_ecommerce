@@ -1,0 +1,227 @@
+{
+  "id": 22374,
+  "title": "Tootsie Pops",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 60.0,
+    "fat": "0.5g",
+    "protein": "0g",
+    "carbs": "15g"
+  },
+  "serving_size": "1.0 pop (18 g)",
+  "number_of_servings": 20.0,
+  "spoonacular_score": 68.0,
+  "breadcrumbs": [
+    "pop",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": "Tootsie Pops: This product is a spectacular fit if you are searching for a healthy pop. This product contains 2 ingredients that some research suggests could be harmful, including . One serving of this product provides 60 calories, 0.5g grams of fat, 0g grams of protein, and 15g grams of carbs. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 29 ingredients.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavors",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "c blue 1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c red 40",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "caseinate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cream",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fd",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "heavy cream",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "including fd",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated soybean oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "skim milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium caseinate",
+      "safety_level": "high",
+      "description": "Sodium caseinate is derived from milk and is therefore NOT suitable for vegans, even if it is used in so-called non-dairy products. It may also cause <a href=\"http://www.kidswithfoodallergies.org/resourcespre.php?id=37\">allergic reactions</a> in people allergic to milk, and may potentially cause problems in lactose intolerant individuals because it can contain <a href=\"http://www.fda.gov/forconsumers/consumerupdates/ucm094550.htm\">small amounts of lactose</a>."
+    },
+    {
+      "name": "soya lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turmeric ing",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, Corn Syrup, Partially Hydrogenated Soybean Oil, Skim Milk, Heavy Cream, Malic Acid, Whey, Salt, Artificial Flavors, Sodium Caseinate, Soya Lecithin, Artificial Colors (Including FD&C Blue 1, FD&C Red 40), Turmeric Coloring",
+  "images": [
+    "https://spoonacular.com/productImages/22374-312x231.jpg",
+    "https://spoonacular.com/productImages/22374-636x393.jpg",
+    "https://spoonacular.com/productImages/22374-90x90.jpg"
+  ]
+}

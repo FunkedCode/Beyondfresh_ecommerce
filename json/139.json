@@ -1,0 +1,355 @@
+{
+  "id": 22489,
+  "title": "Kedem Crunchee Cereal Bars",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "corn",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "nut_free",
+    "corn",
+    "wheat_free"
+  ],
+  "nutrition": {
+    "calories": 240.0,
+    "fat": "9g",
+    "protein": "4g",
+    "carbs": "36g"
+  },
+  "serving_size": "2.0 bars (52 g)",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 51.0,
+  "breadcrumbs": [
+    "cereal bar",
+    "breakfast bar"
+  ],
+  "generatedText": "Kedem Crunchee Cereal Bars: This product is a super fit if you are searching for a healthy cereal bar. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 45 ingredients. This product contains no ingredients that some research suggests you should avoid. One serving of this product provides 240 calories, 9g grams of fat, 4g grams of protein, and 36g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "a",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "artificial sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial vanilla",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "b1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b12",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b2",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b3",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cereal",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cocoa mass",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cocoa powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cornflakes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "d",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "diglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fatty acid esters",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fat substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fibers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fodmap",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "inulin",
+      "safety_level": "high",
+      "description": "Inulin is safe, but consuming large amounts may cause gastrointestinal discomfort."
+    },
+    {
+      "name": "iron phosphate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "low calorie sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "magnesium oxide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "malt extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "maltitol",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral mixture",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mono",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "palm oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "s",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "skim milk powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "sucralose",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar alcohol",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tri calcium phosphate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vanilla extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vanillin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole milk powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "zinc",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "zinc oxide",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Cornflakes (Corn, Sugar, Malt Extract, Cocoa Powder, Salt, Emulsifier [Mono and Diglycerides], Artificial Flavor), Palm Oil, Maltitol, Sugar, Whole Milk Powder, Skim Milk Powder, Fibers (Inulin), Vitamin & Mineral Mixture (A, D, B1, B2, B3, B6, B12, Folic Acid, Tri Calcium Phosphate, Magnesium Oxide, Iron Phosphate, Zinc Oxide), Cocoa Mass, Cocoa Powder, Emulsifiers (Soy Lecithin, Fatty Acid Esters), Vanillin (Artificial Flavor), Sucralose (Artificial Sweetener)",
+  "images": [
+    "https://spoonacular.com/productImages/22489-312x231.jpg",
+    "https://spoonacular.com/productImages/22489-636x393.jpg",
+    "https://spoonacular.com/productImages/22489-90x90.jpg"
+  ]
+}

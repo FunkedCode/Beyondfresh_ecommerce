@@ -1,0 +1,103 @@
+{
+  "id": 22411,
+  "title": "Nestle Chocolate Morsels",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 70.0,
+    "fat": "5g",
+    "protein": "1g",
+    "carbs": "7g"
+  },
+  "serving_size": "1 tbsp",
+  "number_of_servings": 20.0,
+  "spoonacular_score": 85.0,
+  "breadcrumbs": [
+    "chocolate chips",
+    "baking pieces",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for food product? You could try Nestle Chocolate Morsels. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 13 ingredients. This product contains no ingredients that some research suggests you should avoid. One serving of this product provides 70 calories, 5g grams of fat, 1g grams of protein, and 7g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bittersweet chocolate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chocolate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cocoa butter",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "milkfat",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "nonfat milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Bittersweet Chocolate (Chocolate, Sugar, Cocoa Butter, Milkfat, Nonfat Milk, Natural Flavor)",
+  "images": [
+    "https://spoonacular.com/productImages/22411-312x231.jpg",
+    "https://spoonacular.com/productImages/22411-636x393.jpg",
+    "https://spoonacular.com/productImages/22411-90x90.jpg"
+  ]
+}

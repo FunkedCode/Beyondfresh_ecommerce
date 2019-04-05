@@ -1,0 +1,116 @@
+{
+  "id": 22455,
+  "title": "Golden Creme Half & Half",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "primal",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 40.0,
+    "fat": "3g",
+    "protein": "1g",
+    "carbs": "1g"
+  },
+  "serving_size": "2 Tbsp",
+  "number_of_servings": 16.0,
+  "spoonacular_score": 95.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "In the mood for half n half? You could try Golden Creme Half & Half. This product contains 40 calories, 3g grams of fat, 1g grams of protein, and 1g grams of carbs per serving. This product has 4 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "contains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cream",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "each of the following",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "sodium citrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Milk, Cream, Contains Less Than 1% Of Each Of The Following: Sodium Citrate And Disodium Phosphate. Contains: Milk",
+  "images": [
+    "https://spoonacular.com/productImages/22455-312x231.jpg",
+    "https://spoonacular.com/productImages/22455-636x393.jpg",
+    "https://spoonacular.com/productImages/22455-90x90.jpg"
+  ]
+}

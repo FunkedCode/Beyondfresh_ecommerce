@@ -1,0 +1,171 @@
+{
+  "id": 22589,
+  "title": "Finest Call Premium Tom Collins Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "primal",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "paleo",
+    "gluten_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 140.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "34g"
+  },
+  "serving_size": "4 oz",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 76.0,
+  "breadcrumbs": [
+    "tom collins mix",
+    "cocktail mix"
+  ],
+  "generatedText": "In the mood for food product? You could try Finest Call Premium Tom Collins Mix. This product contains 140 calories, 0g grams of fat, 0g grams of protein, and 34g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 21 ingredients.",
+  "ingredients": [
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gum arabic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "glyceryl abietate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "or sucrose",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sodium benzoate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cottonseed oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Water, High Fructose Corn Syrup and/or Sucrose, Citric Acid, Gum Arabic, Sodium Benzoate, Potassium Sorbate, Glyceryl Abietate, Cottonseed Oil",
+  "images": [
+    "https://spoonacular.com/productImages/22589-312x231.jpg",
+    "https://spoonacular.com/productImages/22589-636x393.jpg",
+    "https://spoonacular.com/productImages/22589-90x90.jpg"
+  ]
+}

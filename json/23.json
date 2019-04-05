@@ -1,0 +1,274 @@
+{
+  "id": 22373,
+  "title": "Guiltless Gourmet Baked Potato Crisps",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 100.0,
+    "fat": "3g",
+    "protein": "7g",
+    "carbs": "14g"
+  },
+  "serving_size": "1 oz",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 71.0,
+  "breadcrumbs": [
+    "crisp",
+    "dessert"
+  ],
+  "generatedText": "Guiltless Gourmet Baked Potato Crisps: This product is a great fit if you are searching for a healthy crisp. One serving of this product provides 100 calories, 3g grams of fat, 7g grams of protein, and 14g grams of carbs. This product contains no ingredients that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 28 ingredients.",
+  "ingredients": [
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "spice extractive",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cheese powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oleoresin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "extractives of paprika",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sea salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cheddar cheese",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "seasoning",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "cheese",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buttermilk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried potatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gluten free flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tapioca starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cheddar cheese powder",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "disodium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "enzymes",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "potato flakes",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "expeller pressed non-gmo canola oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "defatted soy flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cultured milk",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Defatted Soy Flour, Potato Flakes, Seasoning (Cheddar Cheese Powder [Cheddar Cheese {Cultured Milk, Salt, Enzymes}, Whey, Buttermilk, Salt, Disodium Phosphate], Whey Powder, Salt, Onion Powder, Natural Flavorings, Garlic Powder, Citric Acid, Extractives of Paprika), Expeller Pressed Non-GMO Canola Oil, Tapioca Starch, Sea Salt",
+  "images": [
+    "https://spoonacular.com/productImages/22373-312x231.jpg",
+    "https://spoonacular.com/productImages/22373-636x393.jpg",
+    "https://spoonacular.com/productImages/22373-90x90.jpg"
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": 22429,
+  "title": "Indofood Instant Seasoning Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 30.0,
+    "fat": "2g",
+    "protein": "0g",
+    "carbs": "3g"
+  },
+  "serving_size": "10 g",
+  "number_of_servings": 5.0,
+  "spoonacular_score": 87.0,
+  "breadcrumbs": [
+    "seasoning mix",
+    "seasoning",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for food product? You could try Indofood Instant Seasoning Mix. This product contains 30 calories, 2g grams of fat, 0g grams of protein, and 3g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid. This product has 11 ingredients (in our experience: the fewer ingredients, the better!)",
+  "ingredients": [
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "shallots",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavour enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast extract",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "tocopherol",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin e",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "picung nut",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Herbs, Picung Nut, Salt, Shallots, Garlic, Vegetable Oil, Spices, Sugar, Flavour Enhancer (Yeast Extract), Antioxidant (Tocopherol)",
+  "images": [
+    "https://spoonacular.com/productImages/22429-312x231.jpg",
+    "https://spoonacular.com/productImages/22429-636x393.jpg",
+    "https://spoonacular.com/productImages/22429-90x90.jpg"
+  ]
+}

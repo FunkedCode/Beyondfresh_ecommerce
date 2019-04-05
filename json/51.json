@@ -1,0 +1,242 @@
+{
+  "id": 22401,
+  "title": "Kay's Naturals Cereal",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "soy",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "nut_free",
+    "soy",
+    "wheat_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 120.0,
+    "fat": "1.5g",
+    "protein": "12g",
+    "carbs": "19g"
+  },
+  "serving_size": "1.2 oz (34 g)",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 68.0,
+  "breadcrumbs": [
+    "cereal",
+    "breakfast"
+  ],
+  "generatedText": "Kay's Naturals Cereal: This product is a great fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. One serving of this product provides 120 calories, 1.5g grams of fat, 12g grams of protein, and 19g grams of carbs. This product has 30 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow corn flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated apple pieces",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tapioca starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "double-acting leavening agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "inulin",
+      "safety_level": "high",
+      "description": "Inulin is safe, but consuming large amounts may cause gastrointestinal discomfort."
+    },
+    {
+      "name": "stevia",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fat substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fodmap",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pea fiber",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "honey",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vanilla extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy protein isolate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "no calorie sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural cinnamon flavoring",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rice flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "canola oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cinnamon powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Soy Protein Isolate, Yellow Corn Flour, Rice Flour, Tapioca Starch, Inulin, Pea Fiber, Honey, Sugar, Dehydrated Apple Pieces, Canola Oil, Cinnamon Powder, Vanilla Extract, Natural Cinnamon Flavoring, Double-Acting Leavening Agent, Salt, Xanthan Gum, Stevia. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22401-312x231.jpg",
+    "https://spoonacular.com/productImages/22401-636x393.jpg",
+    "https://spoonacular.com/productImages/22401-90x90.jpg"
+  ]
+}

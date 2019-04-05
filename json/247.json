@@ -1,0 +1,630 @@
+{
+  "id": 22597,
+  "title": "Lunchables Lunch Combinations",
+  "price": 359.0,
+  "likes": 0.0,
+  "badges": [
+    "seafood",
+    "egg_free",
+    "corn",
+    "peanut_free",
+    "nut_free",
+    "pescetarian",
+    "soy"
+  ],
+  "important_badges": [
+    "pescetarian",
+    "seafood",
+    "soy",
+    "corn",
+    "egg_free"
+  ],
+  "nutrition": {
+    "calories": 690.0,
+    "fat": "23g",
+    "protein": "17g",
+    "carbs": "106g"
+  },
+  "serving_size": "1 package",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 20.0,
+  "breadcrumbs": [
+    "lunch",
+    "main dish"
+  ],
+  "generatedText": "Lunchables Lunch Combinations: This product is an amazing fit if you are searching for a healthy lunch. This product has 76 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 690 calories, 23g grams of fat, 17g grams of protein, and 106g grams of carbs. This product contains 2 ingredients that some research suggests could be harmful, including . This product is also rather pricey. It usually costs roughly $3.59, depending on the store and your location.",
+  "ingredients": [
+    {
+      "name": "nitrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buttery crackers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mixed fruit flavored juice drink blend from concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificially flavored cherry candy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fish",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "whey",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "seafood",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "curing agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried potatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium nitrite",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "rice flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "pasteurized process cheddar cheese food",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium lactate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium citrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "red 40",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "or sunflower oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "leavening",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "contains one or more of the following",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "reduced iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "whey protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "culture",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oleoresin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified corn starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red grape juice concentrates",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cured turkey breast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "butter",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "original potato crisps",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamine mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated soybean oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "baking soda",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch added for slice separation",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cheese culture",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "probiotics",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enzymes",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "artificial food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apple",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milkfat",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "milk protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium erythorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "made from sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium diacetate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sorbic acid as a preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat starch",
+      "safety_level": "high",
+      "description": "Wheat starch can be processed to remove enough of the gluten to make it gluten free (<a href=\"http://www.glutafin.co.uk/coeliac-students/codex-wheat-starch/\">legally speaking</a>) but it may be wise to avoid products with wheat starch unless they specifically state they are suitable for gluten free diets."
+    },
+    {
+      "name": "protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybean",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey protein concentrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cottonseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oleoresin paprika",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oven roasted turkey breast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b2",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "enriched flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cream from milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "skim milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "strawberry juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spice extractive",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "main dish",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "annatto",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium lactate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Mixed Fruit Flavored Juice Drink Blend From Concentrate: Water, High Fructose Corn Syrup, Apple, White and Red Grape Juice Concentrates, Citric Acid, Strawberry Juice Concentrate, Natural Flavor. Oven Roasted Turkey Breast: Cured Turkey Breast, Water, Salt, Contains Less than 2% of Modified Corn Starch, Sugar, Sodium Lactate, Potassium Lactate, Sodium Phosphates, Sodium Diacetate, Sodium Erythorbate (Made from Sugar), Sodium Nitrite. Buttery Crackers: Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate [Vitamin B1], Riboflavin [Vitamin B2], Folic Acid), Soybean Oil, Sugar, High Fructose Corn Syrup, Salt, Leavening (Baking Soda, Calcium Phosphate), Butter (Cream from Milk, Salt), Soy Lecithin (Emulsifier). Pasteurized Process Cheddar Cheese Food: Milk, Water, Whey, Whey Protein Concentrate, Sodium Citrate, Contains Less than 2% of Skim Milk, Salt, Milkfat, Sodium Phosphate, Sorbic Acid as a Preservative, Oleoresin Paprika (Color), Annatto (Color), Enzymes, Cheese Culture, with Starch Added for Slice Separation. Artificially Flavored Cherry Candy: Sugar, Corn Syrup, Maltodextrin, Dextrose, Modified Food Starch, Partially Hydrogenated Soybean Oil, Citric Acid, Water, Artificial Flavor, Red 40. Original Potato Crisps: Dried Potatoes, Vegetable Oil (Contains One or More of the Following: Corn, Cottonseed, Soybean and/or Sunflower Oil), Wheat Starch, Maltodextrin, Rice Flour, Salt, and Dextrose",
+  "images": [
+    "https://spoonacular.com/productImages/22597-312x231.jpg",
+    "https://spoonacular.com/productImages/22597-636x393.jpg",
+    "https://spoonacular.com/productImages/22597-90x90.jpg"
+  ]
+}

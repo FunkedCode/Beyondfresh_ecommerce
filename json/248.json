@@ -1,0 +1,226 @@
+{
+  "id": 22598,
+  "title": "Happy Squeeze Coconut Milk",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "organic"
+  ],
+  "important_badges": [
+    "organic"
+  ],
+  "nutrition": {
+    "calories": 90.0,
+    "fat": "1g",
+    "protein": "0g",
+    "carbs": "20g"
+  },
+  "serving_size": "1.0 pouch (99 g)",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 78.0,
+  "breadcrumbs": [
+    "coconut milk",
+    "milk substitute",
+    "ingredient"
+  ],
+  "generatedText": "Happy Squeeze Coconut Milk: This product is a spectacular fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 17 ingredients. One serving of this product provides 90 calories, 1g grams of fat, 0g grams of protein, and 20g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apple",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "choline",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "choline bitartrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "coconut milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "guar gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "magnesium oxide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "malic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mango",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "minerals",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "orange juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pear juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pectin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tricalcium phosphate",
+      "safety_level": "high",
+      "description": "Since tricalcium phosphate is usually derived from minerals, it is <a href=\"http://www.vrg.org/blog/2014/01/27/food-grade-calcium-phosphates-%E2%80%9Cmineral-source%E2%80%9D-state-major-manufacturers-and-distributors/\">probably suitable for vegans and vegetarians</a>. If in doubt, contact the manufacturer."
+    },
+    {
+      "name": "tropical fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin c",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Organic Apple, Organic Mango, Water, Organic Pear Juice Concentrate, Organic Orange Juice Concentrate, Organic Coconut Milk, Vitamins and Minerals: (Choline Bitartrate, Tricalcium Phosphate, Magnesium Oxide), Malic Acid, Ascorbic Acid (Vitamin C), Pectin, Organic Natural Flavor, Natural Flavor, Organic Guar Gum",
+  "images": [
+    "https://spoonacular.com/productImages/22598-312x231.jpg",
+    "https://spoonacular.com/productImages/22598-636x393.jpg",
+    "https://spoonacular.com/productImages/22598-90x90.jpg"
+  ]
+}

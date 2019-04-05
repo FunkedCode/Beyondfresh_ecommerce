@@ -1,0 +1,171 @@
+{
+  "id": 22555,
+  "title": "Eucavani's Sauce",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "primal",
+    "peanut_free",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 110.0,
+    "fat": "8g",
+    "protein": "3g",
+    "carbs": "8g"
+  },
+  "serving_size": "0.5 cup",
+  "number_of_servings": 6.0,
+  "spoonacular_score": 80.0,
+  "breadcrumbs": [
+    "sauce",
+    "ingredient"
+  ],
+  "generatedText": "Eucavani's Sauce: This product is an awesome fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product has 19 ingredients (in our experience: the fewer ingredients, the better!) This product contains 110 calories, 8g grams of fat, 3g grams of protein, and 8g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spirits",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "parmesan cheese",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "parsley",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "plum tomato fillets",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "italian parsley",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "basil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cream",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hard cheese",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "heavy cream",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "crushed red pepper",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "fresh onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "kosher salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "prosciutto cured",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ground tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vodka",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "extra virgin olive oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fresh garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "butter",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "black pepper",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cheese",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Plum Tomato Fillets, Ground Tomatoes, Heavy Cream, Tomato Puree, Parmesan Cheese, Fresh Onions, Butter, Vodka, Extra Virgin Olive Oil, Prosciutto Cured With Salt, Fresh Garlic, Basil, Italian Parsley, Kosher Salt, Black Pepper, Crushed Red Pepper",
+  "images": [
+    "https://spoonacular.com/productImages/22555-312x231.jpg",
+    "https://spoonacular.com/productImages/22555-636x393.jpg",
+    "https://spoonacular.com/productImages/22555-90x90.jpg"
+  ]
+}

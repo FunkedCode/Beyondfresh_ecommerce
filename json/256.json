@@ -1,0 +1,101 @@
+{
+  "id": 22606,
+  "title": "Cracovia Syrup",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 135.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "35g"
+  },
+  "serving_size": "50 g",
+  "number_of_servings": 20.0,
+  "spoonacular_score": 87.0,
+  "breadcrumbs": [
+    "syrup",
+    "ingredient"
+  ],
+  "generatedText": "Cracovia Syrup: This product is an outstanding fit if you are searching for a healthy syrup. This product contains 135 calories, 0g grams of fat, 0g grams of protein, and 35g grams of carbs per serving. This product has 11 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cherry concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, Water, Cherry Concentrate, Citric Acid, Natural Flavors",
+  "images": [
+    "https://spoonacular.com/productImages/22606-312x231.jpg",
+    "https://spoonacular.com/productImages/22606-636x393.jpg",
+    "https://spoonacular.com/productImages/22606-90x90.jpg"
+  ]
+}

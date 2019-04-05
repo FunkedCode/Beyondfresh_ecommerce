@@ -1,0 +1,514 @@
+{
+  "id": 22463,
+  "title": "James Skinner Mini Coffee Cake",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "seafood",
+    "shellfish",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "soy",
+    "pescetarian"
+  ],
+  "important_badges": [
+    "nut_free",
+    "seafood",
+    "shellfish",
+    "soy"
+  ],
+  "nutrition": {
+    "calories": 220.0,
+    "fat": "11g",
+    "protein": "3g",
+    "carbs": "29g"
+  },
+  "serving_size": "0.33 cake",
+  "number_of_servings": 3.0,
+  "spoonacular_score": 28.0,
+  "breadcrumbs": [
+    "coffee cake",
+    "breakfast"
+  ],
+  "generatedText": "James Skinner Mini Coffee Cake: This product is a tremendous fit if you are searching for a healthy alternative names.... This product has 66 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 220 calories, 11g grams of fat, 3g grams of protein, and 29g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "agar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apple topping",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oils",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "tbhq added",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "egg whites",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "diglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium stearoyl 2 lactylate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable mono",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "each of the following",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium bicarbonate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified corn starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin a",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "soybean",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "enriched wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium propionate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "seafood",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin a palmitate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium chloride",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "brown sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mono-calcium phosphate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tapioca dextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cinnamon",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food starch-modified",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sodium benzoate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "or cottonseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cellulose gel",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sodium citrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nonfat milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium acid pyrophosphate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "ascorbic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "leavening",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "s",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tricalcium phosphate",
+      "safety_level": "high",
+      "description": "Since tricalcium phosphate is usually derived from minerals, it is <a href=\"http://www.vrg.org/blog/2014/01/27/food-grade-calcium-phosphates-%E2%80%9Cmineral-source%E2%80%9D-state-major-manufacturers-and-distributors/\">probably suitable for vegans and vegetarians</a>. If in doubt, contact the manufacturer."
+    },
+    {
+      "name": "propionate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apples",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole eggs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "reduced iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "niacin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "binding agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carrageenan",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Enriched Wheat Flour (Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Partially Hydrogenated Vegetable Oils (Soybean and/or Cottonseed), Sugar, Water, Apple Topping [Apples, Corn Syrup, Water, Sugar, Brown Sugar, Modified Corn Starch, Contains Less than 2% of the Following: Salt, Spices, Sodium Benzoate, Potassium Sorbate, Carrageenan, Sodium Citrate, Potassium Chloride], Whole Eggs, High Fructose Corn Syrup, Contains Less than 2% of Each of the Following: Yeast, Corn Syrup, Cinnamon, Brown Sugar, Salt, Nonfat Milk, Egg Whites, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Mono-Calcium Phosphate, Tricalcium Phosphate), Food Starch-Modified, Ascorbic Acid, Citric Acid, Sodium Stearoyl 2 Lactylate, Cellulose Gel, Artificial Color(s), Artificial Flavor(s), Vitamin A Palmitate, Vegetable Mono & Diglycerides with TBHQ Added, Soy Lecithin, Dextrose, Tapioca Dextrin, Agar, Calcium Propionate and Sodium Benzoate and Potassium Sorbate (Preservatives)",
+  "images": [
+    "https://spoonacular.com/productImages/22463-312x231.jpg",
+    "https://spoonacular.com/productImages/22463-636x393.jpg",
+    "https://spoonacular.com/productImages/22463-90x90.jpg"
+  ]
+}

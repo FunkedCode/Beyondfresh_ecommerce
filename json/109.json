@@ -1,0 +1,68 @@
+{
+  "id": 22459,
+  "title": "Paskesz Spelt Squares",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "paleo",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegan",
+    "paleo",
+    "primal",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 63.0,
+    "fat": "0g",
+    "protein": "2g",
+    "carbs": "13g"
+  },
+  "serving_size": "3.0 squares (18 g)",
+  "number_of_servings": 9.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "spelt",
+    "wheat",
+    "grains",
+    "ingredient"
+  ],
+  "generatedText": "Paskesz Spelt Squares: This product is an excellent fit if you are searching for a healthy spelt. This product contains no ingredients that some research suggests you should avoid. This product has 1 ingredient (in our experience: the fewer ingredients, the better!) One serving of this product provides 63 calories, 0g grams of fat, 2g grams of protein, and 13g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "whole spelt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sea salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Whole Spelt, Sea Salt",
+  "images": [
+    "https://spoonacular.com/productImages/22459-312x231.jpg",
+    "https://spoonacular.com/productImages/22459-636x393.jpg",
+    "https://spoonacular.com/productImages/22459-90x90.jpg"
+  ]
+}

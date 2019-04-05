@@ -1,0 +1,151 @@
+{
+  "id": 22480,
+  "title": "Santa Barbara Olive Co. Olives",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "primal",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "paleo",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 25.0,
+    "fat": "2.6g",
+    "protein": "0g"
+  },
+  "serving_size": "4 Olives",
+  "number_of_servings": 10.0,
+  "spoonacular_score": 84.0,
+  "breadcrumbs": [
+    "olives",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for food product? You could try Santa Barbaran Olive Co. Olives. This product contains no ingredients that some research suggests you should avoid. This product has 14 ingredients (in our experience: the fewer ingredients, the better!)",
+  "ingredients": [
+    {
+      "name": "minced anchovy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "olives",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lactic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "alginate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sodium glutamate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "may contain pit fragments",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ascorbic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium alginate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Olives, Water, Salt, Minced Anchovy, Sodium Glutamate, Lactic Acid, Sodium Alginate, Citric Acid, Ascorbic Acid. May Contain Pit Fragments",
+  "images": [
+    "https://spoonacular.com/productImages/22480-312x231.jpg",
+    "https://spoonacular.com/productImages/22480-636x393.jpg",
+    "https://spoonacular.com/productImages/22480-90x90.jpg"
+  ]
+}

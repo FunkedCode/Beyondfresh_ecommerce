@@ -1,0 +1,159 @@
+{
+  "id": 22519,
+  "title": "Wildbrine Salsa",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 10.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "2g"
+  },
+  "serving_size": "2.0 tbsp (30 g)",
+  "number_of_servings": null,
+  "spoonacular_score": 83.0,
+  "breadcrumbs": [
+    "salsa",
+    "dip",
+    "appetizer"
+  ],
+  "generatedText": "Wildbrine Salsa: This product is an excellent fit if you are searching for a healthy chili's salsa. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 15 ingredients. This product contains 10 calories, 0g grams of fat, 0g grams of protein, and 2g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "anaheim peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bell pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cabbage",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chipotle peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cilantro",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cumin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "green onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "jalapeno peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red bell peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sea salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "spicy pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweet pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomatillo",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato paste",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "tomato concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Cabbage, Tomatillo, Red Bell Peppers, Tomato Paste, Red Onion, Anaheim Peppers, Sea Salt, Green Onion, Cilantro, Jalapeno Peppers, Garlic, Cumin, Chipotle Peppers. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22519-312x231.jpg",
+    "https://spoonacular.com/productImages/22519-636x393.jpg",
+    "https://spoonacular.com/productImages/22519-90x90.jpg"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": 22590,
+  "title": "Reser's Fine Foods Hot Buttered Rum",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 50.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "20g"
+  },
+  "serving_size": "25 g",
+  "number_of_servings": 30.0,
+  "spoonacular_score": 85.0,
+  "breadcrumbs": [
+    "buttered rum",
+    "cocktail",
+    "alcoholic drink",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for rum? You could try Reser's Fine Foods Hot Buttered Rum. One serving of this product provides 50 calories, 0g grams of fat, 0g grams of protein, and 20g grams of carbs. This product has 13 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "butter rum seasoning",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial rum extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavorings",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "brown sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Brown Sugar, Butter Rum Seasoning (Dextrose, Spices, Natural And Artificial Flavorings), Natural And Artificial Rum Extract, Salt, Water, Potassium Sorbate To Protect Flavor",
+  "images": [
+    "https://spoonacular.com/productImages/22590-312x231.jpg",
+    "https://spoonacular.com/productImages/22590-636x393.jpg",
+    "https://spoonacular.com/productImages/22590-90x90.jpg"
+  ]
+}

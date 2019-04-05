@@ -1,0 +1,103 @@
+{
+  "id": 22478,
+  "title": "Bellino Bruschetta",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 20.0,
+    "fat": "1.5g",
+    "protein": "0g",
+    "carbs": "1g"
+  },
+  "serving_size": "2 Tbsp",
+  "number_of_servings": 16.0,
+  "spoonacular_score": 93.0,
+  "breadcrumbs": [
+    "bruschetta",
+    "fingerfood",
+    "appetizer"
+  ],
+  "generatedText": "Are you trying to decide on a bruschetta? Here's some information to help you decide whether Bellino Bruschettan is the right product for you. This product contains no ingredients that some research suggests you should avoid. One serving of this product provides 20 calories, 1.5g grams of fat, 0g grams of protein, and 1g grams of carbs. This product has 6 ingredients (in our experience: the fewer ingredients, the better!)",
+  "ingredients": [
+    {
+      "name": "oregano",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "canola oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Tomatoes, Canola Oil, Water, Salt, Garlic, Vinegar, Oregano",
+  "images": [
+    "https://spoonacular.com/productImages/22478-312x231.jpg",
+    "https://spoonacular.com/productImages/22478-636x393.jpg",
+    "https://spoonacular.com/productImages/22478-90x90.jpg"
+  ]
+}

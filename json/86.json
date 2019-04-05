@@ -1,0 +1,271 @@
+{
+  "id": 22436,
+  "title": "Gefen Noodle Soup",
+  "price": 179.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "corn",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "vegetarian",
+    "vegan",
+    "pescetarian",
+    "corn",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 190.0,
+    "fat": "0g",
+    "protein": "7g",
+    "carbs": "42g"
+  },
+  "serving_size": "1 cup",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 70.0,
+  "breadcrumbs": [
+    "soup",
+    "ingredient"
+  ],
+  "generatedText": "Gefen Noodle Soup: This product is an excellent match if you are searching for a healthy soup. This product has 28 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 190 calories, 0g grams of fat, 7g grams of protein, and 42g grams of carbs. This product contains no ingredients that some research suggests you should avoid. The price of a product varies depending on the store, location, current sales, etc., but this product usually costs around $1.79. This amounts to $2 per serving.",
+  "ingredients": [
+    {
+      "name": "disodium guanylate",
+      "safety_level": "high",
+      "description": "Disodium guanylate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "noodle",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "caramel powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ginger powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chives",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chilli powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "corn",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "disodium inosinate",
+      "safety_level": "high",
+      "description": "Disodium inosinate is often used in conjunction with MSG, so if you are avoiding MSG in your diet, pay close attention to the other ingredients in this product."
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolysed vegetable protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ginger",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turmeric powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor packet",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "silicon dioxide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dried carrot",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "main dish",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Noodle: Wheat Flour, Modified Food Starch, Salt, Mineral Salt, Flavor Packet: Salt, Sugar, Hydrolysed Vegetable Protein, Maltodextrin, Yeast, Onion Powder, Disodium Guanylate, Disodium Inosinate, Chives, Silicon Dioxide, Pepper, Ginger Powder, Chilli Powder, Turmeric Powder, Malic Acid, Caramel Powder and Garlic Powder, Dried Carrot, Dried Onion, Corn",
+  "images": [
+    "https://spoonacular.com/productImages/22436-312x231.jpg",
+    "https://spoonacular.com/productImages/22436-636x393.jpg",
+    "https://spoonacular.com/productImages/22436-90x90.jpg"
+  ]
+}

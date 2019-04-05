@@ -1,0 +1,81 @@
+{
+  "id": 22413,
+  "title": "Salada Green Tea",
+  "price": 379.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "paleo",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 0.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "0g"
+  },
+  "serving_size": "1 tea bag",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 94.0,
+  "breadcrumbs": [
+    "green tea",
+    "tea",
+    "hot drink",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some green tea today? Salada Green Tean is one choice; let's take a closer look. This product has 5 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid. This product contains 0 calories, 0g grams of fat, 0g grams of protein, and 0g grams of carbs per serving. This product is also rather expensive. It usually costs roughly $3.79, depending on the store and your location.",
+  "ingredients": [
+    {
+      "name": "contains soy lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural bergamot flavoring",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tea",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "green tea",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "hot drink",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Green Tea, Natural Bergamot Flavoring (Contains Soy Lecithin)",
+  "images": [
+    "https://spoonacular.com/productImages/22413-312x231.jpg",
+    "https://spoonacular.com/productImages/22413-636x393.jpg",
+    "https://spoonacular.com/productImages/22413-90x90.jpg"
+  ]
+}

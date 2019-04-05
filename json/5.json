@@ -1,0 +1,72 @@
+{
+  "id": 22350,
+  "title": "HerbThyme Farms Pesto Kit",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "nut_free",
+    "vegetarian",
+    "vegan",
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 51.0,
+    "fat": "5g",
+    "protein": "2g",
+    "carbs": "2g"
+  },
+  "serving_size": "0.33 oz each",
+  "number_of_servings": 3.0,
+  "spoonacular_score": 95.0,
+  "breadcrumbs": [
+    "pesto",
+    "sauce",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for pesto? You could try HerbThyme Farms Pesto Kit. This product contains 51 calories, 5g grams of fat, 2g grams of protein, and 2g grams of carbs per serving. This product has 4 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "basil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pine nuts",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "seeds",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Pine Nuts, Basil",
+  "images": [
+    "https://spoonacular.com/productImages/22350-312x231.jpg",
+    "https://spoonacular.com/productImages/22350-636x393.jpg",
+    "https://spoonacular.com/productImages/22350-90x90.jpg"
+  ]
+}

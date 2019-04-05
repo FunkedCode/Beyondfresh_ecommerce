@@ -1,0 +1,223 @@
+{
+  "id": 22603,
+  "title": "Disney Cars Decors",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "soy",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegan",
+    "soy",
+    "wheat_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 15.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "3g"
+  },
+  "serving_size": "1.0 tsp (3 g)",
+  "number_of_servings": 22.0,
+  "spoonacular_score": 70.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "Are you trying to decide on a food product? Here's some information to help you decide whether Disney Cars Decors is the right product for you. This product contains 1 ingredient that some research suggests could be harmful, including . One serving of this product provides 15 calories, 0g grams of fat, 0g grams of protein, and 3g grams of carbs. This product has 28 ingredients (in our experience: the fewer ingredients, the better!)",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "artificial food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "blue 1",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cornstarch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cottonseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "diglycerides",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gum arabic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mono",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "polysorbate 60",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "red 3",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "red 40",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rice flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybean",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "titanium dioxide",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    },
+    {
+      "name": "yellow 5",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "yellow 6",
+      "safety_level": "controversial",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, Cornstarch, Rice Flour, Partially Hydrogenated Vegetable Oil (Soybean, Cottonseed), Gum Arabic, Xanthan Gum, Natural and Artificial Flavor, Mono- and Diglycerides, Red 40, Polysorbate 60, Yellow 5, Titanium Dioxide (Color), Yellow 6, Blue 1, Red 3",
+  "images": [
+    "https://spoonacular.com/productImages/22603-312x231.jpg",
+    "https://spoonacular.com/productImages/22603-636x393.jpg",
+    "https://spoonacular.com/productImages/22603-90x90.jpg"
+  ]
+}

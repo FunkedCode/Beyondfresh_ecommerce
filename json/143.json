@@ -1,0 +1,56 @@
+{
+  "id": 22493,
+  "title": "Carp",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegan",
+    "paleo",
+    "primal",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 277.0,
+    "fat": "12.2g",
+    "protein": "39g",
+    "carbs": "0g"
+  },
+  "serving_size": "1 fillet",
+  "number_of_servings": null,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "Thinking about having some food product today? Carp is one option; let's take a closer look. This product contains no ingredients that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 1 ingredient. This product contains 277 calories, 12.2g grams of fat, 39g grams of protein, and 0g grams of carbs per serving.",
+  "ingredients": [
+    {
+      "name": "carp fish",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Carp fish",
+  "images": [
+    "https://spoonacular.com/productImages/22493-312x231.jpg",
+    "https://spoonacular.com/productImages/22493-636x393.jpg",
+    "https://spoonacular.com/productImages/22493-90x90.jpg"
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": 22496,
+  "title": "French's Honey Mustard Dipping Sauce",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "msg_free",
+    "no_artificial_colors",
+    "peanut_free",
+    "vegetarian",
+    "no_artificial_flavors",
+    "nut_free",
+    "no_artificial_ingredients",
+    "gluten_free",
+    "dairy_free",
+    "soy_free"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "gluten_free",
+    "nut_free",
+    "peanut_free"
+  ],
+  "nutrition": {
+    "calories": 60.0,
+    "fat": "0.5g",
+    "protein": "0g",
+    "carbs": "12g"
+  },
+  "serving_size": "2.0 tbsp (30 g)",
+  "number_of_servings": 11.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "dip",
+    "appetizer"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated garlic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "titanium dioxide",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "as a preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "corn syrup solids",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "carrot oleoresin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "1 grade mustard seed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "distilled vinegar",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "tapioca starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tartaric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "honey",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium benzoate",
+      "safety_level": "medium",
+      "description": null
+    }
+  ],
+  "ingredientCount": 18.0,
+  "ingredientList": "Distilled Vinegar, Water, High Fructose Corn Syrup, Corn Syrup, No. 1 Grade Mustard Seed, Sugar, Corn Syrup Solids, Tapioca Starch, Salt, Honey, Sodium Benzoate (as a Preservative), Carrot Oleoresin (Color), Spices, Titanium Dioxide (Color), Garlic Powder, Tartaric Acid and Citric Acid",
+  "images": [
+    "https://spoonacular.com/productImages/22496-312x231.jpg",
+    "https://spoonacular.com/productImages/22496-636x393.jpg",
+    "https://spoonacular.com/productImages/22496-90x90.jpg"
+  ]
+}

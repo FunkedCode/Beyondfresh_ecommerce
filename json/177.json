@@ -1,0 +1,234 @@
+{
+  "id": 22527,
+  "title": "Jennie-O Turkey Store Turkey Breast Tenderloin",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "nut_free",
+    "gluten_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 100.0,
+    "fat": "1g",
+    "protein": "22g",
+    "carbs": "1g"
+  },
+  "serving_size": "4.0 oz (112 g)",
+  "number_of_servings": 3.0,
+  "spoonacular_score": 77.0,
+  "breadcrumbs": [
+    "turkey breast",
+    "turkey",
+    "poultry",
+    "meat",
+    "animal product"
+  ],
+  "generatedText": "Jennie-O Turkey Store Turkey Breast Tenderloin: This product is an awesome fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product contains 100 calories, 1g grams of fat, 22g grams of protein, and 1g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 20 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turkey powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "parsley",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turkey fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "animal product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cane sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "raw sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "solution",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "roasted turkey seasoning",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "poultry",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "turkey",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "baking soda",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "evaporated cane juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "molasses powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spice",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "turbinado sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spice extracts",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dried turkey stock",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Solution: Water, Vinegar, Roasted Turkey Seasoning (Salt, Turkey Powder (Cooked Turkey, Natural Flavor), Evaporated Cane Juice, Dried Turkey Stock, Garlic Powder, Molasses Powder, Turkey Fat, Spice, Onion Powder, Spice Extracts), Salt, Turbinado Sugar, Baking Soda, Parsley",
+  "images": [
+    "https://spoonacular.com/productImages/22527-312x231.jpg",
+    "https://spoonacular.com/productImages/22527-636x393.jpg",
+    "https://spoonacular.com/productImages/22527-90x90.jpg"
+  ]
+}

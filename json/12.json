@@ -1,0 +1,93 @@
+{
+  "id": 22362,
+  "title": "Conchita Coconut Milk",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 94.0,
+    "fat": "9.5g",
+    "protein": "1g",
+    "carbs": "1g"
+  },
+  "serving_size": "0.25 cup",
+  "number_of_servings": 7.0,
+  "spoonacular_score": 88.0,
+  "breadcrumbs": [
+    "coconut milk",
+    "milk substitute",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for coconut milk? You could try Conchita Coconut Milk. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 10 ingredients. One serving of this product provides 94 calories, 9.5g grams of fat, 1g grams of protein, and 1g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "as preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "coconut milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium metabisulfite",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sulfite",
+      "safety_level": "medium",
+      "description": "Sulfites are safe for most people, but some asthmatics and other people who are sensitive to sulfites should avoid them."
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Coconut Milk and Water, Potassium Metabisulfite (as Preservative)",
+  "images": [
+    "https://spoonacular.com/productImages/22362-312x231.jpg",
+    "https://spoonacular.com/productImages/22362-636x393.jpg",
+    "https://spoonacular.com/productImages/22362-90x90.jpg"
+  ]
+}

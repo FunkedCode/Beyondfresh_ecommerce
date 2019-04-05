@@ -1,0 +1,139 @@
+{
+  "id": 22599,
+  "title": "Foxs Sundae Sauce",
+  "price": 419.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "vegan",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 100.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "25g"
+  },
+  "serving_size": "2.0 tbsp (40 g)",
+  "number_of_servings": 14.0,
+  "spoonacular_score": 82.0,
+  "breadcrumbs": [
+    "sauce",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for food product? You could try Foxs Sundae Sauce. This product contains 100 calories, 0g grams of fat, 1g grams of protein, and 25g grams of carbs per serving. This product has 16 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid. At about $4.19, this product is rather expensive.",
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial vanilla",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cocoa",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar during passover",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vanilla extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vanillin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Corn Syrup (Sugar During Passover), Water, Cocoa, Xanthan Gum, Potassium Sorbate and Vanillin",
+  "images": [
+    "https://spoonacular.com/productImages/22599-312x231.jpg",
+    "https://spoonacular.com/productImages/22599-636x393.jpg",
+    "https://spoonacular.com/productImages/22599-90x90.jpg"
+  ]
+}

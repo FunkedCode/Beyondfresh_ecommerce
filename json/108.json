@@ -1,0 +1,233 @@
+{
+  "id": 22458,
+  "title": "LifeSavers Grab Bag Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "nut_free",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "wheat_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 60.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "16g"
+  },
+  "serving_size": "4 candies",
+  "number_of_servings": 21.0,
+  "spoonacular_score": 71.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "LifeSavers Grab Bag Mix: This product is an excellent fit if you are searching for a healthy food product. This product has 27 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 60 calories, 0g grams of fat, 0g grams of protein, and 16g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lifesavers gummies 5 flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "for tartness",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lifesavers five flavor candy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "includes red 40",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lifesavers pops - assorted",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lifesavers sours hard candy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "blue 1",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "mineral oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malic acids",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gelatin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "modified potato starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "potato starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cornstarch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red 40",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "yellow 5",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "glazing agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carnauba wax",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "LifeSavers Five Flavor Candy: Sugar, Corn Syrup, High Fructose Corn Syrup, Citric Acid (for Tartness), Natural and Artificial Flavor, Artificial Color (Red 40, Yellow 5, Blue 1). LifeSavers Pops - Assorted: Sugar, Corn Syrup, Citric Acid (for Tartness), Dextrose, Natural and Artificial Flavor, Artificial Color (Includes Red 40, Blue 1, Yellow 5). LifeSavers Sours Hard Candy: Sugar, Corn Syrup, High Fructose Corn Syrup, Citric and Malic Acids (for Tartness), Natural and Artificial Flavor, Artificial Color (Red 40, Yellow 5, Blue 1). LifeSavers Gummies 5 Flavor: Corn Syrup, Sugar, Water, Gelatin, Modified Potato Starch, Citric Acid (for Tartness), Cornstarch, Natural and Artificial Flavor, Mineral Oil, Artificial Color (Red 40, Yellow 5, Blue 1), Carnauba Wax",
+  "images": [
+    "https://spoonacular.com/productImages/22458-312x231.jpg",
+    "https://spoonacular.com/productImages/22458-636x393.jpg",
+    "https://spoonacular.com/productImages/22458-90x90.jpg"
+  ]
+}

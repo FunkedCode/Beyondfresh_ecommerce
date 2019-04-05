@@ -1,0 +1,83 @@
+{
+  "id": 22377,
+  "title": "Goya Yuca",
+  "price": 349.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "nut_free",
+    "peanut_free",
+    "vegetarian",
+    "vegan",
+    "pescetarian"
+  ],
+  "nutrition": {
+    "calories": 90.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "23g"
+  },
+  "serving_size": "2 pieces",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "cassava",
+    "root vegetable",
+    "vegetable",
+    "ingredient"
+  ],
+  "generatedText": "Goya Yuca: This product is an amazing fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product has 1 ingredient (in our experience: the fewer ingredients, the better!) One serving of this product provides 90 calories, 0g grams of fat, 0g grams of protein, and 23g grams of carbs. This product contains no ingredients that some research suggests you should avoid. At about $3.49, this product is rather expensive.",
+  "ingredients": [
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yuca",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "root vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Yuca, Salt and Water",
+  "images": [
+    "https://spoonacular.com/productImages/22377-312x231.jpg",
+    "https://spoonacular.com/productImages/22377-636x393.jpg",
+    "https://spoonacular.com/productImages/22377-90x90.jpg"
+  ]
+}

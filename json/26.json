@@ -1,0 +1,56 @@
+{
+  "id": 22376,
+  "title": "Bubba Burger Burgers",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "paleo",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegetarian",
+    "vegan",
+    "pescetarian",
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 410.0,
+    "fat": "33g",
+    "protein": "20g",
+    "carbs": "0g"
+  },
+  "serving_size": "1 Burger",
+  "number_of_servings": 6.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "burger",
+    "main dish"
+  ],
+  "generatedText": "In the mood for burger? You could try Bubba Burger Burgers. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 1 ingredient. This product contains 410 calories, 33g grams of fat, 20g grams of protein, and 0g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "100% usda natural whole muscle chuck",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "100% USDA Natural Whole Muscle Chuck",
+  "images": [
+    "https://spoonacular.com/productImages/22376-312x231.jpg",
+    "https://spoonacular.com/productImages/22376-636x393.jpg",
+    "https://spoonacular.com/productImages/22376-90x90.jpg"
+  ]
+}

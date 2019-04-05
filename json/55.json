@@ -1,0 +1,346 @@
+{
+  "id": 22405,
+  "title": "Kashi Cereal",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "nut_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 170.0,
+    "fat": "2g",
+    "protein": "5g",
+    "carbs": "43g"
+  },
+  "serving_size": "1 cup",
+  "number_of_servings": 10.0,
+  "spoonacular_score": 59.0,
+  "breadcrumbs": [
+    "cereal",
+    "breakfast"
+  ],
+  "generatedText": "Kashi Cereal: This product is an outstanding fit if you are searching for a healthy cereal. One serving of this product provides 170 calories, 2g grams of fat, 5g grams of protein, and 43g grams of carbs. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 35 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sesame seeds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "expeller pressed canola oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole grain",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow corn meal",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "annatto",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "soy protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sesame flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "brown rice syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn bran",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "evaporated cane juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "barley",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "unrefined sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin e",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bran",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "evaporated cane juice syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole grain",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cane sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "long grain rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rice flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oats",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "grains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mixed tocopherols",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "brown rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stone ground whole",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rye",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malt extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "long grain brown rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buckwheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat bran",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole grain wheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "waxy maize starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural vitamin e",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oat fiber",
+      "safety_level": "high",
+      "description": "Oat fiber is isolated fiber. Just be aware you don't get the nutrients associated with whole foods (in this case, with whole oats)."
+    },
+    {
+      "name": "hard red winter wheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "crisp rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "triticale",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy protein concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "seeds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole grain oats",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "honey",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "canola oil",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Wheat Bran, Granola (Whole Grain Oats, Whole Grain Wheat, Brown Rice Syrup, Evaporated Cane Juice, Crisp Rice [Rice Flour, Evaporated Cane Juice, Malt Extract, Salt], Evaporated Cane Juice Syrup, Expeller Pressed Canola Oil, Waxy Maize Starch, Salt, Honey, Natural Flavors, Mixed Tocopherols [Natural Vitamin E] Added for Freshness), Evaporated Cane Juice Syrup, Yellow Corn Meal, Corn Flour, Kashi Seven Whole Grains & Sesame Flour (Stone Ground Whole: Oats, Long Grain Brown Rice, Rye, Hard Red Winter Wheat, Triticale, Buckwheat, Barley, Sesame Seeds), Corn Bran, Oat Fiber, Wheat Bran, Soy Protein Concentrate, Expeller Pressed Canola Oil, Salt, Natural Flavor, Annatto (Color)",
+  "images": [
+    "https://spoonacular.com/productImages/22405-312x231.jpg",
+    "https://spoonacular.com/productImages/22405-636x393.jpg",
+    "https://spoonacular.com/productImages/22405-90x90.jpg"
+  ]
+}

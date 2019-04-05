@@ -1,0 +1,274 @@
+{
+  "id": 22522,
+  "title": "Texas-Texas Salsa",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 20.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "4g"
+  },
+  "serving_size": "2.0 tbsp (28 g)",
+  "number_of_servings": 16.0,
+  "spoonacular_score": 64.0,
+  "breadcrumbs": [
+    "salsa",
+    "dip",
+    "appetizer"
+  ],
+  "generatedText": "Are you trying to decide on a chili's salsa? Here's some information to help you decide whether Texas-Texas Salsan is the right product for you. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 33 ingredients. This product contains no ingredients that some research suggests you should avoid. One serving of this product provides 20 calories, 0g grams of fat, 1g grams of protein, and 4g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alcoholic drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apple cider vinegars",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "beans",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bell peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "black beans",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium chloride",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "chili peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cilantro",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dehydrated onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "granulated garlic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "jalapeno peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red wine",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "spicy pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweet pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato juice",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "tomato paste",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "tomato puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable juice",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wine",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    },
+    {
+      "name": "yellow corn",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Tomatoes (Tomatoes, Tomato Juice, Calcium Chloride, Citric Acid), Yellow Corn, Tomato Puree (Water, Tomato Paste, Citric Acid), Black Beans, Onions, Jalapeno Peppers, Chili Peppers, Salt, Bell Peppers, Red Wine and Apple Cider Vinegars, Dehydrated Onions, Cilantro, Lime Juice, Granulated Garlic, Spices, Sugar, Xanthan Gum. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22522-312x231.jpg",
+    "https://spoonacular.com/productImages/22522-636x393.jpg",
+    "https://spoonacular.com/productImages/22522-90x90.jpg"
+  ]
+}

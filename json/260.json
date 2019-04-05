@@ -1,0 +1,185 @@
+{
+  "id": 22610,
+  "title": "Applegate Traditional Italian - Naturals Uncured Pork Pepperoni",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "msg_free",
+    "peanut_free",
+    "no_artificial_colors",
+    "sugar_free",
+    "no_artificial_flavors",
+    "vegetarian",
+    "nut_free",
+    "no_artificial_ingredients",
+    "dairy_free",
+    "gluten_free",
+    "soy_free"
+  ],
+  "important_badges": [
+    "no_artificial_ingredients",
+    "gluten_free",
+    "vegetarian",
+    "dairy_free",
+    "sugar_free",
+    "soy_free"
+  ],
+  "nutrition": {
+    "calories": 50.0,
+    "fat": "3.5g",
+    "protein": "3g",
+    "carbs": "0g"
+  },
+  "serving_size": "1.0 oz (28 g)",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 47.5,
+  "breadcrumbs": [
+
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "not from milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pork never administered antibiotics or animal by-products",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "paprika garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetarian grain fed diet",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cherry powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rosemary extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sea salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lactic acid starter culture",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "culture",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "red meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pork",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "curing agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "celery powder",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "animal product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "probiotic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 12.0,
+  "ingredientList": "Pork (Pork Never Administered Antibiotics or Animal By-Products, Vegetarian Grain Fed Diet), Sea Salt, Contains Less than 2% of the Following: Dextrose, Celery Powder, Rosemary Extract, Spices, Paprika Garlic, Cherry Powder, Lactic Acid Starter Culture (Not from Milk). Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22610-312x231.jpg",
+    "https://spoonacular.com/productImages/22610-636x393.jpg",
+    "https://spoonacular.com/productImages/22610-90x90.jpg"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 22614,
+  "title": "Hines Nut Company Walnuts",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "peanut_free",
+    "vegan",
+    "paleo",
+    "primal",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 210.0,
+    "fat": "20g",
+    "protein": "5g",
+    "carbs": "3g"
+  },
+  "serving_size": "0.25 cup (30 g)",
+  "number_of_servings": 15.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "nuts",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some walnut today? Hines Nut Company Walnuts is one option; let's take a closer look. This product contains no ingredients that some research suggests you should avoid. This product contains 210 calories, 20g grams of fat, 5g grams of protein, and 3g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 1 ingredient.",
+  "ingredients": [
+    {
+      "name": "walnuts",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Walnuts",
+  "images": [
+    "https://spoonacular.com/productImages/22614-312x231.jpg",
+    "https://spoonacular.com/productImages/22614-636x393.jpg",
+    "https://spoonacular.com/productImages/22614-90x90.jpg"
+  ]
+}

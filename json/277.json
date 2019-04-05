@@ -1,0 +1,184 @@
+{
+  "id": 22627,
+  "title": "Hodgson Mill Brownie Mix Gluten Free",
+  "price": 559.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "nut_free",
+    "vegan",
+    "no_preservatives",
+    "soy_free",
+    "msg_free",
+    "gmo_free",
+    "no_artificial_colors",
+    "no_artificial_flavors",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "no_preservatives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "gmo_free",
+    "gluten_free"
+  ],
+  "nutrition": {
+    "calories": 100.0,
+    "fat": "0.5g",
+    "protein": "1g",
+    "carbs": "24g"
+  },
+  "serving_size": null,
+  "number_of_servings": 15.0,
+  "spoonacular_score": 95.0,
+  "breadcrumbs": [
+    "brownie mix",
+    "baking mix category"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "badge",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "baking powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "baking soda",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "brown rice flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cocoa",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cornstarch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flake salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gluten free flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rice flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "search modifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sorghum flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tapioca starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole grain",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    }
+  ],
+  "ingredientCount": 10.0,
+  "ingredientList": "Sugar, Cocoa, Brown Rice Flour, Sorghum Flour, Tapioca Starch, Cornstarch, Baking Powder, Xanthan Gum, Flake Salt, Baking Soda",
+  "images": [
+    "https://spoonacular.com/productImages/22627-312x231.jpg",
+    "https://spoonacular.com/productImages/22627-636x393.jpg",
+    "https://spoonacular.com/productImages/22627-90x90.jpg"
+  ]
+}

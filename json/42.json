@@ -1,0 +1,168 @@
+{
+  "id": 22392,
+  "title": "Silver Peak Gummi Bears",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "nut_free",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 140.0,
+    "fat": "0g",
+    "protein": "2g",
+    "carbs": "32g"
+  },
+  "serving_size": "16.0 pieces (40 g)",
+  "number_of_servings": 3.0,
+  "spoonacular_score": 76.0,
+  "breadcrumbs": [
+    "gummy bears",
+    "gummies",
+    "candy",
+    "ingredient"
+  ],
+  "generatedText": "Silver Peak Gummi Bears: This product is an excellent match if you are searching for a healthy gummies. This product has 22 ingredients (in our experience: the fewer ingredients, the better!) This product contains 140 calories, 0g grams of fat, 2g grams of protein, and 32g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavors",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "artificial food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "blue 1",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "c red 40",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fd",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "fumaric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "gelatin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified potato starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potato starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow 5",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "yellow 6",
+      "safety_level": "controversial",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Corn Syrup, Sugar, Gelatin, Modified Potato Starch, Citric Acid, Fumaric Acid, Natural & Artificial Flavors, Colored with FD&C Red 40, Yellow 5, Yellow 6, and Blue 1",
+  "images": [
+    "https://spoonacular.com/productImages/22392-312x231.jpg",
+    "https://spoonacular.com/productImages/22392-636x393.jpg",
+    "https://spoonacular.com/productImages/22392-90x90.jpg"
+  ]
+}

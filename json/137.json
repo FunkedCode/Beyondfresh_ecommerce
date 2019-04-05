@@ -1,0 +1,96 @@
+{
+  "id": 22487,
+  "title": "Wonderfully Raw Coco-Roons",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "paleo",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegan",
+    "paleo",
+    "primal",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 78.0,
+    "fat": "6g",
+    "protein": "1g",
+    "carbs": "6g"
+  },
+  "serving_size": "1.0 coco-roon (15 g)",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 94.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "Are you trying to decide on a food product? Here's some information to help you decide whether Wonderfully Raw Coco-Roons is the right product for you. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 6 ingredients. This product contains no ingredients that some research suggests you should avoid. One serving of this product provides 78 calories, 6g grams of fat, 1g grams of protein, and 6g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "raw almond flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unfiltered maple syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "not raw",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "himalayan crystal salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "raw unsweetened coconut",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "raw cold-pressed coconut oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vanilla extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lemon extract",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Raw Unsweetened Coconut, Raw Almond Flour (Our Almonds Are from CA and by Law Have to Be Pasteurized, However the Oils Within Remain Raw), Unfiltered Maple Syrup (Not Raw), Raw Cold-Pressed Coconut Oil, Lemon Extract, Vanilla Extract, Himalayan Crystal Salt. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22487-312x231.jpg",
+    "https://spoonacular.com/productImages/22487-636x393.jpg",
+    "https://spoonacular.com/productImages/22487-90x90.jpg"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": 22601,
+  "title": "Wilton Sprinkles",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 15.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "3g"
+  },
+  "serving_size": "1.0 tsp (4 g)",
+  "number_of_servings": 21.0,
+  "spoonacular_score": 74.0,
+  "breadcrumbs": [
+    "sprinkles",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for food product? You could try Wilton Sprinkles. One serving of this product provides 15 calories, 0g grams of fat, 0g grams of protein, and 3g grams of carbs. This product has 24 ingredients (in our experience: the fewer ingredients, the better!) This product contains 1 ingredient that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "c blue 1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c red 3",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c red 40",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c yellow 5",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "c yellow 6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carrageenan",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "cellulose gum",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "confectioners' glaze",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cottonseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fd",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "glazing agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gum arabic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "or soybean",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rice flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, Rice Flour, Partially Hydrogenated Vegetable Oil (Cottonseed and/or Soybean), Corn Starch, Gum Arabic, Cellulose Gum, Confectioners' Glaze, Carrageenan, FD&C Red 40, Soy Lecithin, FD&C Yellow 6, FD&C Red 3, Artificial Flavor, FD&C Yellow 5, FD&C Blue 1",
+  "images": [
+    "https://spoonacular.com/productImages/22601-312x231.jpg",
+    "https://spoonacular.com/productImages/22601-636x393.jpg",
+    "https://spoonacular.com/productImages/22601-90x90.jpg"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "id": 22566,
+  "title": "Bar-Tender's Instant Daiquiri Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "nut_free",
+    "peanut_free",
+    "vegetarian",
+    "vegan",
+    "pescetarian"
+  ],
+  "nutrition": {
+    "calories": 130.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "30g"
+  },
+  "serving_size": "2 ea",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 80.0,
+  "breadcrumbs": [
+    "daiquiri mix",
+    "cocktail mix"
+  ],
+  "generatedText": "In the mood for daiquiri mix? You could try Bar-Tender's Instant Daiquiri Mix. One serving of this product provides 130 calories, 0g grams of fat, 0g grams of protein, and 30g grams of carbs. This product contains 1 ingredient that some research suggests could be harmful, including . This product has 18 ingredients (in our experience: the fewer ingredients, the better!)",
+  "ingredients": [
+    {
+      "name": "provides tartness",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "controls acidity",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "prolongs freshness",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "prevents caking",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime juice dehydrated",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup solids",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium citrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bha",
+      "safety_level": "low",
+      "description": "Scientific research has led the U.S. Department of Health and Human Services to conclude that BHA can be \"reasonably anticipated to be a human carcinogen.\""
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried egg whites",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime juice powder",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, Citric Acid (Provides Tartness), Lime Juice Powder (Lime Juice Dehydrated with Corn Syrup Solids), Sodium Citrate (Controls Acidity), Dried Egg Whites, Calcium Phosphate (Prevents Caking), Lime Oil, BHA (Prolongs Freshness)",
+  "images": [
+    "https://spoonacular.com/productImages/22566-312x231.jpg",
+    "https://spoonacular.com/productImages/22566-636x393.jpg",
+    "https://spoonacular.com/productImages/22566-90x90.jpg"
+  ]
+}

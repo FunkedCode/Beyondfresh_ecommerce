@@ -1,0 +1,195 @@
+{
+  "id": 22495,
+  "title": "Heinz Real Mayonnaise",
+  "price": 298.0,
+  "likes": 0.0,
+  "badges": [
+    "msg_free",
+    "no_artificial_colors",
+    "peanut_free",
+    "no_artificial_flavors",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "nut_free",
+    "corn_free",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "gluten_free",
+    "nut_free",
+    "peanut_free"
+  ],
+  "nutrition": {
+    "calories": 100.0,
+    "fat": "11g",
+    "protein": "0g",
+    "carbs": "0g"
+  },
+  "serving_size": null,
+  "number_of_servings": 60.0,
+  "spoonacular_score": 47.5,
+  "breadcrumbs": [
+    "mayonnaise",
+    "condiment",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium disodium edta",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "contains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "egg yolks",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lemon juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lemon juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white distilled vinegar",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "whole eggs",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 12.0,
+  "ingredientList": "Soybean Oil, White Distilled Vinegar, Egg Yolks, Whole Eggs, Sugar, Salt, Lemon Juice Concentrate, Calcium Disodium EDTA",
+  "images": [
+    "https://spoonacular.com/productImages/22495-312x231.jpg",
+    "https://spoonacular.com/productImages/22495-636x393.jpg",
+    "https://spoonacular.com/productImages/22495-90x90.jpg"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": 22452,
+  "title": "Delallo Pasta Sauce",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "vegetarian",
+    "vegan",
+    "paleo",
+    "primal",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 120.0,
+    "fat": "11g",
+    "protein": "1g",
+    "carbs": "5g"
+  },
+  "serving_size": "1/2 Cup",
+  "number_of_servings": 6.0,
+  "spoonacular_score": 95.0,
+  "breadcrumbs": [
+    "pasta sauce",
+    "sauce",
+    "ingredient"
+  ],
+  "generatedText": "Are you trying to decide on a noodles? Here's some information to help you decide whether Delallo Pasta Sauce is the right product for you. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 4 ingredients. This product contains 120 calories, 11g grams of fat, 1g grams of protein, and 5g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "basil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carrots",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "extra virgin olive oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pulp san marzano tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "root vegetables",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Pulp San Marzano Tomatoes, Extra Virgin Olive Oil, Carrots, Onion, Basil and Salt",
+  "images": [
+    "https://spoonacular.com/productImages/22452-312x231.jpg",
+    "https://spoonacular.com/productImages/22452-636x393.jpg",
+    "https://spoonacular.com/productImages/22452-90x90.jpg"
+  ]
+}

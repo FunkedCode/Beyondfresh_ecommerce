@@ -1,0 +1,141 @@
+{
+  "id": 22492,
+  "title": "Rooibee Red Tea Tea",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "primal",
+    "nut_free",
+    "vegan",
+    "grain_free",
+    "vegetarian",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 90.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "21g"
+  },
+  "serving_size": "1 bottle",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 91.0,
+  "breadcrumbs": [
+    "tea",
+    "hot drink",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": "Are you trying to decide on a tea? Here's some information to help you decide whether Rooibee Red Tea Tean is the right product for you. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 7 ingredients. One serving of this product provides 90 calories, 0g grams of fat, 0g grams of protein, and 21g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "390 mg",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "78 mg",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ascorbic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cane sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gallic acid equivalent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rooibos tea extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Water, Organic Cane Sugar, Rooibos Tea Extract (390 mg), Gallic Acid Equivalent (78 mg), Natural Flavor, Citric Acid, Ascorbic Acid. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22492-312x231.jpg",
+    "https://spoonacular.com/productImages/22492-636x393.jpg",
+    "https://spoonacular.com/productImages/22492-90x90.jpg"
+  ]
+}

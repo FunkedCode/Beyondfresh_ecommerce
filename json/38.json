@@ -1,0 +1,126 @@
+{
+  "id": 22388,
+  "title": "Pastene Lupini Beans",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "sulfite_free",
+    "nut_free",
+    "vegan",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "no_artificial_flavors",
+    "sugar_free",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "no_additives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "sulfite_free",
+    "gluten_free"
+  ],
+  "nutrition": {
+    "calories": 30.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "8g"
+  },
+  "serving_size": null,
+  "number_of_servings": 4.0,
+  "spoonacular_score": 60.0,
+  "breadcrumbs": [
+    "beans",
+    "legumes",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "10 of 1% benzoate of soda as a preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "beans",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium bisulfite",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "sulfite",
+      "safety_level": "medium",
+      "description": "Sulfites are safe for most people, but some asthmatics and other people who are sensitive to sulfites should avoid them."
+    },
+    {
+      "name": "to preserve",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 7.0,
+  "ingredientList": "Beans, Water, Salt, Citric Acid, 1/10 of 1% Benzoate of Soda AS a preservative, Sodium Bisulfite (to preserve Color)",
+  "images": [
+    "https://spoonacular.com/productImages/22388-312x231.jpg",
+    "https://spoonacular.com/productImages/22388-636x393.jpg",
+    "https://spoonacular.com/productImages/22388-90x90.jpg"
+  ]
+}

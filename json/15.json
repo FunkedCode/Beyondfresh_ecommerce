@@ -1,0 +1,136 @@
+{
+  "id": 22365,
+  "title": "Lactaid Milk - 100% Lactose Free Fat Free",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "lactose_free",
+    "peanut_free",
+    "sulfite_free",
+    "nut_free",
+    "no_preservatives",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "no_artificial_flavors",
+    "sugar_free",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "no_additives",
+    "no_preservatives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "sulfite_free"
+  ],
+  "nutrition": {
+    "calories": 90.0,
+    "fat": "0g",
+    "protein": "8g",
+    "carbs": "3g"
+  },
+  "serving_size": null,
+  "number_of_servings": 8.0,
+  "spoonacular_score": 100.0,
+  "breadcrumbs": [
+    "milk",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fat free milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ingredient not in regular milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lactase enzyme",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin a palmitate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vitamin d3",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vitamin a",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin d",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 5.0,
+  "ingredientList": "Fat Free Milk, Lactase Enzyme (Ingredient Not in Regular Milk), Vitamin A Palmitate and Vitamin D3. Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22365-312x231.jpg",
+    "https://spoonacular.com/productImages/22365-636x393.jpg",
+    "https://spoonacular.com/productImages/22365-90x90.jpg"
+  ]
+}

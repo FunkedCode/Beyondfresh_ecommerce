@@ -1,0 +1,170 @@
+{
+  "id": 22550,
+  "title": "Blue Diamond Natural Oven Roasted 8 Oz",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "wheat_free",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 160.0,
+    "fat": "13g",
+    "protein": "5g",
+    "carbs": "9g"
+  },
+  "serving_size": "1 Oz",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 82.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "Blue Diamond Natural Oven Roasted 8 Oz: This product is an amazing fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product contains no ingredients that some research suggests you should avoid. This product contains 160 calories, 13g grams of fat, 5g grams of protein, and 9g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 16 ingredients.",
+  "ingredients": [
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "maltodextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "may contain other tree nuts",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "badge",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bulking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "honey",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "search modifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "snack",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "other natural flavors",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nuts",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "natural honey flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sea salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "brown sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peanut free",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "almonds",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Almonds, Sugar, Brown Sugar, Corn Maltodextrin, Honey, Natural Honey Flavor With Other Natural Flavors and Sea Salt. Peanut Free. May Contain Other Tree Nuts",
+  "images": [
+    "https://spoonacular.com/productImages/22550-312x231.jpg",
+    "https://spoonacular.com/productImages/22550-636x393.jpg",
+    "https://spoonacular.com/productImages/22550-90x90.jpg"
+  ]
+}

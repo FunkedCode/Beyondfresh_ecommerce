@@ -1,0 +1,95 @@
+{
+  "id": 22421,
+  "title": "Sun-Maid Cape Cod Cranberries",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegetarian",
+    "vegan",
+    "wheat_free",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 130.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "33g"
+  },
+  "serving_size": "0.33 cup",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "cod",
+    "fish",
+    "animal product"
+  ],
+  "generatedText": "Sun-Maid Cape Cod Cranberries: This product is an outstanding fit if you are searching for a healthy codfish. One serving of this product provides 130 calories, 0g grams of fat, 0g grams of protein, and 33g grams of carbs. This product contains no ingredients that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 1 ingredient.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "berries",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cranberries",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Cranberries, Sugar",
+  "images": [
+    "https://spoonacular.com/productImages/22421-312x231.jpg",
+    "https://spoonacular.com/productImages/22421-636x393.jpg",
+    "https://spoonacular.com/productImages/22421-90x90.jpg"
+  ]
+}

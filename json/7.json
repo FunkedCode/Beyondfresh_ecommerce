@@ -1,0 +1,225 @@
+{
+  "id": 22357,
+  "title": "Betty Crocker Sprinkles",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "soy",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "soy",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 20.0,
+    "fat": "1g",
+    "protein": "0g",
+    "carbs": "3g"
+  },
+  "serving_size": "4 g",
+  "number_of_servings": 23.0,
+  "spoonacular_score": 75.0,
+  "breadcrumbs": [
+    "sprinkles",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some food product today? Betty Crocker Sprinkles is one option; let's take a closer look. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 23 ingredients. This product contains 1 ingredient that some research suggests you should avoid. This product contains 20 calories, 1g grams of fat, 0g grams of protein, and 3g grams of carbs per serving.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alkali",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "artificial food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "binding agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "blue 1 lake",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "carnauba wax",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cocoa processed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "confectioner's glaze",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "contains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cornstarch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cottonseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "glazing agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "partially hydrogenated vegetable oil",
+      "safety_level": "low",
+      "description": null
+    },
+    {
+      "name": "red 3",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "red 40 lake",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "soybean",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yellow 5 lake",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "yellow 6 lake",
+      "safety_level": "controversial",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, Partially Hydrogenated Vegetable Oil (Cottonseed, Soybean), Cornstarch, Cocoa Processed With Alkali, Dextrin, Carnauba Wax, Confectioner's Glaze, Soy Lecithin, Natural and Artificial Flavor, Red 40 Lake, Blue 1 Lake, Yellow 6 Lake, Yellow 5 Lake, Red 3. Contains: Soy",
+  "images": [
+    "https://spoonacular.com/productImages/22357-312x231.jpg",
+    "https://spoonacular.com/productImages/22357-636x393.jpg",
+    "https://spoonacular.com/productImages/22357-90x90.jpg"
+  ]
+}

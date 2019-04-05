@@ -1,0 +1,345 @@
+{
+  "id": 22491,
+  "title": "Big Horn Extreme Foods Buffalo Sausage",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "nut_free",
+    "soy",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "soy",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 190.0,
+    "fat": "13g",
+    "protein": "16g",
+    "carbs": "4g"
+  },
+  "serving_size": "1 link",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 61.0,
+  "breadcrumbs": [
+    "sausage",
+    "processed meat",
+    "meat",
+    "animal product"
+  ],
+  "generatedText": "Big Horn Extreme Foods Buffalo Sausage: This product is an awesome match if you are searching for a healthy buffalo. This product has 34 ingredients (in our experience: the fewer ingredients, the better!) This product contains 190 calories, 13g grams of fat, 16g grams of protein, and 4g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "animal product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bbq tomato puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "beef",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "brown ale",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buffalo",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chipotle chilies",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "curing agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dried",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified potato starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "molasses",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mustard powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "natural smoke flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "nitrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pork",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potato starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium benzoate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "sodium nitrite",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "soy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "soy protein concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybeans",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spice extracts",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stuffed into a natural pork casing",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato paste",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "tomato concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Buffalo, Beef, Pork, BBQ Sauce (Tomato Puree [Water, Tomato Paste], High Fructose Corn Syrup, Molasses, Vinegar, Modified Food Starch, Natural Smoke Flavor, Mustard Flour, Onions [Dried], Spice, Garlic [Dried]), Water, Salt, Sugar, Brown Ale, Soy Sauce (Water, Wheat, Soybeans, Salt, Sugar, Brown Ale, Soy Sauce (Water, Wheat, Soybeans, Salt, Sodium Benzoate), Spices and Spice Extracts, Soy Protein Concentrate, Modified Potato Starch, Chipotle Chilies, Mustard Powder, Garlic Powder, Onion Powder, Dextrose, Sodium Nitrite, Soy Lecithin. Stuffed into a Natural Pork Casing",
+  "images": [
+    "https://spoonacular.com/productImages/22491-312x231.jpg",
+    "https://spoonacular.com/productImages/22491-636x393.jpg",
+    "https://spoonacular.com/productImages/22491-90x90.jpg"
+  ]
+}

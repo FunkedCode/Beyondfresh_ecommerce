@@ -1,0 +1,383 @@
+{
+  "id": 22404,
+  "title": "Trail Mix Crunch Cereal",
+  "price": 569.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "vegetarian",
+    "pescetarian"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 190.0,
+    "fat": "4g",
+    "protein": "4g",
+    "carbs": "36g"
+  },
+  "serving_size": "0.5 cup (48 g)",
+  "number_of_servings": 10.0,
+  "spoonacular_score": 48.0,
+  "breadcrumbs": [
+    "cereal",
+    "breakfast"
+  ],
+  "generatedText": "In the mood for trail mix? You could try Trail Mix Crunch Cereal. This product has 44 ingredients (in our experience: the fewer ingredients, the better!) This product contains 190 calories, 4g grams of fat, 4g grams of protein, and 36g grams of carbs per serving. This product contains 1 ingredient that some research suggests could be harmful, including . The price of a product varies depending on the store, location, current sales, etc., but this product usually costs roughly $5.69. This amounts to $1 per serving.",
+  "ingredients": [
+    {
+      "name": "glycerin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cranberries",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "zinc oxide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "bran",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "snack",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural vanilla flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "from milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole grain",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "zinc",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "berries",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bht",
+      "safety_level": "medium",
+      "description": "It is hard to say whether BHT is safe, as different <a href=\"http://www.berkeleywellness.com/healthy-eating/food-safety/article/two-preservatives-avoid\">scientific studies</a> have had conflicting results. But since it is usually found in processed foods that you should probably avoid anyhow, it is easy to limit your BHT consumption."
+    },
+    {
+      "name": "whole grain wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin d",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "canola or sunflower oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried yeast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milk protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole grain rolled oats",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "malted barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oats",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nuts",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b12",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "reduced iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "almonds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whole grain wheat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b2",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "barley flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "grains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried cranberries",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "prune juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "source of zinc",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin a palmitate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "malted corn",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "brown sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "rice flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fig juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin a",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "barley syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "wheat bran",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high oleic vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Whole Grain Wheat Flour, Dried Cranberries (Cranberries, Sugar, Glycerin), Whole Grain Rolled Oats, Brown Sugar, Sugar, Whole Grain Wheat, High Oleic Vegetable Oil (Canola or Sunflower Oil), Malted Barley Flour, Wheat Bran, Rice Flour, Almonds, Rice, Corn Syrup, Salt, Whey (from Milk), Malted Corn and Barley Syrup, Natural Flavor, Natural Vanilla Flavor, Prune Juice Concentrate, Dried Yeast, Fig Juice Concentrate, Caramel Color, BHT Added to Packaging Material to Preserve Product Freshness. Vitamins and Minerals: Niacinamide, Reduced Iron, Zinc Oxide (Source of Zinc), Vitamin B6, Vitamin A Palmitate, Riboflavin (Vitamin B2), Thiamin Mononitrate (Vitamin B1), Vitamin B12, Folic Acid, Vitamin D",
+  "images": [
+    "https://spoonacular.com/productImages/22404-312x231.jpg",
+    "https://spoonacular.com/productImages/22404-636x393.jpg",
+    "https://spoonacular.com/productImages/22404-90x90.jpg"
+  ]
+}

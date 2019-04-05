@@ -1,0 +1,372 @@
+{
+  "id": 22460,
+  "title": "Hormel Homestyle Turkey & Tomato Sauce",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "nut_free",
+    "soy",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "soy"
+  ],
+  "nutrition": {
+    "calories": 190.0,
+    "fat": "5g",
+    "protein": "21g",
+    "carbs": "14g"
+  },
+  "serving_size": "5 Oz",
+  "number_of_servings": 3.5,
+  "spoonacular_score": 62.0,
+  "breadcrumbs": [
+    "tomato sauce",
+    "red sauce",
+    "sauce",
+    "ingredient"
+  ],
+  "generatedText": "In the mood for tomato? You could try Hormel Homestyle Turkey & Tomato Sauce. This product contains 1 ingredient that some research suggests you should avoid. One serving of this product provides 190 calories, 5g grams of fat, 21g grams of protein, and 14g grams of carbs. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 35 ingredients.",
+  "ingredients": [
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red sauce",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "chicken",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "seasoning",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "main dish",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "beef stock",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "animal product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor enhancer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "parley",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "from milk",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato tomato paste",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "distilled vinegar",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "cracker meal",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stock",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "textured vegetable protein",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed soy protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "tamarind",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "white flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turkey thighs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "meat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavor on maltodextrin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "poultry",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turkey breast",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bleached wheat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "whey protein concentrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "meatloaf",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed vegetable protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "flavoring",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated bell peppers",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "turkey",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato sauce",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hydrolyzed protein",
+      "safety_level": "medium",
+      "description": "People sensitive to the effects of MSG should avoid hydrolyzed proteins."
+    },
+    {
+      "name": "meat substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "turkey meatloaf",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tomato paste",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "worcestershire sauce solids",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy protein powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "molasses",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "soy protein concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sauce",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Turkey Meatloaf (Turkey Breast, Turkey Thigh Meat, Seasoning [Cracker Meal {Bleached Wheat Flour}, Beef Stock, Whey Protein Concentrate {from Milk}, Dextrose, Textured Vegetable Protein {Soy Protein Concentrate, Caramel Color}, Dehydrated Onion, Salt, Hydrolyzed Soy Protein, Dehydrated Bell Peppers, Caramel Color, Worcestershire Sauce Solids {Distilled Vinegar, Molasses, Corn Syrup, Salt, Caramel Color, Garlic Powder, Sugar, Spices, Tamarind, Natural Flavor On Maltodextrin}, Parley, Flavoring], Water, Tomato Sauce [Tomato Paste, Vinegar, Water, Seasoning {Sugar, Salt, Flavoring, Soy Lecithin}], Tomato Sauce (Tomato Paste, Vinegar, Water, Seasoning [Sugar, Salt, Flavoring, Soy Lecithin])",
+  "images": [
+    "https://spoonacular.com/productImages/22460-312x231.jpg",
+    "https://spoonacular.com/productImages/22460-636x393.jpg",
+    "https://spoonacular.com/productImages/22460-90x90.jpg"
+  ]
+}

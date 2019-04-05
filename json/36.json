@@ -1,0 +1,67 @@
+{
+  "id": 22386,
+  "title": "GG Crispbread",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "wheat_free"
+  ],
+  "nutrition": {
+    "calories": 16.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "3g"
+  },
+  "serving_size": "1 slice",
+  "number_of_servings": null,
+  "spoonacular_score": 96.0,
+  "breadcrumbs": [
+    "crispbread",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some crispbread today? GG Crispbread is one option; let's take a closer look. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 3 ingredients. One serving of this product provides 16 calories, 0g grams of fat, 1g grams of protein, and 3g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "unprocessed wheat bran",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rye flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt content 0.4%",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Unprocessed Wheat Bran, Rye Flour, Salt (Salt Content 0.4%)",
+  "images": [
+    "https://spoonacular.com/productImages/22386-312x231.jpg",
+    "https://spoonacular.com/productImages/22386-636x393.jpg",
+    "https://spoonacular.com/productImages/22386-90x90.jpg"
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "id": 22596,
+  "title": "CLIF Z Bar",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "soy",
+    "dairy_free",
+    "gluten_free",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "gluten_free",
+    "nut_free",
+    "peanut_free",
+    "vegan",
+    "soy"
+  ],
+  "nutrition": {
+    "calories": 130.0,
+    "fat": "4g",
+    "protein": "3g",
+    "carbs": "23g"
+  },
+  "serving_size": "1.0 bar (36 g)",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 63.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "Thinking about having some bar today? CLIF Z Bar is one option; let's take a closer look. One serving of this product provides 130 calories, 4g grams of fat, 3g grams of protein, and 23g grams of carbs. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 32 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "fig paste",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b2",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sunflower oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "seeds",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oat fiber",
+      "safety_level": "high",
+      "description": "Oat fiber is isolated fiber. Just be aware you don't get the nutrients associated with whole foods (in this case, with whole oats)."
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cane sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ferric orthophosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "a",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "rolled oats",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b9",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flaxseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "milled flaxseed",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybeans",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oats",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cinnamon",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b12",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dicalcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy butter",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "legumes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cocoa butter",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "soy white chocolate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "zinc oxide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "pyridoxine hydrochloride",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vitamin B3",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin B12",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "zinc",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "whole grain",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "yeast nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "beta carotene",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vanilla extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cocoa butter soy flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin a",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "ascorbic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "thiamine mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "cyanocobalamin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "niacinamide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "c",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fiber supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tapioca syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium carbonate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dried cane syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "grains",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "baking soda",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "brown rice syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oat flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "natural food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "white dried cane syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "unrefined sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b3",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Organic Rolled Oats, Organic Brown Rice Syrup, Organic Tapioca Syrup, Organic Oat Flour, Organic Fig Paste, Organic Soy White Chocolate (Organic Dried Cane Syrup, Organic Cocoa Butter Organic Soy Flour, Organic Soy Lecithin, Organic Vanilla Extract), Organic Soy Butter (Organic Soybeans, Organic Soybean Oil, Salt), Organic White Coating (Organic Dried Cane Syrup, Organic Cocoa Butter, Organic Soy Lecithin, Organic Vanilla Extract), Organic Oat Fiber, Organic Milled Flaxseed, Natural Flavors, Organic Sunflower Oil, Salt, Baking Soda, Organic Cinnamon, Vitamins & Minerals: Calcium Carbonate, Dicalcium Phosphate, Ascorbic Acid (Vit. C), Niacinamide (Vit. B3), Ferric Orthophosphate (Iron), Zinc Oxide, Cyanocobalamin (Vit. B12), Thiamine Mononitrate (Vit. B1), Pyridoxine Hydrochloride (Vit. B6), Riboflavin (Vit. B2), Folic Acid (Vit. B9), Beta Carotene (Vit. A)",
+  "images": [
+    "https://spoonacular.com/productImages/22596-312x231.jpg",
+    "https://spoonacular.com/productImages/22596-636x393.jpg",
+    "https://spoonacular.com/productImages/22596-90x90.jpg"
+  ]
+}

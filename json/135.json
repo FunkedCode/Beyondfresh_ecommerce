@@ -1,0 +1,289 @@
+{
+  "id": 22485,
+  "title": "Gerber Rice Single Grain Cereal",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "sulfite_free",
+    "nut_free",
+    "vegan",
+    "no_preservatives",
+    "msg_free",
+    "no_artificial_colors",
+    "sugar_free",
+    "vegetarian",
+    "no_artificial_flavors",
+    "no_artificial_ingredients",
+    "no_additives",
+    "corn_free",
+    "dairy_free"
+  ],
+  "important_badges": [
+    "no_additives",
+    "no_preservatives",
+    "no_artificial_flavors",
+    "no_artificial_colors",
+    "no_artificial_ingredients",
+    "sulfite_free"
+  ],
+  "nutrition": {
+    "calories": 60.0,
+    "fat": "0.5g",
+    "protein": "1g",
+    "carbs": "13g"
+  },
+  "serving_size": "0.25 cup (16 g)",
+  "number_of_servings": 14.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+    "cereal",
+    "breakfast"
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "supplement",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flour product",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking fat",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "zinc",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cooking oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thiamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin B3",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "antioxidant",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "non food item",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin B12",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gluten free flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "vitamin e",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "iron",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "lecithin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "riboflavin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "thiamin mononitrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vitamin b6",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "niacinamide",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "dicalcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "to preserve freshness",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soy lecithin",
+      "safety_level": "high",
+      "description": "Soy lecithin is <a href=\"http://farrp.unl.edu/resources/gi-fas/opinion-and-summaries/soy-lecithin\">not a concern</a> for most people allergic to soy."
+    },
+    {
+      "name": "pyridoxine hydrochloride",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "a b vitamin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "soybean oil",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin e",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vitamin b1",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "electrolytic iron",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "zinc sulfate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "rice flour",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cyanocobalamin",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "tri",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mixed tocopherols",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "folic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vitamin b12",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "alpha tocopheryl acetate",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": 22.0,
+  "ingredientList": "Rice Flour, Tri- and Dicalcium Phosphate, Soybean Oil, Soy Lecithin, Mixed Tocopherols (to Preserve Freshness), Electrolytic Iron, Zinc Sulfate, Alpha Tocopheryl Acetate (Vitamin E), Niacinamide (a B Vitamin), Pyridoxine Hydrochloride (Vitamin B6), Riboflavin (Vitamin B2), Thiamin Mononitrate (Vitamin B1), Folic Acid (a B Vitamin), Vitamin B12 (Cyanocobalamin)",
+  "images": [
+    "https://spoonacular.com/productImages/22485-312x231.jpg",
+    "https://spoonacular.com/productImages/22485-636x393.jpg",
+    "https://spoonacular.com/productImages/22485-90x90.jpg"
+  ]
+}

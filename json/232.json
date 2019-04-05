@@ -1,0 +1,201 @@
+{
+  "id": 22582,
+  "title": "Polar Premium Tom Collins Sparkling Citrus Mixer",
+  "price": 99.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "peanut_free",
+    "nut_free",
+    "vegan",
+    "soy_free",
+    "msg_free",
+    "no_artificial_colors",
+    "sugar_free",
+    "no_artificial_flavors",
+    "vegetarian",
+    "no_artificial_ingredients",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegetarian",
+    "vegan",
+    "dairy_free",
+    "sugar_free",
+    "soy_free"
+  ],
+  "nutrition": {
+    "calories": 90.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "22g"
+  },
+  "serving_size": "8 fl oz",
+  "number_of_servings": 4.0,
+  "spoonacular_score": 0.0,
+  "breadcrumbs": [
+
+  ],
+  "generatedText": null,
+  "ingredients": [
+    {
+      "name": "carbonated water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "potassium citrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "high fructose corn syrup",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "ester gum",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "brominated vegetable oil",
+      "safety_level": "low",
+      "description": "Brominated vegetable oil is common in sports drinks and sodas. There are concerns that it could be harmful, particularly because it has been shown to accumulate in the body. BVO is prohibited as a food additive in the European Union."
+    },
+    {
+      "name": "calcium disodium edta",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "potassium benzoate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lemon juice from concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial ingredient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "menu item type",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": 12.0,
+  "ingredientList": "Carbonated Water, High Fructose Corn Syrup, Concentrated Lemon Juice, Citric Acid, Potassium Benzoate (a Preservative), Modified Food Starch, Potassium Citrate, Natural Flavors, Ester Gum, Brominated Vegetable Oil",
+  "images": [
+    "https://spoonacular.com/productImages/22582-312x231.jpg",
+    "https://spoonacular.com/productImages/22582-636x393.jpg",
+    "https://spoonacular.com/productImages/22582-90x90.jpg"
+  ]
+}

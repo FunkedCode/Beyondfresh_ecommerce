@@ -1,0 +1,62 @@
+{
+  "id": 22556,
+  "title": "Handy Crab Meat",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "vegetarian",
+    "vegan",
+    "paleo",
+    "primal"
+  ],
+  "nutrition": {
+    "calories": 46.0,
+    "fat": "0g",
+    "protein": "11g",
+    "carbs": "0g"
+  },
+  "serving_size": "2.0 oz (57 g)",
+  "number_of_servings": null,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "crabmeat",
+    "crab",
+    "shellfish",
+    "fish",
+    "animal product"
+  ],
+  "generatedText": "Are you trying to decide on a crab meat? Here's some information to help you decide whether Handy Crab Meat is the right product for you. This product has 1 ingredient (in our experience: the fewer ingredients, the better!) This product contains 46 calories, 0g grams of fat, 11g grams of protein, and 0g grams of carbs per serving. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "crab meat from blue swimmer crab",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "contains sodium acid pyrophosphate to prevent the formation of struvite crystals",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Crab Meat from Blue Swimmer Crab. Contains Sodium Acid Pyrophosphate to Prevent the Formation of Struvite Crystals",
+  "images": [
+    "https://spoonacular.com/productImages/22556-312x231.jpg",
+    "https://spoonacular.com/productImages/22556-636x393.jpg",
+    "https://spoonacular.com/productImages/22556-90x90.jpg"
+  ]
+}

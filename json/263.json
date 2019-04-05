@@ -1,0 +1,98 @@
+{
+  "id": 22613,
+  "title": "Ready Pac Fruit Blend",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 70.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "17g"
+  },
+  "serving_size": "1 cup",
+  "number_of_servings": 2.0,
+  "spoonacular_score": 93.0,
+  "breadcrumbs": [
+    "fruit",
+    "flavor"
+  ],
+  "generatedText": "Thinking about having some fruit today? Ready Pac Fruit Blend is one choice; let's take a closer look. This product contains 70 calories, 0g grams of fat, 1g grams of protein, and 17g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 5 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "apples",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "calcium ascorbate added",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cantaloupe",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "grapes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "honeydew",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "melon",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pineapple",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "to maintain freshness",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "tropical fruit",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Cantaloupe, Pineapple, Honeydew, Grapes, Apples (Calcium Ascorbate Added [to Maintain Freshness and Color])",
+  "images": [
+    "https://spoonacular.com/productImages/22613-312x231.jpg",
+    "https://spoonacular.com/productImages/22613-636x393.jpg",
+    "https://spoonacular.com/productImages/22613-90x90.jpg"
+  ]
+}

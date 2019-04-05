@@ -1,0 +1,145 @@
+{
+  "id": 22604,
+  "title": "Ziyad Marshmallows",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "vegetarian",
+    "vegan",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 108.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "24g"
+  },
+  "serving_size": "0.66 cup (27 g)",
+  "number_of_servings": 9.0,
+  "spoonacular_score": 82.0,
+  "breadcrumbs": [
+    "marshmallows",
+    "ingredient"
+  ],
+  "generatedText": "Ziyad Marshmallows: This product is an excellent fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product has 16 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid. This product contains 108 calories, 0g grams of fat, 1g grams of protein, and 24g grams of carbs per serving.",
+  "ingredients": [
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "beef gelatin",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "corn starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dextrose",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "gelatin",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "halal certified",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vanilla",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Corn Syrup, Sugar, Water, Dextrose, Beef Gelatin (Halal Certified), Corn Starch, Artificial Flavor, Vanilla, and Potassium Sorbate",
+  "images": [
+    "https://spoonacular.com/productImages/22604-312x231.jpg",
+    "https://spoonacular.com/productImages/22604-636x393.jpg",
+    "https://spoonacular.com/productImages/22604-90x90.jpg"
+  ]
+}

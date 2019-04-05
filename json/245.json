@@ -1,0 +1,179 @@
+{
+  "id": 22595,
+  "title": "Bar-Tender's Instant Collins Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "nut_free",
+    "peanut_free",
+    "vegan",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 70.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "16g"
+  },
+  "serving_size": "1 pouch",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 78.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "Bar-Tender's Instant Collins Mix: This product is a super fit if you like to buy products that are vegetarian, vegan, and gluten-free. This product contains 1 ingredient that some research suggests you should avoid. This product has 20 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 70 calories, 0g grams of fat, 0g grams of protein, and 16g grams of carbs.",
+  "ingredients": [
+    {
+      "name": "prolongs freshness",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural lemon",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "bha",
+      "safety_level": "low",
+      "description": "Scientific research has led the U.S. Department of Health and Human Services to conclude that BHA can be \"reasonably anticipated to be a human carcinogen.\""
+    },
+    {
+      "name": "dried egg whites",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "controls acidity",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "prevents caking",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "anticaking agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "provides tartness",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "acidity regulator",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lemon juice dehydrated",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "phosphate",
+      "safety_level": "medium",
+      "description": "The Environmental Working Group recommends limiting consumption of phosphate-based additives until more research has been done on their health effects."
+    },
+    {
+      "name": "calcium phosphate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "sodium citrate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime flavors",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "corn syrup solids",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "buffering agent",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "lemon juice powder",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Sugar, Lemon Juice Powder (Lemon Juice Dehydrated with Corn Syrup Solids), Citric Acid (Provides Tartness), Sodium Citrate (Controls Acidity), Calcium Phosphate (Prevents Caking), Dried Egg Whites, Natural Lemon and Lime Flavors, BHA (Prolongs Freshness)",
+  "images": [
+    "https://spoonacular.com/productImages/22595-312x231.jpg",
+    "https://spoonacular.com/productImages/22595-636x393.jpg",
+    "https://spoonacular.com/productImages/22595-90x90.jpg"
+  ]
+}

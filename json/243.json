@@ -1,0 +1,226 @@
+{
+  "id": 22593,
+  "title": "Motherlode Provisions Bloody Mary Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "vegetarian",
+    "vegan",
+    "paleo",
+    "primal",
+    "grain_free",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 15.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "4g"
+  },
+  "serving_size": "2 fl oz",
+  "number_of_servings": 12.0,
+  "spoonacular_score": 73.0,
+  "breadcrumbs": [
+    "bloody mary mix",
+    "cocktail mix"
+  ],
+  "generatedText": "Are you trying to decide on a food product? Here's some information to help you decide whether Motherlode Provisions Bloody Mary Mix is the right product for you. One serving of this product provides 15 calories, 0g grams of fat, 1g grams of protein, and 4g grams of carbs. This product has 24 ingredients (in our experience: the fewer ingredients, the better!) This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "paprika",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "vine-ripened fresh tomatoes",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "molasses",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "distilled vinegar",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "hot aged red cayenne peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spicy pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dried onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "new mexico chile powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "tomato puree",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "toasted onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lemon juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated minced garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sea salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic powder",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "ancho chile pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion powder",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "carrot juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "jalapenos",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Water, Tomato Puree (Vine-Ripened Fresh Tomatoes, Salt, Citric Acid), Apple Cider Vinegar, Hot Sauce (Aged Red Cayenne Peppers, Distilled Vinegar, Salt, Garlic), Molasses, Carrot Juice Concentrate, Lemon Juice Concentrate, Lime Juice Concentrate, Toasted Onion, Jalapenos, Sea Salt, Dehydrated Minced Garlic, Spices (Ancho Chile Pepper, Paprika, New Mexico Chile Powder, Garlic Powder, Onion Powder, Salt). Gluten free",
+  "images": [
+    "https://spoonacular.com/productImages/22593-312x231.jpg",
+    "https://spoonacular.com/productImages/22593-636x393.jpg",
+    "https://spoonacular.com/productImages/22593-90x90.jpg"
+  ]
+}

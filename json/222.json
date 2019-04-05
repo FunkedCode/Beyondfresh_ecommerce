@@ -1,0 +1,215 @@
+{
+  "id": 22572,
+  "title": "Mateos Gourmet Bloody Mary Mix",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "vegetarian",
+    "vegan",
+    "dairy_free"
+  ],
+  "nutrition": {
+    "calories": 5.0,
+    "fat": "0g",
+    "protein": "1g",
+    "carbs": "4g"
+  },
+  "serving_size": "4.0 fl oz (115 g)",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 70.0,
+  "breadcrumbs": [
+    "bloody mary mix",
+    "cocktail mix"
+  ],
+  "generatedText": "In the mood for food product? You could try Mateos Gourmet Bloody Mary Mix. This product contains no ingredients that some research suggests you should avoid. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 25 ingredients. This product contains 5 calories, 0g grams of fat, 1g grams of protein, and 4g grams of carbs per serving.",
+  "ingredients": [
+    {
+      "name": "tomato juice from concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "smoke flavor",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "hot pepper red peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "worcestershire sauce concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink mix",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "xanthan gum",
+      "safety_level": "medium",
+      "description": "While it could cause gastrointestinal issues in sensitive individuals, xanthan gum seems to be safe in adults. Infants, however, should not be given products with xanthan gum, as there have been cases of infants dying after <a href=\"http://www.cspinet.org/reports/chemcuisine.htm#gums\">developing necrotizing enterocolitis</a>, potentially as a result of consuming a product made from xanthan gum. Xanthan gum can be made from different sources, so if you are allergic to corn, wheat, soy, or dairy, check with the manufacturer before consuming a product with xanthan gum."
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spicy pepper",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onion",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "concentrated juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "molasses",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "jalapeno peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "spices",
+      "safety_level": "high",
+      "description": "\"Spice\" can refer to any number of spices. If you are allergic to a spice, you will need to call the manufacturer to find out which spices are included. Things like wheat and sugar <a href=\"http://www.foodlabels.com/q&a.htm#2013_oct\">have to be listed separately</a>, so \"spice\" is safe for gluten free diets."
+    },
+    {
+      "name": "lemon juice from concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "dehydrated garlic",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "unrefined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "fruit juice concentrate",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Tomato Juice from Concentrate, Jalapeno Peppers, Lemon Juice from Concentrate, Hot Pepper Sauce (Red Peppers, Vinegar, Salt, Xanthan Gum), Salt, Spices, Worcestershire Sauce Concentrate (Water, Salt, Molasses, Vinegar, Spices, Garlic, Sugar, Smoke Flavor, Onion), Xanthan Gum, Dehydrated Garlic",
+  "images": [
+    "https://spoonacular.com/productImages/22572-312x231.jpg",
+    "https://spoonacular.com/productImages/22572-636x393.jpg",
+    "https://spoonacular.com/productImages/22572-90x90.jpg"
+  ]
+}

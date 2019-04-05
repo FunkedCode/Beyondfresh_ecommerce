@@ -1,0 +1,188 @@
+{
+  "id": 22591,
+  "title": "Modern Cocktail Berrytinis",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "vegetarian",
+    "nut_free",
+    "pescetarian",
+    "gluten_free"
+  ],
+  "important_badges": [
+
+  ],
+  "nutrition": {
+    "calories": 70.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "17g"
+  },
+  "serving_size": "1 bottle",
+  "number_of_servings": 1.0,
+  "spoonacular_score": 76.0,
+  "breadcrumbs": [
+    "cocktail",
+    "alcoholic drink",
+    "drink",
+    "ingredient"
+  ],
+  "generatedText": "Modern Cocktail Berrytinis: This product is a tremendous match if you are searching for a healthy cocktail. This product contains 1 ingredient that some research suggests you should avoid. This product contains 70 calories, 0g grams of fat, 0g grams of protein, and 17g grams of carbs per serving. This product has 22 ingredients (in our experience: the fewer ingredients, the better!)",
+  "ingredients": [
+    {
+      "name": "blueberry mixer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar crystals",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "raspberry mixer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "pomegranate mixer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cranberry mixer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "strawberry mixer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "blue 1",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "artificial flavor",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "added sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sodium benzoate",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "artificial food coloring",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "potassium sorbate",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "refined sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sugar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "starch",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "caramel",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "red 40",
+      "safety_level": "controversial",
+      "description": null
+    },
+    {
+      "name": "natural flavor",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "food color",
+      "safety_level": "controversial",
+      "description": "Color additives are tricky - both colors that we might perceive as natural (e.g. fruit juice and turmeric) and artificial colors (e.g. Red 3) might turn up on a food label under \"artifical color\" or \"color added.\" This makes it difficult to know how safe these colorings are, since you do not know exactly what you are consuming. The FDA is wise not to make a distinction, however, because the process of extracting natural colors is <i>far</i> from natural and these substances are not necessarily safer!"
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "modified food starch",
+      "safety_level": "high",
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Strawberry Mixer: Water, Sugar, Artificial Flavor, Citric Acid, Sodium Benzoate, Potassium Sorbate, Caramel Color, Modified Food Starch, Red 40. Blueberry Mixer: Water, Sugar, Natural and Artificial Flavor, Citric Acid, Sodium Benzoate, Potassium Sorbate, Blue 1, Red 40. Cranberry Mixer: Water, Sugar, Natural Flavor, Citric Acid, Sodium Benzoate, Potassium Sorbate, Red 40. Pomegranate Mixer: Water, Sugar, Natural and Artificial Flavor, Citric Acid, Sodium Benzoate, Potassium Sorbate, Red 40, Blue 1. Raspberry Mixer: Water, Sugar, Natural Flavor, Citric Acid, Sodium Benzoate, Potassium Sorbate, Caramel Color, Red 40. Sugar Crystals: Sugar, Red 40",
+  "images": [
+    "https://spoonacular.com/productImages/22591-312x231.jpg",
+    "https://spoonacular.com/productImages/22591-636x393.jpg",
+    "https://spoonacular.com/productImages/22591-90x90.jpg"
+  ]
+}

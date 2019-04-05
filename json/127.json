@@ -1,0 +1,57 @@
+{
+  "id": 22477,
+  "title": "Village Harvest Rice",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "peanut_free",
+    "primal",
+    "nut_free",
+    "vegan",
+    "grain_free",
+    "vegetarian",
+    "pescetarian",
+    "dairy_free",
+    "paleo",
+    "gluten_free",
+    "organic"
+  ],
+  "important_badges": [
+    "organic",
+    "vegan",
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 180.0,
+    "fat": "0.5g",
+    "protein": "4g",
+    "carbs": "40g"
+  },
+  "serving_size": "1/4 Cup Dry",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 99.0,
+  "breadcrumbs": [
+    "rice",
+    "grains",
+    "ingredient"
+  ],
+  "generatedText": "Village Harvest Rice: This product is an awesome fit if you like to buy products that are free of preservatives, vegetarian, vegan, and gluten-free. This product contains no ingredients that some research suggests you should avoid. One serving of this product provides 180 calories, 0.5g grams of fat, 4g grams of protein, and 40g grams of carbs. This product has 1 ingredient (in our experience: the fewer ingredients, the better!)",
+  "ingredients": [
+    {
+      "name": "long grain basmati rice",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Organic Long Grain Basmati Rice",
+  "images": [
+    "https://spoonacular.com/productImages/22477-312x231.jpg",
+    "https://spoonacular.com/productImages/22477-636x393.jpg",
+    "https://spoonacular.com/productImages/22477-90x90.jpg"
+  ]
+}

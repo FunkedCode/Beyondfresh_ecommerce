@@ -1,0 +1,119 @@
+{
+  "id": 22545,
+  "title": "Don Tono Relish",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "gluten_free",
+    "dairy_free",
+    "paleo"
+  ],
+  "important_badges": [
+    "paleo",
+    "primal",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 5.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "1g"
+  },
+  "serving_size": "1 Tbsp",
+  "number_of_servings": 60.0,
+  "spoonacular_score": 90.0,
+  "breadcrumbs": [
+    "relish",
+    "condiment",
+    "ingredient"
+  ],
+  "generatedText": "Thinking about having some relish today? Don Tono Relish is one choice; let's take a closer look. This product has 9 ingredients (in our experience: the fewer ingredients, the better!) One serving of this product provides 5 calories, 0g grams of fat, 0g grams of protein, and 1g grams of carbs. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "salt",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "onions",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "oregano",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vegetable",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "vinegar",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "mineral",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "coriander",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "herbs",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweet peppers",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "garlic",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Water, Peppers, Onions, Coriander, Salt, Sweet Peppers, Garlic, Vinegar, Oregano and Citric Acid",
+  "images": [
+    "https://spoonacular.com/productImages/22545-312x231.jpg",
+    "https://spoonacular.com/productImages/22545-636x393.jpg",
+    "https://spoonacular.com/productImages/22545-90x90.jpg"
+  ]
+}

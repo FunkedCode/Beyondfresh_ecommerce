@@ -1,0 +1,186 @@
+{
+  "id": 22584,
+  "title": "Barbada's Cosmo Mixer",
+  "price": 0.0,
+  "likes": 0.0,
+  "badges": [
+    "egg_free",
+    "wheat_free",
+    "grain_free",
+    "peanut_free",
+    "primal",
+    "vegetarian",
+    "nut_free",
+    "vegan",
+    "pescetarian",
+    "dairy_free",
+    "paleo",
+    "gluten_free"
+  ],
+  "important_badges": [
+    "gluten_free",
+    "vegan",
+    "paleo",
+    "primal",
+    "wheat_free",
+    "grain_free"
+  ],
+  "nutrition": {
+    "calories": 0.0,
+    "fat": "0g",
+    "protein": "0g",
+    "carbs": "0g"
+  },
+  "serving_size": "3 fl oz",
+  "number_of_servings": 8.0,
+  "spoonacular_score": 74.0,
+  "breadcrumbs": [
+    "product",
+    "ner taggable"
+  ],
+  "generatedText": "Barbada's Cosmo Mixer: This product is an outstanding match if you are searching for a healthy food product. This product contains 0 calories, 0g grams of fat, 0g grams of protein, and 0g grams of carbs per serving. We recommend choosing products with short ingredient lists, as these tend to be less processed. This product has 24 ingredients. This product contains no ingredients that some research suggests you should avoid.",
+  "ingredients": [
+    {
+      "name": "purple carrot juice",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cranberry extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lime juice conc",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "non-dairy",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "cellulose gum",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "thickener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "erythritol",
+      "safety_level": "medium",
+      "description": null
+    },
+    {
+      "name": "stabilizer",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "lactic acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "sugar substitute",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sugar alcohol",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "low calorie sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "citric acid",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "orange extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "filtered water",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "additive",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "stevia",
+      "safety_level": "high",
+      "description": null
+    },
+    {
+      "name": "extract",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "emulsifier",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "no calorie sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "natural flavors",
+      "safety_level": "medium",
+      "description": "The term \"natural flavors\" can hide a lot of <a href=\"http://www.cspinet.org/reports/chemcuisine.htmpotentially\"> gross sources of flavor</a>, such as the notorious castoreum from the anal sacs of beavers. Of course, this does not mean these flavorings are harmful, but since you cannot really be sure of what you are getting, it is wise to be cautious."
+    },
+    {
+      "name": "food gum",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "sweetener",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "nutrient",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "drink",
+      "safety_level": null,
+      "description": null
+    },
+    {
+      "name": "preservative",
+      "safety_level": null,
+      "description": null
+    }
+  ],
+  "ingredientCount": null,
+  "ingredientList": "Filtered Water, Lime Juice Conc., Cranberry Extract, Orange Extract, Natural Flavors, Erythritol, Stevia, Purple Carrot Juice (Color), Citric Acid, Cellulose Gum, Lactic Acid (Non-Dairy)",
+  "images": [
+    "https://spoonacular.com/productImages/22584-312x231.jpg",
+    "https://spoonacular.com/productImages/22584-636x393.jpg",
+    "https://spoonacular.com/productImages/22584-90x90.jpg"
+  ]
+}
