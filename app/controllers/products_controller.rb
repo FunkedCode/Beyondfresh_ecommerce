@@ -6,7 +6,8 @@ class ProductsController < ApplicationController
   # GET /products
   # GET /products.json
   def index
-    @products = if params[:search].to_s != '' && params[:category_search].to_s != ''
+    category_search = params[:search].to_s != '' && params[:category_search].to_s != ''
+    @products = if category_search
                   Product.joins(:categories)
                          .where('lower(title) LIKE ? and categories.id = ?', "%#{params[:search]}%".downcase, params[:category_search])
                          .distinct.page params[:page]

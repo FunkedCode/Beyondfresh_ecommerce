@@ -19,7 +19,10 @@ Documentation:
   Enabled: false
 
 Metrics/LineLength:
-  Max: 150
+  Max: 160
+
+Metrics/MethodLength:
+  Max: 40
 
 Rails/HasAndBelongsToMany:
   Enabled: false

@@ -22,7 +22,7 @@ Dir.foreach('json') do |json_file|
 
     product_json = JSON.parse(File.read("json/#{json_file}"))
 
-    price = product_json['price'] == 0.0 ? 1.0 : product_json['price']
+    product_json['price'] == 0.0 ? 1.0 : product_json['price']
 
     file_found = true
     begin
@@ -32,7 +32,7 @@ Dir.foreach('json') do |json_file|
     end
 
     new_product = Product.new(title: product_json['title'],
-                              price: Faker::Commerce.price(range = 0..12.0),
+                              price: Faker::Commerce.price(0..12.0),
                               description: product_json['generatedText'],
                               serving_size: product_json['serving_size'],
                               ingredient_list: product_json['ingredientList'],
