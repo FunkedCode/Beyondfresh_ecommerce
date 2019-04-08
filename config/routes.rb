@@ -23,4 +23,8 @@ Rails.application.routes.draw do
   devise_for :customers
 
   resources :charges
+
+  resources :pages, path: '' do
+    resources :page
+  end
 end
