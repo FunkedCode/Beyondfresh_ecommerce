@@ -1,4 +1,10 @@
+
 <div class="columns">
+    <div class="column">
+    <% if @page.image.attached? %>
+        <%= image_tag @page.image.attachment, alt: 'product image' %>
+    <% end %>
+    </div>
     <div class="column">
         <div class="content has-text-centered">
             <h3><%= @page.header%></h3>
