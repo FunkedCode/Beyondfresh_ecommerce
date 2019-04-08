@@ -4,6 +4,7 @@ class ChargesController < ApplicationController
   def new; end
 
   def create
+    message = 'Order placed'
     complete_order
 
     customer = Stripe::Customer.create(
@@ -18,8 +19,10 @@ class ChargesController < ApplicationController
       currency: 'usd'
     )
   rescue Stripe::CardError => e
-    flash[:error] = e.message
-    redirect_to new_charge_path
+    message = e.message
+  ensure
+    flash[:error] = message
+    redirect_to cart_path
   end
 
   private

@@ -6,18 +6,7 @@ class ProductsController < ApplicationController
   # GET /products
   # GET /products.json
   def index
-    category_search = params[:search].to_s != '' && params[:category_search].to_s != ''
-    @products = if category_search
-                  Product.joins(:categories)
-                         .where('lower(title) LIKE ? and categories.id = ?', "%#{params[:search]}%".downcase, params[:category_search])
-                         .distinct.page params[:page]
-                elsif params[:search].to_s != ''
-                  Product.joins(:categories)
-                         .where('lower(title) LIKE ?', "%#{params[:search]}%".downcase)
-                         .distinct.page params[:page]
-                else
-                  Product.all.page params[:page]
-                end
+    @products = find_products
     @order_product = current_order.order_products.new
   end
 
@@ -76,6 +65,21 @@ class ProductsController < ApplicationController
   end
 
   private
+
+  def find_products
+    category_search = params[:search].to_s != '' && params[:category_search].to_s != ''
+    if category_search
+      Product.joins(:categories)
+             .where('lower(title) LIKE ? and categories.id = ?', "%#{params[:search]}%".downcase, params[:category_search])
+             .distinct.page params[:page]
+    elsif params[:search].to_s != ''
+      Product.joins(:categories)
+             .where('lower(title) LIKE ?', "%#{params[:search]}%".downcase)
+             .distinct.page params[:page]
+    else
+      Product.all.page params[:page]
+    end
+  end
 
   # Use callbacks to share common setup or constraints between actions.
   def set_product
