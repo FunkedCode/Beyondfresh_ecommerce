@@ -1,5 +1,6 @@
-<%= link_to product do %>
+
             <div class="card">
+            <%= link_to product do %>
                 <div class="card-image">
                     <figure class="image is-636x393">
                         <% if product.image.attached? %>
@@ -9,8 +10,11 @@
                         <% end%>
                     </figure>
                  </div>
+            <%end%>
                  <div class="card-content">
+                    <%= link_to product do %>
                     <h3><%= product.title%></h3>
+                    <% end %>
                     <strong>$<%= product.price%></strong>
                     <br>
                     <% product.categories.order('is_main_category DESC').each do |category| %>
@@ -27,4 +31,3 @@
                     </footer>
                 <% end %>
             </div>
-<%end%>

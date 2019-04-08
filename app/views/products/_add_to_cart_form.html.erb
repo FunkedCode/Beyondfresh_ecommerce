@@ -1,6 +1,7 @@
 
 <div class="box">
-    <%= form_for order_product, remote: true do |f| %>
+<% prefix = product.id %>
+    <%= form_for order_product, namespace: prefix , remote: true do |f| %>
         <div class="field is-horizontal">
             <label class="label">Quantity: </label>
             <div class="control">

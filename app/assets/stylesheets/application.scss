@@ -16,18 +16,25 @@
  @import "bulma";
  @import 'bulma-extensions';
 
+ html, body {
+   width: 100%;
+   height: 100%;
+}
 
+article {
+   min-height: 100%;
+   display: grid;
+   grid-template-rows: auto 1fr auto;
+   grid-template-columns: 100%;
+}
  .card {
     display: flex;
     flex-direction: column;
     height: 100%;
  }
 
- .card-image{
-    margin-top: auto;
- }
- .card-content{
-     margin-top: auto;
+ .card-footer{
+   margin-top: auto;
  }
 
  .navbar-brand{
