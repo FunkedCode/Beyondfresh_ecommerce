@@ -35,8 +35,7 @@ Dir.foreach('json') do |json_file|
                               price: Faker::Commerce.price(0..12.0),
                               description: product_json['generatedText'],
                               serving_size: product_json['serving_size'],
-                              ingredient_list: product_json['ingredientList'],
-                              image: file)
+                              ingredient_list: product_json['ingredientList'])
 
     if file_found
       new_product.image.attach(io: file, filename: "temp.#{file.content_type_parse.first.split('/').last}", content_type: file.content_type_parse.first)

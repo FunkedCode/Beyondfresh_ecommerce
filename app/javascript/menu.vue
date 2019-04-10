@@ -1,7 +1,7 @@
 
 
 <template>
-  <div id="menu">
+  <!-- <div id="menu">
     <nav
       class="navbar secondary-menu"
       role="navigation"
@@ -58,7 +58,7 @@
         </div>
       </div>
     </nav>
-  </div>
+  </div>-->
 </template>
 <script>
 import Api from "api.js";

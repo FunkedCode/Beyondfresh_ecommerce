@@ -9,7 +9,7 @@
     <div class="navbar-start">
         <div class="navbar-item search-bar-width">
           <%= form_tag(products_path,method: :get, class: "search-bar-width") do %>
-            <div class="field is-horizontal search-bar-width">
+            <div class="field is-horizontal search-bar-width has-addons">
               <div class="control">
               <div class="select is-medium">
                 <%= select_tag :category_search, options_from_collection_for_select(Category.where(is_main_category: true), "id", "name"),prompt: "All", class: "is-medium"%>
@@ -31,4 +31,56 @@
       <%= render 'layouts/cart_progress' %>
     </div>
   </div>
+</nav>
+    <nav
+      class="navbar secondary-menu"
+    >
+      <div
+        class="navbar-burger burger"
+        role="button"
+        aria-label="menu"
+        aria-expanded="false"
+        data-target="navbar"
+      >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </div>
+
+      <div
+        id="navbar"
+        class="navbar-menu"
+      >
+        <div class="navbar-start">
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link margin-medium'">Products</a>
+            <div class="navbar-dropdown">
+              <% Category.where(is_main_category: true).each do |category| %>
+                <%= link_to category.name, category, class: "navbar-item is-hoverable" %>
+              <% end %>
+            </div>
+          </div>
+        </div>
+        <div class="navbar-end">
+          <div class="navbar-item">
+            <div class="buttons">
+            <% if current_customer.nil? %>
+              <a
+                class="button is-primary"
+                href="/sign_up"
+              >
+              <strong>Sign up</strong>
+              </a>
+              <a
+                class="button is-light"
+                href="/sign_in"
+              >Log in</a>
+            <% else %>
+              <%= link_to "#{current_customer.first_name}'s Corner",current_customer, class: "button is-primary" %>
+              <%= link_to "Sign Out", destroy_customer_session_path, method: :delete, class: "button is-light" %>
+            <% end %>
+            </div>
+          </div>
+        </div>
+      </div>
 </nav>

@@ -8,7 +8,11 @@ class OrderProductsController < ApplicationController
       flash[:warning] = 'Please Login first.'
       redirect_back(fallback_location: root_path)
     else
-      @order = current_order
+      @order = if current_customer.orders.where(order_status_id: 1).count > 0
+                 current_customer.orders.where(order_status_id: 1).first
+               else
+                 current_order
+               end
       @order.customer_id = current_customer.id
     end
   end
