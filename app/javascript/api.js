@@ -14,14 +14,20 @@ const api = {
       .getAttribute("content")
   },
 
-  checkResponse: function(response, expectedStatus) {
+  checkResponse: function (response, expectedStatus) {
     if (response.status !== expectedStatus) {
       throw new HttpError(response);
     }
   },
+  getOrders: async function () {
+    const response = await fetch("http://localhost:3000/orders.json");
+    console.log(response);
 
-  getCategories: async function() {
-    const response = await fetch("http://localhost:3000/categories.json");
+    api.checkResponse(response, 200);
+    return response.json();
+  },
+  getProduct: async function (product_id) {
+    const response = await fetch("http://localhost:3000/products/" + product_id + ".json");
     console.log(response);
 
     api.checkResponse(response, 200);

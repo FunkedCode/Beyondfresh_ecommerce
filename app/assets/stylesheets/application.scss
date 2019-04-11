@@ -46,9 +46,10 @@ article {
    box-shadow:rgba(0, 0, 0, 0.117647) 0px 3px 0px;
  }
 
- .container{
+ .main-content{
     margin: 0 auto;
     margin-top: 20px;
+    min-height: 500px;
  }
 
  .footer-sub-content{

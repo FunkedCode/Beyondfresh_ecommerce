@@ -7,6 +7,13 @@ class OrdersController < ApplicationController
   # GET /orders.json
   def index
     @orders = OrderStatus.where(name: 'active').orders
+
+    unless current_customer.nil?
+      @json_orders = current_customer.orders
+      respond_to do |format|
+        format.json { render json: @json_orders, include: { order_products: { only: :product_id } } }
+      end
+    end
   end
 
   # GET /orders/1

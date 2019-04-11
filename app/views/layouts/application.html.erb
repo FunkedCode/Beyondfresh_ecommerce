@@ -12,13 +12,12 @@
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
 
     <%= javascript_pack_tag 'application' %>
-    <%= javascript_pack_tag 'menu.js'%>
+    <%= javascript_pack_tag 'order_window.js'%>
   </head>
 
   <body>
     <article>
       <%= render 'shared/function_menu' %>
-      <div id="menu"></div>
     <div class="container main-content">
       <% flash.each do |key, value| %>
         <div class="notification is-<%= key %>"><strong><%= value %></strong></div>
