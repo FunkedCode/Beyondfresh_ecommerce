@@ -11,7 +11,7 @@ class OrdersController < ApplicationController
     unless current_customer.nil?
       @json_orders = current_customer.orders
       respond_to do |format|
-        format.json { render json: @json_orders, include: { order_products: { only: :product_id } } }
+        format.json { render json: @json_orders, include: { order_products: { only: %i[product_id qty unit_price] } } }
       end
     end
   end

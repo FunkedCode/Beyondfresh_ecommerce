@@ -5,60 +5,53 @@
     <div class="tabs is-centered">
       <ul>
         <li
-          v-bind:class="{ 'is-active': tabselect == 'current' }"
-          @click="tabselect = 'current';"
+          v-bind:class="{ 'is-active': tabselect == 1 }"
+          @click="tabselect = 1;"
         >
           <a>Current Order</a>
         </li>
         <li
-          v-bind:class="{ 'is-active': tabselect == 'shipped' }"
-          @click="tabselect = 'shipped'"
+          v-bind:class="{ 'is-active': tabselect == 3 }"
+          @click="tabselect = 3"
         >
           <a>Shipped</a>
         </li>
         <li
-          v-bind:class="{ 'is-active': tabselect == 'placed' }"
-          @click="tabselect = 'placed'"
+          v-bind:class="{ 'is-active': tabselect == 2 }"
+          @click="tabselect = 2"
         >
           <a>Placed</a>
         </li>
         <li
-          v-bind:class="{ 'is-active': tabselect == 'cancelled' }"
-          @click="tabselect = 'cancelled'"
+          v-bind:class="{ 'is-active': tabselect == 4 }"
+          @click="tabselect = 4"
         >
           <a>Cancelled</a>
         </li>
       </ul>
     </div>
-    <div class="content">
-      <div v-show="tabselect == 'current'">
         <div
           class="card"
-          v-for="currentOrder in allOrders.filter(x => x.order_status_id === 1)"
+          v-for="currentOrder in allOrders.filter(x => x.order_status_id === tabselect)"
         >
           <div class="card-header">
             <strong>Order#{{currentOrder['id']}}</strong>
           </div>
           <div class="card-content">
-            <p
-              v-for="(product) in currentProducts.filter(x => x.key === currentOrder['id'])"
-            >{{product['value']['title']}}</p>
-          </div>
-        </div>
-      </div>
-      <div class="content">
-        <div v-show="tabselect == 'placed'">
-          <div
-            class="card"
-            v-for="placedOrder in allOrders.filter(x => x.order_status_id === 2)"
-          >
-            <div class="card-header">
-              <strong>Order#{{placedOrder['id']}}</strong>
-            </div>
-            <div class="card-content">
-              <p
-                v-for="(product) in placedProducts.filter(x => x.key === placedOrder['id'])"
-              >{{product['value']['title']}}</p>
+            <div class="columns">
+              <div class="column">
+                  <div class=""
+                    v-for="(product,index) in allProducts.filter(x => x.key === currentOrder['id'])"
+                  >
+                    <h4>{{product['value']['title']}}</h4>
+                    <small>Quantity: {{orderProducts.filter(y=> y.key === product['value']['id'])[0]['value']['qty']}}</small>
+                    <div class="is-divider"></div>
+                  </div>
+              </div>
+              <div class="column">
+                <p><strong>Subtotal:</strong> {{currentOrder['sub_total']}}</p>
+                <p><strong>Tax:</strong> {{currentOrder['tax']}}</p>
+              </div>
             </div>
           </div>
         </div>
@@ -73,10 +66,10 @@ import { async } from "q";
 export default {
   data: function() {
     return {
-      tabselect: "current",
+      tabselect: 1,
       allOrders: [],
-      currentProducts: [],
-      placedProducts: []
+      allProducts: [],
+      orderProducts: [],
     };
   },
   methods: {
@@ -84,10 +77,14 @@ export default {
       var products = [];
       for (let order of orders) {
         console.log(order["order_products"]);
-        for (let product of order["order_products"]) {
+        for (let orderProduct of order["order_products"]) {
           try {
-            product = await Api.getProduct(product["product_id"]);
-            products.push({
+            var product = await Api.getProduct(orderProduct["product_id"]);
+            this.orderProducts.push({
+              key: product["id"],
+              value: orderProduct
+            });
+            this.allProducts.push({
               key: order["id"],
               value: product
             });
@@ -96,20 +93,13 @@ export default {
           }
         }
       }
-
-      return products;
     }
   },
   created: async function() {
     try {
       this.allOrders = await Api.getOrders();
 
-      this.currentProducts = await this.getProducts(
-        this.allOrders.filter(x => x.order_status_id === 1)
-      );
-      this.placedProducts = await this.getProducts(
-        this.allOrders.filter(x => x.order_status_id === 2)
-      );
+      await this.getProducts(this.allOrders);
     } catch (httpError) {
       console.log(httpError);
     }

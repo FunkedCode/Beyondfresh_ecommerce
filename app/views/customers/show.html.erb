@@ -1,1 +1,14 @@
-<div id="order-window"></div>
+<div class="columns">
+    <div class="column">
+        <div id="order-window"></div>
+    </div>
+    <div class="column is-one-quarter">
+        <div class="box">
+            <div class="content">
+                <h3><%= @customer.first_name%> <%= @customer.last_name%></h3>
+                <p><strong>Address:</strong> <%= @customer.address%></p>
+                <p><strong>Email:</strong> <%= @customer.email%></p>
+            </div>
+        </div>
+    </div>
+</div>

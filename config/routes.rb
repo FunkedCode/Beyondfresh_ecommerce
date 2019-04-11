@@ -26,7 +26,6 @@ Rails.application.routes.draw do
 
   resources :charges
 
-  resources :pages, path: '' do
-    resources :page
-  end
+  resources :pages
+  get '/:name', to: 'pages#show'
 end
