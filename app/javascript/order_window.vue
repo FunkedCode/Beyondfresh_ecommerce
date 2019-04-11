@@ -43,14 +43,17 @@
                   <div class=""
                     v-for="(product,index) in allProducts.filter(x => x.key === currentOrder['id'])"
                   >
-                    <h4>{{product['value']['title']}}</h4>
+                    <a v-bind:href="'/products/' + product['value']['id']"><h4>{{product['value']['title']}}</h4></a>
                     <small>Quantity: {{orderProducts.filter(y=> y.key === product['value']['id'])[0]['value']['qty']}}</small>
+                    <small>Unit Price: {{orderProducts.filter(y=> y.key === product['value']['id'])[0]['value']['unit_price']}}</small>
                     <div class="is-divider"></div>
                   </div>
               </div>
               <div class="column">
                 <p><strong>Subtotal:</strong> {{currentOrder['sub_total']}}</p>
                 <p><strong>Tax:</strong> {{currentOrder['tax']}}</p>
+                <p><strong>Shipping:</strong> {{currentOrder['shipping']}}</p>
+                <p v-if="currentOrder['total'] != undefined"><strong>Total:</strong> {{currentOrder['total']}}</p>
               </div>
             </div>
           </div>
