@@ -3,6 +3,7 @@
 Rails.application.routes.draw do
   devise_for :admin_users, ActiveAdmin::Devise.config
   ActiveAdmin.routes(self)
+
   resources :orders
 
   resources :products
@@ -26,5 +27,5 @@ Rails.application.routes.draw do
 
   resources :charges
 
-  get '/:name', to: 'pages#show', as: 'name'
+  get '/:name', to: 'pages#show', as: 'page'
 end

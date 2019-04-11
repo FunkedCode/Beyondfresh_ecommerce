@@ -24,7 +24,7 @@
                 <div class="content">
                     <h3>More Information</h3>
                     <% Page.all.each do |page|%>
-                        <%= link_to page.page_name, page.page_name %>
+                        <%= link_to page.page_name, page_path(name: page.page_name) %>
                     <% end %>
                 </div>
             </div>

@@ -11,7 +11,9 @@ class CustomersController < ApplicationController
 
   # GET /customers/1
   # GET /customers/1.json
-  def show; end
+  def show
+    redirect_back fallback_location: root_path if current_customer.nil?
+  end
 
   # GET /customers/new
   def new
