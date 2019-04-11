@@ -20,14 +20,14 @@ const api = {
     }
   },
   getOrders: async function () {
-    const response = await fetch("http://localhost:3000/orders.json");
+    const response = await fetch("https://beyondfresh.herokuapp.com/orders.json");
     console.log(response);
 
     api.checkResponse(response, 200);
     return response.json();
   },
   getProduct: async function (product_id) {
-    const response = await fetch("http://localhost:3000/products/" + product_id + ".json");
+    const response = await fetch("https://beyondfresh.herokuapp.com/products/" + product_id + ".json");
     console.log(response);
 
     api.checkResponse(response, 200);
