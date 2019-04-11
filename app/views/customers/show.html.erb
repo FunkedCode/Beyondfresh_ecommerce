@@ -3,12 +3,14 @@
         <div id="order-window"></div>
     </div>
     <div class="column is-one-quarter">
+    <% unless current_customer.nil?%>
         <div class="box">
             <div class="content">
-                <h3><%= @customer.first_name%> <%= @customer.last_name%></h3>
-                <p><strong>Address:</strong> <%= @customer.address%></p>
-                <p><strong>Email:</strong> <%= @customer.email%></p>
+                <h3><%= current_customer.first_name%> <%= current_customer.last_name%></h3>
+                <p><strong>Address:</strong> <%= current_customer.address%></p>
+                <p><strong>Email:</strong> <%= current_customer.email%></p>
             </div>
         </div>
+     <% end %>
     </div>
 </div>
