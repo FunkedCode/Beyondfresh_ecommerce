@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Major school project that allowed me to learn various fullstack technologies to create an e-commerce site.
 
-Things you may want to cover:
+https://beyondfresh.herokuapp.com/ to see the live site.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+All data is fake and payment is in test mode, this is not a real shop. :)
